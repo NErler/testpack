@@ -14,7 +14,7 @@ test_that("inits work", {
 
 test_that("JAGS runs", {
   if (R.version$major <= 3 & R.version$minor < 6.0) {
-    set.seed(123)
+    suppressWarnings(set.seed(123))
   } else {
     suppressWarnings(set.seed(123, sample.kind = "Rounding"))
   }
@@ -37,3 +37,17 @@ test_that("JAGS runs", {
   expect_snapshot_output(mcmc)
 })
 
+
+
+library("ggplot2")
+
+p <- ggplot(mpg, aes(displ, cty)) + geom_point()
+p1 <- p + facet_grid(rows = vars(drv))
+
+test_that("ggplot works", {
+  expect_silent(p1)
+})
+
+test_that("ggpubr works", {
+  expect_silent(ggpubr::ggarrange(p1, p1))
+})

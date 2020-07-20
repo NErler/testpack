@@ -16,6 +16,8 @@ RoxygenNote: 7.1.1
 SystemRequirements: JAGS
 Imports: rjags
 Suggests: 
+    ggplot2,
+    ggpubr,
     testthat,
     covr
 URL: https://github.com/NErler/testpack
