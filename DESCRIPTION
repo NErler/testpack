@@ -18,3 +18,5 @@ Suggests:
     covr
 URL: https://github.com/NErler/testpack
 BugReports: https://github.com/NErler/testpack/issues
+Remotes: 
+    r-lib/testthat
