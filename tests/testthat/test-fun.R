@@ -13,7 +13,12 @@ test_that("inits work", {
 
 
 test_that("JAGS runs", {
-  set.seed(2020, sample.kind = "Rounding")
+  if (R.version$major <= 3 & R.version$minor < 6.0) {
+    suppressWarnings(set.seed(123, sample.kind = "Rounding"))
+  } else {
+    set.seed(123)
+  }
+
   dat <- list(y = rnorm(20), n = 20)
   inits <- get_inits(seed = 123, n.chains = 2)
   mod = "model{
@@ -26,7 +31,7 @@ test_that("JAGS runs", {
 
   adapt = rjags::jags.model(file = textConnection(mod), data = dat,
                             inits = inits, n.chains = 2,
-                            n.adapt = 50)
+                            n.adapt = 50, quiet = TRUE)
   mcmc <- rjags::coda.samples(adapt, n.iter = 10, variable.names = c('mu', 'tau'))
 
   expect_snapshot_output(mcmc)

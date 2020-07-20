@@ -6,8 +6,11 @@
 
 myfun <- function(n, seed = NULL) {
   if (!is.null(seed))
-    set.seed(seed, sample.kind = "Rounding")
-
+    if (R.version$major <= 3 & R.version$minor < 6.0) {
+      suppressWarnings(set.seed(seed, sample.kind = "Rounding"))
+    } else {
+      set.seed(seed)
+    }
   stats::rnorm(n)
 }
 
@@ -36,7 +39,12 @@ get_rng <- function(seed, n.chains) {
   #             generated
 
   if (!is.null(seed))
-    set.seed(seed, sample.kind = "Rounding")
+    if (R.version$major <= 3 & R.version$minor < 6.0) {
+      suppressWarnings(set.seed(seed, sample.kind = "Rounding"))
+    } else {
+      set.seed(seed)
+    }
+
   seeds <- sample.int(1e5, size = n.chains)
 
   # available random number generators
