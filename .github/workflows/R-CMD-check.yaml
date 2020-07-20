@@ -66,7 +66,10 @@ jobs:
 
       - name: Install JAGS macOS
         if: runner.os == 'macOS'
-        run: brew install jags
+        run: |
+          brew install gcc
+          brew link --overwrite gcc
+          brew install jags
 
       - name: Download JAGS Windows
         if: runner.os == 'Windows'

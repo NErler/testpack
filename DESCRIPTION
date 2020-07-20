@@ -14,8 +14,12 @@ LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
 SystemRequirements: JAGS
-Imports: rjags
+Imports: rjags, MASS, mcmcse, rlang, foreach, doParallel, survival, mathjaxr
 Suggests: 
+    knitr,
+    rmarkdown,
+    bookdown,
+    foreign,
     ggplot2,
     ggpubr,
     testthat,

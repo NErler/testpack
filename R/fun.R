@@ -7,7 +7,7 @@
 myfun <- function(n, seed = NULL) {
   if (!is.null(seed))
     if (R.version$major <= 3 & R.version$minor < 6.0) {
-      set.seed(seed)
+      suppressWarnings(set.seed(seed))
     } else {
       suppressWarnings(set.seed(seed, sample.kind = "Rounding"))
     }
@@ -40,7 +40,7 @@ get_rng <- function(seed, n.chains) {
 
   if (!is.null(seed))
     if (R.version$major <= 3 & R.version$minor < 6.0) {
-      set.seed(seed)
+      suppressWarnings(set.seed(seed))
     } else {
       suppressWarnings(set.seed(seed, sample.kind = "Rounding"))
     }
