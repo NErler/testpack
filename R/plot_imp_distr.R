@@ -26,11 +26,18 @@ plot_imp_distr <- function(data, imp = 'Imputation_', id = '.id',
                            rownr = '.rownr',
                            ncol = NULL, nrow = NULL, labeller = NULL) {
 
+
+
+
   if (!requireNamespace('ggplot2', quietly = TRUE))
-    errormsg("This function requires the package ggplot2 to be installed.")
+    msg("This function requires the package ggplot2 to be installed.")
 
   if (!requireNamespace('ggpubr', quietly = TRUE))
-    errormsg("This function requires the package ggpubr to be installed.")
+    msg("This function requires the package ggpubr to be installed.")
+
+  if (any(!c("ggpubr", "ggplot2") %in% installed.packages()[, "Package"])) {
+    return(NULL)
+  }
 
   subDF <- data[, (colSums(is.na(data[data[, imp] == 0, ])) > 0 &
                    colSums(is.na(data[data[, imp] != 0, ])) == 0) |
