@@ -64,12 +64,19 @@ jobs:
           sysreqs=$(Rscript -e "cat(sysreqs::sysreq_commands('DESCRIPTION'))")
           sudo -s eval "$sysreqs"
 
-      - name: Install JAGS macOS
-        if: runner.os == 'macOS'
+      - name: Install JAGS macOS release
+        if: runner.os == 'macOS' && ${{ matrix.config.r }} == 'release'
+        run: brew install jags
+
+
+      - name: Install JAGS macOS devel
+        if: runner.os == 'macOS' && ${{ matrix.config.r }} == 'devel'
         run: |
           brew install gcc
           brew link --overwrite gcc
           brew install jags
+
+
 
       - name: Download JAGS Windows
         if: runner.os == 'Windows'
@@ -97,7 +104,8 @@ jobs:
       - name: Check
         env:
           _R_CHECK_CRAN_INCOMING_: false
-        run: rcmdcheck::rcmdcheck(args = c("--no-manual", "--as-cran"), error_on = "warning", check_dir = "check")
+          _R_CHECK_FORCE_SUGGESTS_: false
+        run: rcmdcheck::rcmdcheck(args = c("--no-manual", "--as-cran"), error_on = "error", check_dir = "check")
         shell: Rscript {0}
 
       - name: Show testthat output

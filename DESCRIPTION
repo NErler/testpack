@@ -10,11 +10,13 @@ Authors@R:
 Description: What the package does (one paragraph).
 License: MIT + file LICENSE
 Encoding: UTF-8
+RdMacros: mathjaxr
+Language: en-UK
 LazyData: true
-Roxygen: list(markdown = TRUE)
+Roxygen: list(old_usage = TRUE)
 RoxygenNote: 7.1.1
 SystemRequirements: JAGS
-Imports: rjags, MASS, mcmcse, rlang, foreach, doParallel, survival, mathjaxr
+Imports: rjags, coda, MASS, mcmcse, rlang, foreach, doParallel, survival, mathjaxr
 Suggests: 
     knitr,
     rmarkdown,

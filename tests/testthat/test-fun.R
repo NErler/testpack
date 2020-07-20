@@ -48,6 +48,11 @@ test_that("ggplot works", {
   expect_silent(p1)
 })
 
+
 test_that("ggpubr works", {
-  expect_silent(ggpubr::ggarrange(p1, p1))
+  if ("ggpubr" %in% installed.packages()[, "Package"]) {
+    expect_silent(ggpubr::ggarrange(p1, p1))
+  } else {
+    expect_error(ggpubr::ggarrange(p1, p1))
+  }
 })
