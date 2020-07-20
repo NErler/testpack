@@ -65,12 +65,12 @@ jobs:
           sudo -s eval "$sysreqs"
 
       - name: Install JAGS macOS release
-        if: runner.os == 'macOS' && ${{ matrix.config.r }} == 'release'
+        if: matrix.os == 'macOS"-latest' && matrix.r == 'release'
         run: brew install jags
 
 
       - name: Install JAGS macOS devel
-        if: runner.os == 'macOS' && ${{ matrix.config.r }} == 'devel'
+        if: matrix.os == 'macOS-latest' && matrix.r == 'devel'
         run: |
           brew install gcc
           brew link --overwrite gcc
