@@ -65,15 +65,17 @@ jobs:
           sudo -s eval "$sysreqs"
 
       - name: Install JAGS macOS release
-        if: matrix.config.os == 'macOS"-latest' && matrix.config.r == 'release'
-        run: brew install jags
-
+        if: matrix.config.os == 'macOS-latest' && matrix.config.r == 'release'
+        run: |
+          rm '/usr/local/bin/gfortran'
+          brew install gcc
+          brew link --overwrite gcc
+          brew install jags
 
       - name: Install JAGS macOS devel
         if: matrix.config.os == 'macOS-latest' && matrix.config.r == 'devel'
         run: |
-          brew install gcc
-          brew link --overwrite gcc
+          rm '/usr/local/bin/gfortran'
           brew install jags
 
 
