@@ -7,9 +7,9 @@
 myfun <- function(n, seed = NULL) {
   if (!is.null(seed))
     if (R.version$major <= 3 & R.version$minor < 6.0) {
-      suppressWarnings(set.seed(seed, sample.kind = "Rounding"))
-    } else {
       set.seed(seed)
+    } else {
+      suppressWarnings(set.seed(seed, sample.kind = "Rounding"))
     }
   stats::rnorm(n)
 }
@@ -40,9 +40,9 @@ get_rng <- function(seed, n.chains) {
 
   if (!is.null(seed))
     if (R.version$major <= 3 & R.version$minor < 6.0) {
-      suppressWarnings(set.seed(seed, sample.kind = "Rounding"))
-    } else {
       set.seed(seed)
+    } else {
+      suppressWarnings(set.seed(seed, sample.kind = "Rounding"))
     }
 
   seeds <- sample.int(1e5, size = n.chains)

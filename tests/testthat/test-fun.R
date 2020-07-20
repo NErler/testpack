@@ -14,9 +14,9 @@ test_that("inits work", {
 
 test_that("JAGS runs", {
   if (R.version$major <= 3 & R.version$minor < 6.0) {
-    suppressWarnings(set.seed(123, sample.kind = "Rounding"))
-  } else {
     set.seed(123)
+  } else {
+    suppressWarnings(set.seed(123, sample.kind = "Rounding"))
   }
 
   dat <- list(y = rnorm(20), n = 20)
