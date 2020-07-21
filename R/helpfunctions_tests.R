@@ -71,15 +71,15 @@ compare_modeltype <- function(mod) {
     # compare models element
     if (type %in% c("glm", "glmm")) {
       list(
-        models_type = all.equal(testpack:::get_modeltype(m), type),
-        models_family = all.equal(testpack:::get_family(m), family$family),
-        models_link = all.equal(testpack:::get_link(m), family$link)
+        models_type = all.equal(get_modeltype(m), type),
+        models_family = all.equal(get_family(m), family$family),
+        models_link = all.equal(get_link(m), family$link)
       )
     } else {
       list(
-        models_type = !inherits(testpack:::get_modeltype(m), "try-error"),
-        models_family = !inherits(testpack:::get_family(m), "try-error"),
-        models_link = !inherits(testpack:::get_link(m), "try-error")
+        models_type = !inherits(get_modeltype(m), "try-error"),
+        models_family = !inherits(get_family(m), "try-error"),
+        models_link = !inherits(get_link(m), "try-error")
       )
     }
   )

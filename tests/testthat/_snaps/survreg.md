@@ -1,663 +1,558 @@
-# GRcrit and MCerror give same result
+# inits are the same
 
     $m0a
-    Potential scale reduction factors:
+    $m0a[[1]]
+    $m0a[[1]]$.RNG.name
+    [1] "base::Mersenne-Twister"
     
-                          Point est. Upper C.I.
-    (Intercept)                 2.32      11.10
-    shape_Srv_ftm_stts_cn       4.05       8.55
+    $m0a[[1]]$.RNG.seed
+    [1] 91372
+    
+    
+    $m0a[[2]]
+    $m0a[[2]]$.RNG.name
+    [1] "base::Marsaglia-Multicarry"
+    
+    $m0a[[2]]$.RNG.seed
+    [1] 31254
+    
+    
+    $m0a[[3]]
+    $m0a[[3]]$.RNG.name
+    [1] "base::Super-Duper"
+    
+    $m0a[[3]]$.RNG.seed
+    [1] 69953
+    
     
     
     $m1a
-    Potential scale reduction factors:
+    $m1a[[1]]
+    $m1a[[1]]$.RNG.name
+    [1] "base::Mersenne-Twister"
     
-                          Point est. Upper C.I.
-    (Intercept)                 8.71      22.63
-    age                         2.73       6.27
-    sexfemale                   2.99       5.84
-    shape_Srv_ftm_stts_cn       1.53       2.44
+    $m1a[[1]]$.RNG.seed
+    [1] 91372
+    
+    
+    $m1a[[2]]
+    $m1a[[2]]$.RNG.name
+    [1] "base::Marsaglia-Multicarry"
+    
+    $m1a[[2]]$.RNG.seed
+    [1] 31254
+    
+    
+    $m1a[[3]]
+    $m1a[[3]]$.RNG.name
+    [1] "base::Super-Duper"
+    
+    $m1a[[3]]$.RNG.seed
+    [1] 69953
+    
     
     
     $m1b
-    Potential scale reduction factors:
+    $m1b[[1]]
+    $m1b[[1]]$.RNG.name
+    [1] "base::Mersenne-Twister"
     
-                          Point est. Upper C.I.
-    (Intercept)                 8.71      22.63
-    age                         2.73       6.27
-    sexfemale                   2.99       5.84
-    shape_Srv_ftm_stts_cn       1.53       2.44
+    $m1b[[1]]$.RNG.seed
+    [1] 91372
+    
+    
+    $m1b[[2]]
+    $m1b[[2]]$.RNG.name
+    [1] "base::Marsaglia-Multicarry"
+    
+    $m1b[[2]]$.RNG.seed
+    [1] 31254
+    
+    
+    $m1b[[3]]
+    $m1b[[3]]$.RNG.name
+    [1] "base::Super-Duper"
+    
+    $m1b[[3]]$.RNG.seed
+    [1] 69953
+    
     
     
     $m2a
-    Potential scale reduction factors:
+    $m2a[[1]]
+    $m2a[[1]]$.RNG.name
+    [1] "base::Mersenne-Twister"
     
-                          Point est. Upper C.I.
-    (Intercept)                 1.55       2.47
-    copper                      1.71       2.97
-    shape_Srv_ftm_stts_cn       1.72       3.27
+    $m2a[[1]]$.RNG.seed
+    [1] 91372
+    
+    
+    $m2a[[2]]
+    $m2a[[2]]$.RNG.name
+    [1] "base::Marsaglia-Multicarry"
+    
+    $m2a[[2]]$.RNG.seed
+    [1] 31254
+    
+    
+    $m2a[[3]]
+    $m2a[[3]]$.RNG.name
+    [1] "base::Super-Duper"
+    
+    $m2a[[3]]$.RNG.seed
+    [1] 69953
+    
     
     
     $m3a
-    Potential scale reduction factors:
+    $m3a[[1]]
+    $m3a[[1]]$.RNG.name
+    [1] "base::Mersenne-Twister"
     
-                          Point est. Upper C.I.
-    (Intercept)                 2.78       5.41
-    copper                      8.82      23.68
-    sexfemale                   3.03       5.58
-    age                         1.18       1.83
-    abs(age - copper)           6.90      14.32
-    log(trig)                   1.14       1.84
-    shape_Srv_ftm_stts_cn       2.59       8.86
+    $m3a[[1]]$.RNG.seed
+    [1] 91372
+    
+    
+    $m3a[[2]]
+    $m3a[[2]]$.RNG.name
+    [1] "base::Marsaglia-Multicarry"
+    
+    $m3a[[2]]$.RNG.seed
+    [1] 31254
+    
+    
+    $m3a[[3]]
+    $m3a[[3]]$.RNG.name
+    [1] "base::Super-Duper"
+    
+    $m3a[[3]]$.RNG.seed
+    [1] 69953
+    
     
     
     $m3b
-    Potential scale reduction factors:
+    $m3b[[1]]
+    $m3b[[1]]$.RNG.name
+    [1] "base::Mersenne-Twister"
     
-                                  Point est. Upper C.I.
-    (Intercept)                         1.72       3.92
-    copper                              7.20      14.70
-    sexfemale                           1.54       2.47
-    age                                 1.44       3.41
-    abs(age - copper)                   6.88      17.77
-    log(trig)                           1.29       1.92
-    shape_Srv_ftm_stts_cn               1.38       2.12
-    D_Srv_ftm_stts_cn_center[1,1]       1.86       3.92
+    $m3b[[1]]$.RNG.seed
+    [1] 91372
     
     
-
----
-
-    $m0a
-                           est MCSE   SD MCSE/SD
-    (Intercept)           8.92 0.32 0.99    0.32
-    shape_Srv_ftm_stts_cn 0.93 0.17 0.26    0.64
+    $m3b[[2]]
+    $m3b[[2]]$.RNG.name
+    [1] "base::Marsaglia-Multicarry"
     
-    $m1a
-                             est   MCSE    SD MCSE/SD
-    (Intercept)            9.616 0.8453 1.571    0.54
-    age                   -0.055 0.0053 0.029    0.18
-    sexfemale              0.971 0.7895 1.422    0.56
-    shape_Srv_ftm_stts_cn  0.582 0.1013 0.555    0.18
+    $m3b[[2]]$.RNG.seed
+    [1] 31254
     
-    $m1b
-                             est   MCSE    SD MCSE/SD
-    (Intercept)            9.616 0.8453 1.571    0.54
-    age                   -0.055 0.0053 0.029    0.18
-    sexfemale              0.971 0.7895 1.422    0.56
-    shape_Srv_ftm_stts_cn  0.582 0.1013 0.555    0.18
     
-    $m2a
-                              est    MCSE     SD MCSE/SD
-    (Intercept)            8.7367 0.11431 0.6261    0.18
-    copper                -0.0078 0.00055 0.0017    0.32
-    shape_Srv_ftm_stts_cn  0.7949 0.11803 0.2588    0.46
+    $m3b[[3]]
+    $m3b[[3]]$.RNG.name
+    [1] "base::Super-Duper"
     
-    $m3a
-                              est   MCSE    SD MCSE/SD
-    (Intercept)            6.9217 0.7679 1.396   0.550
-    copper                -0.0053 0.0122 0.014   0.854
-    sexfemale              4.2978 1.3061 2.374   0.550
-    age                   -0.0081 0.0011 0.024   0.048
-    abs(age - copper)     -0.0015 0.0120 0.014   0.871
-    log(trig)              0.3262 0.1011 0.315   0.321
-    shape_Srv_ftm_stts_cn      NA     NA 0.206      NA
+    $m3b[[3]]$.RNG.seed
+    [1] 69953
     
-    $m3b
-                                      est   MCSE    SD MCSE/SD
-    (Intercept)                        NA     NA 0.651      NA
-    copper                        -0.0025 0.0115 0.021    0.54
-    sexfemale                      3.7800 0.3451 1.205    0.29
-    age                           -0.0343 0.0095 0.049    0.20
-    abs(age - copper)             -0.0069 0.0138 0.026    0.53
-    log(trig)                      0.0048 0.1947 0.381    0.51
-    shape_Srv_ftm_stts_cn          0.2856 0.0618 0.119    0.52
-    D_Srv_ftm_stts_cn_center[1,1]  2.0625 1.2909 2.106    0.61
+    
     
 
-# summary output remained the same
-
-    
-    Call:
-    survreg_imp(formula = Surv(futime, status != "censored") ~ 1, 
-        data = PBC2, n.adapt = 5, n.iter = 10, seed = 2020, warn = FALSE, 
-        mess = FALSE)
-    
-     Bayesian weibull survival model for "Surv(futime, status != "censored")" 
-    
-    
-    Coefficients:
-    (Intercept) 
-           8.92 
-    
-    Call:
-    survreg_imp(formula = Surv(futime, status != "censored") ~ age + 
-        sex, data = PBC2, n.adapt = 5, n.iter = 10, seed = 2020, 
-        warn = FALSE, mess = FALSE)
-    
-     Bayesian weibull survival model for "Surv(futime, status != "censored")" 
-    
-    
-    Coefficients:
-    (Intercept)         age   sexfemale 
-        9.61568    -0.05494     0.97102 
-    
-    Call:
-    survreg_imp(formula = Surv(futime, I(status != "censored")) ~ 
-        age + sex, data = PBC2, n.adapt = 5, n.iter = 10, seed = 2020, 
-        warn = FALSE, mess = FALSE)
-    
-     Bayesian weibull survival model for "Surv(futime, I(status != "censored"))" 
-    
-    
-    Coefficients:
-    (Intercept)         age   sexfemale 
-        9.61568    -0.05494     0.97102 
-    
-    Call:
-    survreg_imp(formula = Surv(futime, status != "censored") ~ copper, 
-        data = PBC2, n.adapt = 5, n.iter = 10, seed = 2020, warn = FALSE, 
-        mess = FALSE)
-    
-     Bayesian weibull survival model for "Surv(futime, status != "censored")" 
-    
-    
-    Coefficients:
-    (Intercept)      copper 
-       8.736723   -0.007793 
-    
-    Call:
-    survreg_imp(formula = Surv(futime, status != "censored") ~ copper + 
-        sex + age + abs(age - copper) + log(trig), data = PBC2, n.adapt = 5, 
-        n.iter = 10, trunc = list(trig = c(1e-04, NA)), seed = 2020, 
-        warn = FALSE, mess = FALSE)
-    
-     Bayesian weibull survival model for "Surv(futime, status != "censored")" 
-    
-    
-    Coefficients:
-          (Intercept)            copper         sexfemale               age 
-             6.921706         -0.005326          4.297754         -0.008066 
-    abs(age - copper)         log(trig) 
-            -0.001513          0.326235 
-    
-    Call:
-    survreg_imp(formula = Surv(futime, status != "censored") ~ copper + 
-        sex + age + abs(age - copper) + log(trig) + (1 | center), 
-        data = PBC2, n.adapt = 5, n.iter = 10, trunc = list(trig = c(1e-04, 
-            NA)), seed = 2020, warn = FALSE, mess = FALSE)
-    
-     Bayesian weibull survival model for "Surv(futime, status != "censored")" 
-    
-    
-    Coefficients:
-          (Intercept)            copper         sexfemale               age 
-             7.344525         -0.002483          3.779971         -0.034337 
-    abs(age - copper)         log(trig) 
-            -0.006899          0.004765 
-    $m0a
-    
-    Call:
-    survreg_imp(formula = Surv(futime, status != "censored") ~ 1, 
-        data = PBC2, n.adapt = 5, n.iter = 10, seed = 2020, warn = FALSE, 
-        mess = FALSE)
-    
-     Bayesian weibull survival model for "Surv(futime, status != "censored")" 
-    
-    
-    Coefficients:
-    (Intercept) 
-           8.92 
-    
-    $m1a
-    
-    Call:
-    survreg_imp(formula = Surv(futime, status != "censored") ~ age + 
-        sex, data = PBC2, n.adapt = 5, n.iter = 10, seed = 2020, 
-        warn = FALSE, mess = FALSE)
-    
-     Bayesian weibull survival model for "Surv(futime, status != "censored")" 
-    
-    
-    Coefficients:
-    (Intercept)         age   sexfemale 
-        9.61568    -0.05494     0.97102 
-    
-    $m1b
-    
-    Call:
-    survreg_imp(formula = Surv(futime, I(status != "censored")) ~ 
-        age + sex, data = PBC2, n.adapt = 5, n.iter = 10, seed = 2020, 
-        warn = FALSE, mess = FALSE)
-    
-     Bayesian weibull survival model for "Surv(futime, I(status != "censored"))" 
-    
-    
-    Coefficients:
-    (Intercept)         age   sexfemale 
-        9.61568    -0.05494     0.97102 
-    
-    $m2a
-    
-    Call:
-    survreg_imp(formula = Surv(futime, status != "censored") ~ copper, 
-        data = PBC2, n.adapt = 5, n.iter = 10, seed = 2020, warn = FALSE, 
-        mess = FALSE)
-    
-     Bayesian weibull survival model for "Surv(futime, status != "censored")" 
-    
-    
-    Coefficients:
-    (Intercept)      copper 
-       8.736723   -0.007793 
-    
-    $m3a
-    
-    Call:
-    survreg_imp(formula = Surv(futime, status != "censored") ~ copper + 
-        sex + age + abs(age - copper) + log(trig), data = PBC2, n.adapt = 5, 
-        n.iter = 10, trunc = list(trig = c(1e-04, NA)), seed = 2020, 
-        warn = FALSE, mess = FALSE)
-    
-     Bayesian weibull survival model for "Surv(futime, status != "censored")" 
-    
-    
-    Coefficients:
-          (Intercept)            copper         sexfemale               age 
-             6.921706         -0.005326          4.297754         -0.008066 
-    abs(age - copper)         log(trig) 
-            -0.001513          0.326235 
-    
-    $m3b
-    
-    Call:
-    survreg_imp(formula = Surv(futime, status != "censored") ~ copper + 
-        sex + age + abs(age - copper) + log(trig) + (1 | center), 
-        data = PBC2, n.adapt = 5, n.iter = 10, trunc = list(trig = c(1e-04, 
-            NA)), seed = 2020, warn = FALSE, mess = FALSE)
-    
-     Bayesian weibull survival model for "Surv(futime, status != "censored")" 
-    
-    
-    Coefficients:
-          (Intercept)            copper         sexfemale               age 
-             7.344525         -0.002483          3.779971         -0.034337 
-    abs(age - copper)         log(trig) 
-            -0.006899          0.004765 
-    
-
----
+# MCMC is the same
 
     $m0a
-    $m0a$`Surv(futime, status != "censored")`
-    (Intercept) 
-       8.920167 
-    
-    
-    $m1a
-    $m1a$`Surv(futime, status != "censored")`
-    (Intercept)         age   sexfemale 
-     9.61567776 -0.05493708  0.97102383 
-    
-    
-    $m1b
-    $m1b$`Surv(futime, I(status != "censored"))`
-    (Intercept)         age   sexfemale 
-     9.61567776 -0.05493708  0.97102383 
-    
-    
-    $m2a
-    $m2a$`Surv(futime, status != "censored")`
-     (Intercept)       copper 
-     8.736722638 -0.007793056 
-    
-    
-    $m3a
-    $m3a$`Surv(futime, status != "censored")`
-          (Intercept)            copper         sexfemale               age 
-          6.921706418      -0.005325644       4.297754205      -0.008065518 
-    abs(age - copper)         log(trig) 
-         -0.001512599       0.326235131 
-    
-    
-    $m3b
-    $m3b$`Surv(futime, status != "censored")`
-          (Intercept)            copper         sexfemale               age 
-          7.344524586      -0.002482514       3.779970588      -0.034336967 
-    abs(age - copper)         log(trig) 
-         -0.006898518       0.004764755 
-    
-    
-
----
-
-    $m0a
-    $m0a$`Surv(futime, status != "censored")`
-                    2.5%    97.5%
-    (Intercept) 8.191309 11.72205
-    
-    
-    $m1a
-    $m1a$`Surv(futime, status != "censored")`
-                      2.5%       97.5%
-    (Intercept)  8.0563136 13.89016833
-    age         -0.1186986 -0.01229382
-    sexfemale   -1.2807896  4.16901423
-    
-    
-    $m1b
-    $m1b$`Surv(futime, I(status != "censored"))`
-                      2.5%       97.5%
-    (Intercept)  8.0563136 13.89016833
-    age         -0.1186986 -0.01229382
-    sexfemale   -1.2807896  4.16901423
-    
-    
-    $m2a
-    $m2a$`Surv(futime, status != "censored")`
-                       2.5%        97.5%
-    (Intercept)  7.71204705  9.655883466
-    copper      -0.01086081 -0.004823294
-    
-    
-    $m3a
-    $m3a$`Surv(futime, status != "censored")`
-                             2.5%      97.5%
-    (Intercept)        4.32207013 9.35677718
-    copper            -0.02510163 0.01620712
-    sexfemale         -0.23532143 8.60849978
-    age               -0.05427373 0.03173331
-    abs(age - copper) -0.02297363 0.01850717
-    log(trig)         -0.25705076 0.96361285
-    
-    
-    $m3b
-    $m3b$`Surv(futime, status != "censored")`
-                             2.5%      97.5%
-    (Intercept)        6.45865995 8.52092785
-    copper            -0.04098652 0.02390099
-    sexfemale          2.12993733 6.33321114
-    age               -0.13617834 0.04799307
-    abs(age - copper) -0.03605017 0.03531677
-    log(trig)         -0.60099587 0.81400637
-    
-    
-
----
-
-    $m0a
-    
-    Bayesian weibull survival model fitted with testpack
-    
-    Call:
-    survreg_imp(formula = Surv(futime, status != "censored") ~ 1, 
-        data = PBC2, n.adapt = 5, n.iter = 10, seed = 2020, warn = FALSE, 
-        mess = FALSE)
-    
-    
-    Number of events: 169 
-    
-    Posterior summary:
-                Mean    SD 2.5% 97.5% tail-prob. GR-crit MCE/SD
-    (Intercept) 8.92 0.994 8.19  11.7          0    6.52  0.317
-    
-    Posterior summary of the shape of the Weibull distribution:
-                           Mean    SD  2.5% 97.5% GR-crit MCE/SD
-    shape_Srv_ftm_stts_cn 0.927 0.261 0.505  1.37    4.03   0.64
-    
-    
-    MCMC settings:
-    Iterations = 6:15
-    Sample size per chain = 10 
+    [[1]]
+    Markov Chain Monte Carlo (MCMC) output:
+    Start = 6 
+    End = 15 
     Thinning interval = 1 
-    Number of chains = 3 
+              beta shape_Srv_ftm_stts_cn
+     [1,] 8.422108              1.386005
+     [2,] 8.300704              1.182971
+     [3,] 8.328179              1.202234
+     [4,] 8.312312              1.147682
+     [5,] 8.297724              1.145325
+     [6,] 8.362667              1.144605
+     [7,] 8.413141              1.110797
+     [8,] 8.197159              1.054733
+     [9,] 8.307967              1.194644
+    [10,] 8.175888              1.219278
     
-    Number of observations: 312 
+    [[2]]
+    Markov Chain Monte Carlo (MCMC) output:
+    Start = 6 
+    End = 15 
+    Thinning interval = 1 
+               beta shape_Srv_ftm_stts_cn
+     [1,] 12.451890             1.3603405
+     [2,] 11.445219             0.9040434
+     [3,] 10.405359             0.7692734
+     [4,] 10.090229             0.5400449
+     [5,]  9.516214             0.4881413
+     [6,]  8.895380             0.5119605
+     [7,]  8.854196             0.6939404
+     [8,]  8.890306             0.6933669
+     [9,]  8.812948             0.7204917
+    [10,]  8.617087             0.7330348
+    
+    [[3]]
+    Markov Chain Monte Carlo (MCMC) output:
+    Start = 6 
+    End = 15 
+    Thinning interval = 1 
+              beta shape_Srv_ftm_stts_cn
+     [1,] 9.382046             0.6091134
+     [2,] 9.231938             0.6362425
+     [3,] 8.879696             0.6631831
+     [4,] 8.461990             0.7431579
+     [5,] 8.425924             0.9636381
+     [6,] 8.474686             0.9501345
+     [7,] 8.488083             0.9029983
+     [8,] 8.374456             0.9467814
+     [9,] 8.401596             1.1300726
+    [10,] 8.387929             1.0556427
+    
+    attr(,"class")
+    [1] "mcmc.list"
     
     $m1a
-    
-    Bayesian weibull survival model fitted with testpack
-    
-    Call:
-    survreg_imp(formula = Surv(futime, status != "censored") ~ age + 
-        sex, data = PBC2, n.adapt = 5, n.iter = 10, seed = 2020, 
-        warn = FALSE, mess = FALSE)
-    
-    
-    Number of events: 169 
-    
-    Posterior summary:
-                   Mean     SD   2.5%   97.5% tail-prob. GR-crit MCE/SD
-    (Intercept)  9.6157 1.5707  8.056 13.8902      0.000    9.59  0.538
-    age         -0.0549 0.0288 -0.119 -0.0123      0.000    4.12  0.183
-    sexfemale    0.9710 1.4224 -1.281  4.1690      0.333    4.14  0.555
-    
-    Posterior summary of the shape of the Weibull distribution:
-                           Mean    SD  2.5% 97.5% GR-crit MCE/SD
-    shape_Srv_ftm_stts_cn 0.582 0.555 0.298  1.49    2.82  0.183
-    
-    
-    MCMC settings:
-    Iterations = 6:15
-    Sample size per chain = 10 
+    [[1]]
+    Markov Chain Monte Carlo (MCMC) output:
+    Start = 6 
+    End = 15 
     Thinning interval = 1 
-    Number of chains = 3 
+           beta[1]     beta[2]   beta[3] shape_Srv_ftm_stts_cn
+     [1,] 8.284444 -0.05622515 2.2939650             0.2959881
+     [2,] 8.744815 -0.07549767 1.7106878             0.2990524
+     [3,] 8.725511 -0.08663005 1.2813885             0.3503774
+     [4,] 8.729294 -0.05343392 1.2074042             0.4817726
+     [5,] 8.835575 -0.05146376 0.6996329             0.5382195
+     [6,] 8.846757 -0.05094335 0.5776576             0.5510806
+     [7,] 8.909479 -0.04463855 0.3927056             0.5579407
+     [8,] 8.911718 -0.07012695 0.2655326             0.5975823
+     [9,] 8.723581 -0.04551826 0.1480881             0.6424946
+    [10,] 8.668296 -0.04244484 0.1050953             0.7533024
     
-    Number of observations: 312 
+    [[2]]
+    Markov Chain Monte Carlo (MCMC) output:
+    Start = 6 
+    End = 15 
+    Thinning interval = 1 
+           beta[1]     beta[2]     beta[3] shape_Srv_ftm_stts_cn
+     [1,] 14.26719 -0.02537695  0.70336399             0.6680102
+     [2,] 13.74716 -0.02596495  0.60190284             0.5169667
+     [3,] 11.45384 -0.08601905  0.51813865             0.3119455
+     [4,] 11.04989 -0.12148649  0.45206708             0.3282896
+     [5,] 10.73929 -0.11764110  0.00931538             0.3392763
+     [6,] 10.87521 -0.09827879 -0.55764169             0.3960135
+     [7,] 10.76847 -0.06438196 -0.67280242             0.3926286
+     [8,] 10.52394 -0.08302941 -0.89358992             0.4356268
+     [9,] 10.51977 -0.08100376 -1.17696485             0.4637391
+    [10,] 10.67013 -0.06268994 -1.55450947             0.6056828
+    
+    [[3]]
+    Markov Chain Monte Carlo (MCMC) output:
+    Start = 6 
+    End = 15 
+    Thinning interval = 1 
+           beta[1]      beta[2]   beta[3] shape_Srv_ftm_stts_cn
+     [1,] 9.479660 -0.013593000 4.3537759             3.4442835
+     [2,] 9.507746 -0.028779106 4.0989322             0.6588546
+     [3,] 9.226708 -0.032687085 3.5457165             0.5367575
+     [4,] 8.530041 -0.047232790 2.7249438             0.3657626
+     [5,] 8.899479 -0.043257232 1.9237232             0.3649179
+     [6,] 8.364054 -0.043664697 1.5955749             0.3851326
+     [7,] 8.072427 -0.031531508 1.2822214             0.4472630
+     [8,] 8.077679 -0.020076783 1.3392592             0.5194069
+     [9,] 8.013832 -0.008868697 1.3349927             0.6018947
+    [10,] 8.304351 -0.035626697 0.8201378             0.6135498
+    
+    attr(,"class")
+    [1] "mcmc.list"
     
     $m1b
-    
-    Bayesian weibull survival model fitted with testpack
-    
-    Call:
-    survreg_imp(formula = Surv(futime, I(status != "censored")) ~ 
-        age + sex, data = PBC2, n.adapt = 5, n.iter = 10, seed = 2020, 
-        warn = FALSE, mess = FALSE)
-    
-    
-    Number of events: 169 
-    
-    Posterior summary:
-                   Mean     SD   2.5%   97.5% tail-prob. GR-crit MCE/SD
-    (Intercept)  9.6157 1.5707  8.056 13.8902      0.000    9.59  0.538
-    age         -0.0549 0.0288 -0.119 -0.0123      0.000    4.12  0.183
-    sexfemale    0.9710 1.4224 -1.281  4.1690      0.333    4.14  0.555
-    
-    Posterior summary of the shape of the Weibull distribution:
-                           Mean    SD  2.5% 97.5% GR-crit MCE/SD
-    shape_Srv_ftm_stts_cn 0.582 0.555 0.298  1.49    2.82  0.183
-    
-    
-    MCMC settings:
-    Iterations = 6:15
-    Sample size per chain = 10 
+    [[1]]
+    Markov Chain Monte Carlo (MCMC) output:
+    Start = 6 
+    End = 15 
     Thinning interval = 1 
-    Number of chains = 3 
+           beta[1]     beta[2]   beta[3] shape_Srv_ftm_stts_cn
+     [1,] 8.284444 -0.05622515 2.2939650             0.2959881
+     [2,] 8.744815 -0.07549767 1.7106878             0.2990524
+     [3,] 8.725511 -0.08663005 1.2813885             0.3503774
+     [4,] 8.729294 -0.05343392 1.2074042             0.4817726
+     [5,] 8.835575 -0.05146376 0.6996329             0.5382195
+     [6,] 8.846757 -0.05094335 0.5776576             0.5510806
+     [7,] 8.909479 -0.04463855 0.3927056             0.5579407
+     [8,] 8.911718 -0.07012695 0.2655326             0.5975823
+     [9,] 8.723581 -0.04551826 0.1480881             0.6424946
+    [10,] 8.668296 -0.04244484 0.1050953             0.7533024
     
-    Number of observations: 312 
+    [[2]]
+    Markov Chain Monte Carlo (MCMC) output:
+    Start = 6 
+    End = 15 
+    Thinning interval = 1 
+           beta[1]     beta[2]     beta[3] shape_Srv_ftm_stts_cn
+     [1,] 14.26719 -0.02537695  0.70336399             0.6680102
+     [2,] 13.74716 -0.02596495  0.60190284             0.5169667
+     [3,] 11.45384 -0.08601905  0.51813865             0.3119455
+     [4,] 11.04989 -0.12148649  0.45206708             0.3282896
+     [5,] 10.73929 -0.11764110  0.00931538             0.3392763
+     [6,] 10.87521 -0.09827879 -0.55764169             0.3960135
+     [7,] 10.76847 -0.06438196 -0.67280242             0.3926286
+     [8,] 10.52394 -0.08302941 -0.89358992             0.4356268
+     [9,] 10.51977 -0.08100376 -1.17696485             0.4637391
+    [10,] 10.67013 -0.06268994 -1.55450947             0.6056828
+    
+    [[3]]
+    Markov Chain Monte Carlo (MCMC) output:
+    Start = 6 
+    End = 15 
+    Thinning interval = 1 
+           beta[1]      beta[2]   beta[3] shape_Srv_ftm_stts_cn
+     [1,] 9.479660 -0.013593000 4.3537759             3.4442835
+     [2,] 9.507746 -0.028779106 4.0989322             0.6588546
+     [3,] 9.226708 -0.032687085 3.5457165             0.5367575
+     [4,] 8.530041 -0.047232790 2.7249438             0.3657626
+     [5,] 8.899479 -0.043257232 1.9237232             0.3649179
+     [6,] 8.364054 -0.043664697 1.5955749             0.3851326
+     [7,] 8.072427 -0.031531508 1.2822214             0.4472630
+     [8,] 8.077679 -0.020076783 1.3392592             0.5194069
+     [9,] 8.013832 -0.008868697 1.3349927             0.6018947
+    [10,] 8.304351 -0.035626697 0.8201378             0.6135498
+    
+    attr(,"class")
+    [1] "mcmc.list"
     
     $m2a
-    
-    Bayesian weibull survival model fitted with testpack
-    
-    Call:
-    survreg_imp(formula = Surv(futime, status != "censored") ~ copper, 
-        data = PBC2, n.adapt = 5, n.iter = 10, seed = 2020, warn = FALSE, 
-        mess = FALSE)
-    
-    
-    Number of events: 169 
-    
-    Posterior summary:
-                    Mean      SD    2.5%    97.5% tail-prob. GR-crit MCE/SD
-    (Intercept)  8.73672 0.62608  7.7120  9.65588          0    2.63  0.183
-    copper      -0.00779 0.00172 -0.0109 -0.00482          0    1.59  0.321
-    
-    Posterior summary of the shape of the Weibull distribution:
-                           Mean    SD  2.5% 97.5% GR-crit MCE/SD
-    shape_Srv_ftm_stts_cn 0.795 0.259 0.454  1.35       1  0.456
-    
-    
-    MCMC settings:
-    Iterations = 6:15
-    Sample size per chain = 10 
+    [[1]]
+    Markov Chain Monte Carlo (MCMC) output:
+    Start = 6 
+    End = 15 
     Thinning interval = 1 
-    Number of chains = 3 
+           beta[1]      beta[2] shape_Srv_ftm_stts_cn
+     [1,] 5.966178 -0.002217725             0.4734840
+     [2,] 8.437172 -0.007203958             0.4940895
+     [3,] 8.974631 -0.009178680             0.5380960
+     [4,] 8.948640 -0.008854344             0.6997800
+     [5,] 8.833057 -0.008501630             0.7851298
+     [6,] 8.567732 -0.008384682             0.8430927
+     [7,] 8.514393 -0.007708601             0.8549770
+     [8,] 8.530817 -0.006498612             1.0716464
+     [9,] 8.548160 -0.006627687             1.0321080
+    [10,] 8.474484 -0.006470830             1.0460111
     
-    Number of observations: 312 
+    [[2]]
+    Markov Chain Monte Carlo (MCMC) output:
+    Start = 6 
+    End = 15 
+    Thinning interval = 1 
+           beta[1]      beta[2] shape_Srv_ftm_stts_cn
+     [1,] 9.778860 -0.007165507             1.5633424
+     [2,] 9.609237 -0.007384079             1.2688912
+     [3,] 9.015489 -0.007928320             0.4836053
+     [4,] 9.092569 -0.008930343             0.6490886
+     [5,] 9.001299 -0.009070245             0.6434855
+     [6,] 9.038521 -0.011029080             0.6635646
+     [7,] 9.044822 -0.010796985             0.7035781
+     [8,] 8.852834 -0.010128030             0.7105115
+     [9,] 8.772203 -0.006957148             0.7396246
+    [10,] 8.591056 -0.007788628             0.7754733
+    
+    [[3]]
+    Markov Chain Monte Carlo (MCMC) output:
+    Start = 6 
+    End = 15 
+    Thinning interval = 1 
+           beta[1]      beta[2] shape_Srv_ftm_stts_cn
+     [1,] 9.277196 -0.007827840             0.4012414
+     [2,] 9.226280 -0.008801426             0.5038957
+     [3,] 8.779348 -0.009888309             0.5628191
+     [4,] 9.024096 -0.008676937             0.7119178
+     [5,] 8.610575 -0.007821958             0.7712659
+     [6,] 8.658623 -0.006851732             0.8733154
+     [7,] 8.607378 -0.006285917             0.9236516
+     [8,] 8.477233 -0.005811613             0.9641343
+     [9,] 8.374273 -0.006560061             1.0426357
+    [10,] 8.474523 -0.006440778             1.0522384
+    
+    attr(,"class")
+    [1] "mcmc.list"
     
     $m3a
-    
-    Bayesian weibull survival model fitted with testpack
-    
-    Call:
-    survreg_imp(formula = Surv(futime, status != "censored") ~ copper + 
-        sex + age + abs(age - copper) + log(trig), data = PBC2, n.adapt = 5, 
-        n.iter = 10, trunc = list(trig = c(1e-04, NA)), seed = 2020, 
-        warn = FALSE, mess = FALSE)
-    
-    
-    Number of events: 169 
-    
-    Posterior summary:
-                          Mean     SD    2.5%  97.5% tail-prob. GR-crit MCE/SD
-    (Intercept)        6.92171 1.3959  4.3221 9.3568      0.000    6.88 0.5501
-    copper            -0.00533 0.0143 -0.0251 0.0162      0.667   13.38 0.8539
-    sexfemale          4.29775 2.3745 -0.2353 8.6085      0.133    3.96 0.5501
-    age               -0.00807 0.0235 -0.0543 0.0317      0.800    1.83 0.0481
-    abs(age - copper) -0.00151 0.0137 -0.0230 0.0185      0.933    9.89 0.8707
-    log(trig)          0.32624 0.3154 -0.2571 0.9636      0.267    2.01 0.3207
-    
-    Posterior summary of the shape of the Weibull distribution:
-                           Mean    SD  2.5% 97.5% GR-crit MCE/SD
-    shape_Srv_ftm_stts_cn 0.485 0.206 0.254 0.891    3.38       
-    
-    
-    MCMC settings:
-    Iterations = 6:15
-    Sample size per chain = 10 
+    [[1]]
+    Markov Chain Monte Carlo (MCMC) output:
+    Start = 6 
+    End = 15 
     Thinning interval = 1 
-    Number of chains = 3 
+           beta[1]      beta[2]    beta[3]      beta[4]       beta[5]   beta[6]
+     [1,] 8.762714 -0.005007997  4.1987180 -0.017146039 -0.0046636040 0.5562416
+     [2,] 8.752148 -0.009319010  3.4744481 -0.019914980 -0.0045059870 0.9401442
+     [3,] 8.810110 -0.011928043  2.5774440  0.004306960 -0.0027896538 0.9625240
+     [4,] 7.790663 -0.010940896  2.5242137  0.002078121 -0.0001218621 0.5595236
+     [5,] 7.701184 -0.012638429  2.0834445 -0.017394376  0.0048204839 0.5800184
+     [6,] 7.851596 -0.013876522  1.7254614 -0.025182052  0.0053248891 0.3895108
+     [7,] 8.048927 -0.014108970  1.4027739 -0.031011911  0.0066107604 0.4301210
+     [8,] 9.011863 -0.014553193  0.5147440 -0.013458316  0.0055259268 0.1348000
+     [9,] 9.334988 -0.015065865 -0.1187365 -0.033821063  0.0065893614 0.2638708
+    [10,] 9.414222 -0.015672598 -0.5426817 -0.032167766  0.0077588380 0.3187387
+          shape_Srv_ftm_stts_cn
+     [1,]             0.7840837
+     [2,]             0.7455842
+     [3,]             0.4637017
+     [4,]             0.4193687
+     [5,]             0.4711251
+     [6,]             0.5889186
+     [7,]             0.6345885
+     [8,]             0.8204298
+     [9,]             0.8085037
+    [10,]             0.7797661
     
-    Number of observations: 312 
+    [[2]]
+    Markov Chain Monte Carlo (MCMC) output:
+    Start = 6 
+    End = 15 
+    Thinning interval = 1 
+           beta[1]     beta[2]  beta[3]      beta[4]     beta[5]       beta[6]
+     [1,] 4.123568 0.016719157 8.679525  0.014880859 -0.01655721 -0.3251562056
+     [2,] 4.397364 0.016012896 8.581559  0.013754950 -0.01907191  0.1947506337
+     [3,] 5.463895 0.015785330 6.580594  0.056859899 -0.02092407  0.2648318714
+     [4,] 5.413714 0.013202979 6.308856 -0.003034514 -0.02077481  0.1896995630
+     [5,] 5.619172 0.014017085 5.863736 -0.002751085 -0.02289992  0.1827541426
+     [6,] 6.546625 0.010872588 5.101129  0.006903758 -0.02316795  0.2421415763
+     [7,] 6.071990 0.012398063 5.158618 -0.052487110 -0.01401373  0.4432354800
+     [8,] 6.166162 0.011712348 4.710045 -0.011934230 -0.01673835  0.1391012848
+     [9,] 7.357041 0.010780089 3.597287 -0.058983924 -0.01659238 -0.0016878555
+    [10,] 7.176753 0.007293653 3.152963 -0.029496574 -0.01539979 -0.0009040571
+          shape_Srv_ftm_stts_cn
+     [1,]             0.2529773
+     [2,]             0.2545127
+     [3,]             0.2607745
+     [4,]             0.2683365
+     [5,]             0.3214228
+     [6,]             0.3207220
+     [7,]             0.3706875
+     [8,]             0.4023798
+     [9,]             0.4160442
+    [10,]             0.4094389
+    
+    [[3]]
+    Markov Chain Monte Carlo (MCMC) output:
+    Start = 6 
+    End = 15 
+    Thinning interval = 1 
+           beta[1]      beta[2]  beta[3]      beta[4]     beta[5]      beta[6]
+     [1,] 5.977139 -0.002488830 7.553620  0.009031256 0.003403429  0.422701980
+     [2,] 6.201842 -0.004512525 6.737048  0.012470442 0.003611933  0.533362754
+     [3,] 6.192623 -0.006820579 6.290116  0.022202530 0.006694108  0.535351509
+     [4,] 6.106250 -0.014433346 6.189675  0.006190125 0.005959116  0.633392061
+     [5,] 6.126714 -0.019078539 5.329357 -0.021720650 0.012191381  0.966483564
+     [6,] 6.160269 -0.019462687 5.184728 -0.019919351 0.013195622  0.113798235
+     [7,] 6.277616 -0.024199231 4.565498 -0.001591949 0.016873056  0.254004614
+     [8,] 6.771794 -0.024163687 4.188673  0.007808753 0.016809244  0.091662068
+     [9,] 6.873559 -0.022811883 3.882344 -0.016391565 0.018225580  0.003255362
+    [10,] 7.148688 -0.027480670 3.437424  0.009954251 0.019249537 -0.231217661
+          shape_Srv_ftm_stts_cn
+     [1,]             0.8953666
+     [2,]             0.8888271
+     [3,]             0.4023900
+     [4,]             0.3405689
+     [5,]             0.3356835
+     [6,]             0.3469004
+     [7,]             0.3454925
+     [8,]             0.3690625
+     [9,]             0.3854569
+    [10,]             0.4348555
+    
+    attr(,"class")
+    [1] "mcmc.list"
     
     $m3b
-    
-    Bayesian weibull survival model fitted with testpack
-    
-    Call:
-    survreg_imp(formula = Surv(futime, status != "censored") ~ copper + 
-        sex + age + abs(age - copper) + log(trig) + (1 | center), 
-        data = PBC2, n.adapt = 5, n.iter = 10, trunc = list(trig = c(1e-04, 
-            NA)), seed = 2020, warn = FALSE, mess = FALSE)
-    
-    
-    Number of events: 169 
-    
-    Posterior summary:
-                          Mean     SD    2.5%  97.5% tail-prob. GR-crit MCE/SD
-    (Intercept)        7.34452 0.6507  6.4587 8.5209      0.000    2.90       
-    copper            -0.00248 0.0213 -0.0410 0.0239      0.667    9.76  0.540
-    sexfemale          3.77997 1.2049  2.1299 6.3332      0.000    1.87  0.286
-    age               -0.03434 0.0486 -0.1362 0.0480      0.267    1.66  0.196
-    abs(age - copper) -0.00690 0.0260 -0.0361 0.0353      0.667   17.68  0.530
-    log(trig)          0.00476 0.3808 -0.6010 0.8140      0.800    2.85  0.511
-    
-    Posterior summary of random effects covariance matrix:
-                                  Mean   SD   2.5% 97.5% tail-prob. GR-crit MCE/SD
-    D_Srv_ftm_stts_cn_center[1,1] 2.06 2.11 0.0841  6.48               4.16  0.613
-    
-    Posterior summary of the shape of the Weibull distribution:
-                           Mean    SD   2.5% 97.5% GR-crit MCE/SD
-    shape_Srv_ftm_stts_cn 0.286 0.119 0.0983 0.504     1.6  0.521
-    
-    
-    MCMC settings:
-    Iterations = 6:15
-    Sample size per chain = 10 
+    [[1]]
+    Markov Chain Monte Carlo (MCMC) output:
+    Start = 6 
+    End = 15 
     Thinning interval = 1 
-    Number of chains = 3 
+          D_Srv_ftm_stts_cn_center[1,1]  beta[1]     beta[2]  beta[3]      beta[4]
+     [1,]                      3.825136 7.854602 0.002752562 5.107244 -0.056816019
+     [2,]                      4.055779 8.546962 0.003224564 4.965846 -0.058964396
+     [3,]                      5.007043 7.913139 0.002814092 4.983540 -0.081548184
+     [4,]                      3.532637 8.511053 0.004478230 3.764106 -0.002836924
+     [5,]                      1.442143 8.170152 0.005002820 2.955945  0.019647024
+     [6,]                      1.646778 8.066253 0.005311041 2.383170 -0.027025168
+     [7,]                      2.009006 8.282973 0.011563485 2.854795 -0.016486240
+     [8,]                      1.713189 7.563311 0.013574486 2.206406 -0.033292061
+     [9,]                      1.448794 6.459805 0.013236577 2.181028 -0.003462860
+    [10,]                      4.102775 7.086849 0.011908499 1.995243 -0.016877043
+              beta[5]     beta[6] shape_Srv_ftm_stts_cn
+     [1,] -0.02150771  0.84581209             0.1649005
+     [2,] -0.02716706  0.54596756             0.1962820
+     [3,] -0.02461315  0.80194214             0.1963025
+     [4,] -0.02598425  0.56071582             0.2021233
+     [5,] -0.02153820  0.20801688             0.2172353
+     [6,] -0.02221363  0.10790767             0.2200624
+     [7,] -0.02339544  0.23927917             0.3494073
+     [8,] -0.02272485  0.10705603             0.3855904
+     [9,] -0.02261406  0.11019397             0.3872814
+    [10,] -0.02335996 -0.03128514             0.3930629
     
-    Number of observations: 312 
-    Number of groups:
-     - center: 10
+    [[2]]
+    Markov Chain Monte Carlo (MCMC) output:
+    Start = 6 
+    End = 15 
+    Thinning interval = 1 
+          D_Srv_ftm_stts_cn_center[1,1]  beta[1]      beta[2]  beta[3]      beta[4]
+     [1,]                     5.7404249 6.455642 -0.003426174 6.277255  0.122723553
+     [2,]                     8.4424579 6.673321 -0.021924470 6.480732 -0.087386867
+     [3,]                     4.7117875 8.052050 -0.022094938 6.080918 -0.135236559
+     [4,]                     3.4504509 7.069075 -0.031320751 4.720411 -0.138661214
+     [5,]                     2.8179251 6.901557 -0.030178934 4.159565 -0.104080772
+     [6,]                     2.4599499 8.160323 -0.034624666 4.143436 -0.042298620
+     [7,]                     1.4155661 7.601548 -0.031296721 4.190330 -0.062949226
+     [8,]                     1.3360352 7.016211 -0.035730740 3.332006 -0.024342297
+     [9,]                     0.2832470 7.741678 -0.039542508 2.858615 -0.009956295
+    [10,]                     0.2343257 7.510443 -0.044793456 2.687882 -0.009498085
+             beta[5]      beta[6] shape_Srv_ftm_stts_cn
+     [1,] 0.03616643 -0.533126468            0.07696196
+     [2,] 0.03433522 -0.639960382            0.10636464
+     [3,] 0.03092207 -0.448079784            0.13085755
+     [4,] 0.02713075 -0.475431591            0.17293970
+     [5,] 0.01589323  0.119162875            0.17432948
+     [6,] 0.02245717  0.049659791            0.23881297
+     [7,] 0.02362466  0.053709223            0.32318228
+     [8,] 0.02668899  0.007408702            0.33827610
+     [9,] 0.02893811  0.005478631            0.36835256
+    [10,] 0.03499448  0.355304988            0.42111617
     
-
----
-
-    $m0a
-    $m0a$`Surv(futime, status != "censored")`
-                    Mean        SD     2.5%    97.5% tail-prob.  GR-crit    MCE/SD
-    (Intercept) 8.920167 0.9939183 8.191309 11.72205          0 6.523569 0.3174352
+    [[3]]
+    Markov Chain Monte Carlo (MCMC) output:
+    Start = 6 
+    End = 15 
+    Thinning interval = 1 
+          D_Srv_ftm_stts_cn_center[1,1]  beta[1]     beta[2]  beta[3]      beta[4]
+     [1,]                    0.50057608 7.469640 0.023680354 3.637407 -0.035186074
+     [2,]                    0.27451667 6.908972 0.024482671 3.234029  0.001422148
+     [3,]                    0.17677748 7.128363 0.018706708 4.251584  0.002188199
+     [4,]                    0.24861780 6.841971 0.019224477 4.220453 -0.011485179
+     [5,]                    0.22826145 6.848424 0.020874029 3.859466 -0.039044897
+     [6,]                    0.08609313 6.620351 0.012975725 3.675945 -0.049093172
+     [7,]                    0.07868366 6.587127 0.011005714 3.367088 -0.052317792
+     [8,]                    0.23812788 6.770357 0.006964167 3.271837 -0.027664305
+     [9,]                    0.24207961 6.677801 0.005077936 3.083877 -0.021327279
+    [10,]                    0.12576338 6.845788 0.003599803 2.468958 -0.028252411
+               beta[5]     beta[6] shape_Srv_ftm_stts_cn
+     [1,] -0.034285172 -0.37720237             0.1480560
+     [2,] -0.036056180 -0.58621623             0.2058866
+     [3,] -0.036047895 -0.18444241             0.2662094
+     [4,] -0.035173273 -0.25261795             0.3302220
+     [5,] -0.024129594 -0.27657664             0.3317495
+     [6,] -0.024400214 -0.29766558             0.3966704
+     [7,] -0.022280800 -0.19049551             0.3918136
+     [8,] -0.016501235  0.05444630             0.4227857
+     [9,] -0.015481493  0.06900881             0.5015289
+    [10,] -0.008632469  0.19497208             0.5104142
     
-    
-    $m1a
-    $m1a$`Surv(futime, status != "censored")`
-                       Mean         SD       2.5%       97.5% tail-prob.  GR-crit
-    (Intercept)  9.61567776 1.57065526  8.0563136 13.89016833  0.0000000 9.588740
-    age         -0.05493708 0.02879581 -0.1186986 -0.01229382  0.0000000 4.117418
-    sexfemale    0.97102383 1.42235492 -1.2807896  4.16901423  0.3333333 4.142224
-                   MCE/SD
-    (Intercept) 0.5381789
-    age         0.1825742
-    sexfemale   0.5550906
-    
-    
-    $m1b
-    $m1b$`Surv(futime, I(status != "censored"))`
-                       Mean         SD       2.5%       97.5% tail-prob.  GR-crit
-    (Intercept)  9.61567776 1.57065526  8.0563136 13.89016833  0.0000000 9.588740
-    age         -0.05493708 0.02879581 -0.1186986 -0.01229382  0.0000000 4.117418
-    sexfemale    0.97102383 1.42235492 -1.2807896  4.16901423  0.3333333 4.142224
-                   MCE/SD
-    (Intercept) 0.5381789
-    age         0.1825742
-    sexfemale   0.5550906
-    
-    
-    $m2a
-    $m2a$`Surv(futime, status != "censored")`
-                        Mean          SD        2.5%        97.5% tail-prob.
-    (Intercept)  8.736722638 0.626075900  7.71204705  9.655883466          0
-    copper      -0.007793056 0.001720985 -0.01086081 -0.004823294          0
-                 GR-crit    MCE/SD
-    (Intercept) 2.627220 0.1825742
-    copper      1.589019 0.3212012
-    
-    
-    $m3a
-    $m3a$`Surv(futime, status != "censored")`
-                              Mean         SD        2.5%      97.5% tail-prob.
-    (Intercept)        6.921706418 1.39586784  4.32207013 9.35677718  0.0000000
-    copper            -0.005325644 0.01433883 -0.02510163 0.01620712  0.6666667
-    sexfemale          4.297754205 2.37445749 -0.23532143 8.60849978  0.1333333
-    age               -0.008065518 0.02352026 -0.05427373 0.03173331  0.8000000
-    abs(age - copper) -0.001512599 0.01372865 -0.02297363 0.01850717  0.9333333
-    log(trig)          0.326235131 0.31537838 -0.25705076 0.96361285  0.2666667
-                        GR-crit     MCE/SD
-    (Intercept)        6.875252 0.55013612
-    copper            13.376930 0.85394891
-    sexfemale          3.956863 0.55005569
-    age                1.826583 0.04813287
-    abs(age - copper)  9.889592 0.87066331
-    log(trig)          2.007854 0.32072480
-    
-    
-    $m3b
-    $m3b$`Surv(futime, status != "censored")`
-                              Mean         SD        2.5%      97.5% tail-prob.
-    (Intercept)        7.344524586 0.65073152  6.45865995 8.52092785  0.0000000
-    copper            -0.002482514 0.02128534 -0.04098652 0.02390099  0.6666667
-    sexfemale          3.779970588 1.20488747  2.12993733 6.33321114  0.0000000
-    age               -0.034336967 0.04857712 -0.13617834 0.04799307  0.2666667
-    abs(age - copper) -0.006898518 0.02604593 -0.03605017 0.03531677  0.6666667
-    log(trig)          0.004764755 0.38076233 -0.60099587 0.81400637  0.8000000
-                        GR-crit    MCE/SD
-    (Intercept)        2.897979        NA
-    copper             9.760845 0.5400432
-    sexfemale          1.868427 0.2863980
-    age                1.656826 0.1961632
-    abs(age - copper) 17.682321 0.5304992
-    log(trig)          2.853541 0.5113992
-    
+    attr(,"class")
+    [1] "mcmc.list"
     
 

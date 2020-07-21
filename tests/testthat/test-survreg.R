@@ -61,102 +61,113 @@ run_survreg_models <- function() {
 
 models <- run_survreg_models()
 
-
-test_that("models run", {
-  for (k in seq_along(models)) {
-    expect_s3_class(models[[k]], "testpack")
-  }
+test_that("inits are the same", {
+  expect_snapshot_output(
+    lapply(lapply(models, "[[", "mcmc_settings"), "[[", "inits")
+  )
 })
 
-
-test_that("there are no duplicate betas/alphas in the JAGSmodel", {
-  expect_null(unlist(lapply(models, find_dupl_parms)))
+test_that("MCMC is the same", {
+  expect_snapshot_output(
+    lapply(models, "[[", "MCMC")
+  )
 })
-
-
-test_that("MCMC is mcmc.list", {
-  for (i in seq_along(models)) {
-    expect_s3_class(models[[i]]$MCMC, "mcmc.list")
-  }
-})
-
-test_that("MCMC samples can be plottet", {
-  for (k in seq_along(models)) {
-    expect_silent(traceplot(models[[k]]))
-    expect_silent(densplot(models[[k]]))
-    expect_silent(plot(MC_error(models[[k]])))
-  }
-})
-
-test_that("GRcrit and MCerror give same result", {
-  skip_on_cran()
-  expect_snapshot_output(lapply(models, GR_crit, multivariate = FALSE))
-  expect_snapshot_output(lapply(models, MC_error))
-})
-
-
-test_that("summary output remained the same", {
-  skip_on_cran()
-  expect_snapshot_output(lapply(models, print))
-  expect_snapshot_output(lapply(models, coef))
-  expect_snapshot_output(lapply(models, confint))
-  expect_snapshot_output(lapply(models, summary))
-  expect_snapshot_output(lapply(models, function(x) coef(summary(x))))
-})
-
-
-
-test_that("prediction works", {
-  expect_s3_class(predict(models$m3b, type = "lp", warn = FALSE)$fitted, "data.frame")
-  expect_s3_class(predict(models$m3b, type = "response", warn = FALSE)$fitted,
-                  "data.frame")
-})
-
-
-test_that("residuals", {
-  # residuals are not yet implemented
-  expect_error(residuals(models$m3b, type = "working", warn = FALSE))
-  expect_error(residuals(models$m3b, type = "response", warn = FALSE))
-})
-
-
-test_that("model can (not) be plottet", {
-  for (i in seq_along(models)) {
-    expect_error(plot(models[[i]]))
-  }
-})
-
-
-test_that("wrong models give errors", {
-  # time-varying covariate
-  expect_error(survreg_imp(Surv(futime, status != "censored") ~ copper + sex +
-                             albumin + (1 | id) + (1 | center), timevar = "day",
-                           data = PBC, n.adapt = 5, n.iter = 10, seed = 2020,
-                           mess = FALSE, warn = FALSE))
-
-  # more than two event types
-  expect_error(survreg_imp(Surv(futime, status) ~ copper + sex,
-                           data = PBC2, n.adapt = 5, n.iter = 10, seed = 2020,
-                           mess = FALSE, warn = FALSE))
-
-  # missing values in event time
-  expect_error(survreg_imp(Surv(futime2, status != "censored") ~ copper + sex,
-                           data = PBC2, n.adapt = 5, n.iter = 10, seed = 2020,
-                           mess = FALSE, warn = FALSE))
-
-  # missing values in event status
-  expect_error(survreg_imp(Surv(futime, status2 != "censored") ~ copper + sex,
-                           data = PBC2, n.adapt = 5, n.iter = 10, seed = 2020,
-                           mess = FALSE, warn = FALSE))
-
-  # wrong outcome
-  expect_error(survreg_imp(futime ~ copper + sex,
-                           data = PBC2, n.adapt = 5, n.iter = 10, seed = 2020,
-                           mess = FALSE, warn = FALSE))
-
-  # no argument formula
-  expect_error(survreg_imp(fixed = futime ~ copper + sex,
-                           data = PBC2, n.adapt = 5, n.iter = 10, seed = 2020))
-
-})
-
+#
+# test_that("models run", {
+#   for (k in seq_along(models)) {
+#     expect_s3_class(models[[k]], "testpack")
+#   }
+# })
+#
+#
+# test_that("there are no duplicate betas/alphas in the JAGSmodel", {
+#   expect_null(unlist(lapply(models, find_dupl_parms)))
+# })
+#
+#
+# test_that("MCMC is mcmc.list", {
+#   for (i in seq_along(models)) {
+#     expect_s3_class(models[[i]]$MCMC, "mcmc.list")
+#   }
+# })
+#
+# test_that("MCMC samples can be plottet", {
+#   for (k in seq_along(models)) {
+#     expect_silent(traceplot(models[[k]]))
+#     expect_silent(densplot(models[[k]]))
+#     expect_silent(plot(MC_error(models[[k]])))
+#   }
+# })
+#
+# test_that("GRcrit and MCerror give same result", {
+#   skip_on_cran()
+#   expect_snapshot_output(lapply(models, GR_crit, multivariate = FALSE))
+#   expect_snapshot_output(lapply(models, MC_error))
+# })
+#
+#
+# test_that("summary output remained the same", {
+#   skip_on_cran()
+#   expect_snapshot_output(lapply(models, print))
+#   expect_snapshot_output(lapply(models, coef))
+#   expect_snapshot_output(lapply(models, confint))
+#   expect_snapshot_output(lapply(models, summary))
+#   expect_snapshot_output(lapply(models, function(x) coef(summary(x))))
+# })
+#
+#
+#
+# test_that("prediction works", {
+#   expect_s3_class(predict(models$m3b, type = "lp", warn = FALSE)$fitted, "data.frame")
+#   expect_s3_class(predict(models$m3b, type = "response", warn = FALSE)$fitted,
+#                   "data.frame")
+# })
+#
+#
+# test_that("residuals", {
+#   # residuals are not yet implemented
+#   expect_error(residuals(models$m3b, type = "working", warn = FALSE))
+#   expect_error(residuals(models$m3b, type = "response", warn = FALSE))
+# })
+#
+#
+# test_that("model can (not) be plottet", {
+#   for (i in seq_along(models)) {
+#     expect_error(plot(models[[i]]))
+#   }
+# })
+#
+#
+# test_that("wrong models give errors", {
+#   # time-varying covariate
+#   expect_error(survreg_imp(Surv(futime, status != "censored") ~ copper + sex +
+#                              albumin + (1 | id) + (1 | center), timevar = "day",
+#                            data = PBC, n.adapt = 5, n.iter = 10, seed = 2020,
+#                            mess = FALSE, warn = FALSE))
+#
+#   # more than two event types
+#   expect_error(survreg_imp(Surv(futime, status) ~ copper + sex,
+#                            data = PBC2, n.adapt = 5, n.iter = 10, seed = 2020,
+#                            mess = FALSE, warn = FALSE))
+#
+#   # missing values in event time
+#   expect_error(survreg_imp(Surv(futime2, status != "censored") ~ copper + sex,
+#                            data = PBC2, n.adapt = 5, n.iter = 10, seed = 2020,
+#                            mess = FALSE, warn = FALSE))
+#
+#   # missing values in event status
+#   expect_error(survreg_imp(Surv(futime, status2 != "censored") ~ copper + sex,
+#                            data = PBC2, n.adapt = 5, n.iter = 10, seed = 2020,
+#                            mess = FALSE, warn = FALSE))
+#
+#   # wrong outcome
+#   expect_error(survreg_imp(futime ~ copper + sex,
+#                            data = PBC2, n.adapt = 5, n.iter = 10, seed = 2020,
+#                            mess = FALSE, warn = FALSE))
+#
+#   # no argument formula
+#   expect_error(survreg_imp(fixed = futime ~ copper + sex,
+#                            data = PBC2, n.adapt = 5, n.iter = 10, seed = 2020))
+#
+# })
+#
