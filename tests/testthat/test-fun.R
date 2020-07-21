@@ -17,10 +17,13 @@ test_that("seed works", {
 })
 
 
-m2a = survreg_imp(Surv(futime, status != "censored") ~ copper, data = PBC,
-                  n.adapt = 5, n.iter = 10, seed = 2020,
-                  mess = FALSE, warn = FALSE)
+m2a0 = survreg_imp(Surv(futime, status != "censored") ~ copper, data = PBC,
+                   n.adapt = 5, n.iter = 0, seed = 2020,
+                   mess = FALSE, warn = FALSE)
 
+m2a = survreg_imp(Surv(futime, status != "censored") ~ copper, data = PBC,
+                   n.adapt = 5, n.iter = 10, seed = 2020,
+                   mess = FALSE, warn = FALSE)
 test_that("mod2a data list", {
   expect_snapshot_output(
     m2a$data_list
@@ -28,9 +31,29 @@ test_that("mod2a data list", {
 })
 
 
-test_that("mod2a inits", {
+test_that("mod2a samplers", {
   expect_snapshot_output(
-    m2a$inits
+    rjags::list.samplers(m2a$model)
+  )
+})
+
+test_that("mod2a0 state", {
+  expect_snapshot_output(
+    coef(m2a0$model)
+  )
+})
+
+
+test_that("mod2a0 model", {
+  expect_snapshot_output(
+    m2a0$model
+  )
+})
+
+
+test_that("mod2a model", {
+  expect_snapshot_output(
+    m2a$model
   )
 })
 

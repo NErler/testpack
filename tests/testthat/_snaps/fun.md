@@ -2520,9 +2520,5599 @@
       NA   NA   NA   NA   NA   NA   NA   NA   NA 
     
 
-# mod2a inits
+# mod2a samplers
 
-    NULL
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1945]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1944]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1943]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1942]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1941]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1940]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1939]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1938]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1937]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1936]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1935]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1934]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1933]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1932]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1931]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1930]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1929]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1928]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1927]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1926]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1925]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1924]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1923]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1922]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1921]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1920]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1919]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1918]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1917]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1916]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1915]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1914]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1913]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1912]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1911]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1910]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1909]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1904]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1903]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1902]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1901]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1900]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1899]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1898]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1897]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1894]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1893]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1892]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1891]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1887]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1886]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1885]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1882]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1881]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1880]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1879]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1878]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1877]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1876]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1875]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1874]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1865]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1864]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1863]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1862]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1861]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1860]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1859]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1852]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1851]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1850]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1849]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1848]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1847]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1846]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1845]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1844]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1843]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1842]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1841]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1840]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1839]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1838]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1837]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1836]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1835]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1829]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1828]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1827]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1826]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1825]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1824]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1823]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1822]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1821]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1820]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1819]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1818]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1817]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1816]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1810]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1809]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1808]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1807]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1806]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1805]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1804]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1803]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1802]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1801]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1800]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1791]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1790]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1789]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1788]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1787]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1786]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1785]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1784]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1783]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1782]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1781]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1780]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1779]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1778]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1764]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1763]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1762]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1761]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1760]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1759]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1758]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1741]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1740]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1739]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1738]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1737]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1736]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1734]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1733]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1732]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1731]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1730]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1729]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1728]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1727]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1726]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1725]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1724]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1723]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1722]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1721]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1720]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1719]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1718]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1717]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1716]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1715]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1714]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1713]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1712]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1711]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1710]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1709]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1708]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1707]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1702]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1701]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1700]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1699]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1698]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1697]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1696]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1695]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1694]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1693]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1692]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1691]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1688]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1687]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1686]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1685]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1684]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1683]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1682]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1681]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1680]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1679]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1678]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1667]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1666]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1647]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1646]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1645]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1644]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1643]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1642]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1641]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1640]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1631]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1630]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1627]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1626]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1625]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1624]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1623]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1622]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1621]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1616]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1615]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1614]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1613]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1609]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1608]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1607]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1606]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1601]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1600]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1599]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1598]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1597]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1596]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1595]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1594]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1593]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1592]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1591]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1590]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1589]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1588]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1587]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1586]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1585]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1584]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1583]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1582]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1581]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1580]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1579]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1578]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1577]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1576]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1570]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1569]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1568]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1567]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1566]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1565]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1564]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1563]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1557]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1556]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1555]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1554]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1553]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1552]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1551]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1550]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1549]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1548]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1547]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1546]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1545]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1544]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1543]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1542]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1537]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1536]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1535]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1534]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1533]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1532]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1531]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1522]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1521]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1520]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1519]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1518]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1517]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1516]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1515]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1514]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1513]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1512]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1511]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1510]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1509]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1508]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1507]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1506]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1505]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1504]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1503]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1502]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1501]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1500]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1499]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1498]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1497]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1496]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1495]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1491]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1490]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1489]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1488]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1487]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1486]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1485]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1484]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1483]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1482]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1481]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1480]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1479]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1478]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1477]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1463]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1462]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1461]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1460]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1459]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1458]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1457]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1456]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1455]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1454]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1453]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1452]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1451]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1450]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1449]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1448]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1447]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1446]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1445]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1444]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1443]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1431]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1430]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1429]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1428]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1427]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1426]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1425]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1424]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1423]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1422]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1421]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1420]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1419]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1418]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1417]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1416]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1415]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1414]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1413]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1412]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1403]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1402]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1401]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1400]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1399]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1398]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1393]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1392]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1391]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1390]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1389]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1388]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1387]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1386]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1385]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1384]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1382]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1381]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1380]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1379]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1378]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1377]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1376]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1375]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1374]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1373]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1372]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1371]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1370]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1369]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1368]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1367]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1366]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1339]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1338]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1337]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1336]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1335]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1334]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1333]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1332]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1331]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1330]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1329]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1328]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1327]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1326]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1325]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1324]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1323]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1322]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1321]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1320]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1319]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1318]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1317]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1316]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1315]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1314]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1307]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1306]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1305]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1304]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1303]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1302]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1301]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1300]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1299]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1298]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1297]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1296]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1295]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1294]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1293]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1292]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1291]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1290]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1289]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1288]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1287]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1286]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1285]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1284]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1283]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1282]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1281]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1280]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1279]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1278]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1277]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1276]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1275]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1274]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1273]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1272]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1271]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1270]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1269]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1268]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1267]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1266]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1265]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1264]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1263]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1262]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1261]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1255]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1254]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1253]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1252]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1251]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1250]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1249]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1248]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1247]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1246]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1239]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1238]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1237]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1236]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1235]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1234]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1233]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1232]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1221]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1220]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1219]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1218]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1217]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1216]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1215]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1214]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1213]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1212]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1211]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1210]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1209]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1208]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1207]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1206]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1205]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1204]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1203]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1189]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1188]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1187]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1186]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1185]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1184]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1183]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1182]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1181]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1180]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1179]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1174]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1173]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1172]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1170]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1169]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1168]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1167]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1166]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1165]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1164]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1163]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1162]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1161]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1157]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1156]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1155]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1154]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1153]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1152]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1151]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1150]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1149]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1148]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1147]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1146]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1145]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1144]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1143]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1142]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1141]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1140]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1139]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1138]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1116]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1115]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1114]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1113]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1096]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1095]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1094]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1093]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1092]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1091]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1090]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1089]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1088]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1087]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1086]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1085]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1084]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1083]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1082]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1069]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1068]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1067]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1066]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1065]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1064]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1063]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1062]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1061]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1060]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1059]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1058]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1057]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1056]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1055]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1054]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1053]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1052]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1051]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1050]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1049]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1048]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1047]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1046]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1045]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1044]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1043]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1042]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1041]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1040]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1039]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1038]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1037]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1036]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1035]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1034]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1033]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1032]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1031]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1030]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1029]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1028]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1027]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1017]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1016]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1015]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1014]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1013]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1012]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1001]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[1000]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[999]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[998]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[997]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[996]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[995]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[994]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[993]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[992]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[991]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[990]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[984]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[983]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[982]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[981]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[980]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[979]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[978]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[977]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[976]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[975]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[974]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[956]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[955]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[954]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[953]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[952]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[951]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[950]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[949]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[948]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[947]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[923]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[922]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[921]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[920]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[919]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[918]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[917]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[916]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[915]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[914]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[913]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[912]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[911]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[910]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[909]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[908]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[907]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[906]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[905]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[904]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[903]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[902]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[901]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[858]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[857]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[856]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[855]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[854]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[853]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[852]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[851]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[850]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[849]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[840]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[839]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[838]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[837]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[836]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[835]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[834]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[833]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[832]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[831]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[830]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[803]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[802]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[801]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[800]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[799]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[798]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[797]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[796]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[795]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[794]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[793]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[792]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[791]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[790]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[789]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[788]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[787]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[786]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[785]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[784]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[783]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[782]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[781]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[780]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[775]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[774]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[773]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[772]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[771]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[770]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[769]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[768]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[767]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[766]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[765]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[764]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[763]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[762]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[761]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[760]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[759]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[758]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[757]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[756]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[755]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[754]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[753]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[752]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[751]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[750]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[749]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[744]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[743]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[742]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[741]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[740]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[739]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[738]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[737]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[736]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[735]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[734]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[733]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[732]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[731]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[726]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[725]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[724]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[723]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[722]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[721]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[720]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[719]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[718]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[717]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[716]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[715]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[714]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[713]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[712]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[676]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[675]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[674]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[673]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[672]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[671]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[670]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[669]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[668]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[667]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[666]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[665]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[664]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[663]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[662]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[661]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[660]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[659]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[634]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[633]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[632]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[631]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[630]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[629]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[628]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[627]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[626]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[625]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[624]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[607]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[606]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[605]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[604]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[603]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[602]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[601]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[600]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[599]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[598]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[597]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[596]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[595]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[594]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[593]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[592]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[591]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[590]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[589]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[588]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[587]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[586]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[585]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[584]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[583]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[582]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[581]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[580]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[579]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[578]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[577]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[576]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[558]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[557]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[556]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[555]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[554]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[553]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[552]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[551]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[550]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[549]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[548]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[547]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[546]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[545]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[521]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[520]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[519]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[518]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[517]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[516]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[496]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[495]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[494]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[493]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[492]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[491]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[490]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[489]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[488]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[487]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[486]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[485]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[484]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[483]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[482]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[481]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[480]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[479]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[478]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[477]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[476]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[475]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[474]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[473]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[472]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[471]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[470]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[462]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[461]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[460]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[459]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[458]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[457]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[456]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[455]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[454]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[453]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[452]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[451]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[450]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[449]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[448]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[447]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[383]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[382]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[381]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[380]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[379]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[378]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[377]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[376]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[375]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[374]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[373]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[372]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[371]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[370]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[369]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[368]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[359]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[358]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[357]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[356]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[355]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[354]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[353]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[352]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[351]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[339]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[338]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[337]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[336]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[335]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[334]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[333]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[332]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[331]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[330]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[329]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[328]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[327]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[326]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[325]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[324]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[323]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[322]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[321]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[320]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[319]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[318]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[317]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[316]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[315]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[314]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[313]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[312]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[311]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[310]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[309]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[304]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[303]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[302]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[301]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[300]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[299]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[298]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[297]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[296]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[295]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[294]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[293]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[292]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[291]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[290]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[269]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[268]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[267]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[266]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[265]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[264]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[263]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[262]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[261]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[260]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[259]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[254]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[253]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[252]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[251]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[250]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[249]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[248]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[247]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[246]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[245]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[244]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[243]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[242]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[241]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[230]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[229]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[228]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[227]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[226]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[225]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[224]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[223]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[222]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[221]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[220]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[219]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[218]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[217]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[216]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[215]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[179]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[178]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[177]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[176]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[175]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[174]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[173]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[172]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[171]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[170]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[169]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[168]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[133]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[132]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[131]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[130]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[129]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[128]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[127]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[126]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[125]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[124]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[123]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[122]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[121]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[120]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[119]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[114]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[113]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[112]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[111]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[110]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[109]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[108]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[107]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[106]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[105]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[104]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[103]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[102]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[83]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[82]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[81]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[80]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[79]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[78]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[77]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[76]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[75]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[74]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[73]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[72]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[41]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[40]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[39]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[38]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[37]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[36]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[35]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[11]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[10]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[9]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[8]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[7]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[6]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[5]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[4]"
+    
+    $`bugs::Censored`
+    [1] "Srv_ftm_stts_cn[3]"
+    
+    $`base::RealSlicer`
+    [1] "beta[2]"
+    
+    $`base::RealSlicer`
+    [1] "beta[1]"
+    
+    $`base::RealSlicer`
+    [1] "M_lvlone[1636,3]"
+    
+    $`base::RealSlicer`
+    [1] "M_lvlone[1635,3]"
+    
+    $`base::RealSlicer`
+    [1] "M_lvlone[1634,3]"
+    
+    $`base::RealSlicer`
+    [1] "M_lvlone[973,3]"
+    
+    $`base::RealSlicer`
+    [1] "M_lvlone[972,3]"
+    
+    $`base::RealSlicer`
+    [1] "M_lvlone[971,3]"
+    
+    $`base::RealSlicer`
+    [1] "M_lvlone[970,3]"
+    
+    $`base::RealSlicer`
+    [1] "M_lvlone[969,3]"
+    
+    $`bugs::ConjugateNormal`
+    [1] "alpha"
+    
+    $`base::RealSlicer`
+    [1] "shape_Srv_ftm_stts_cn"
+    
+    $`bugs::ConjugateGamma`
+    [1] "tau_copper"
+    
+
+# mod2a0 state
+
+    $M_lvlone
+            [,1] [,2]       [,3] [,4]
+       [1,]   NA   NA         NA   NA
+       [2,]   NA   NA         NA   NA
+       [3,]   NA   NA         NA   NA
+       [4,]   NA   NA         NA   NA
+       [5,]   NA   NA         NA   NA
+       [6,]   NA   NA         NA   NA
+       [7,]   NA   NA         NA   NA
+       [8,]   NA   NA         NA   NA
+       [9,]   NA   NA         NA   NA
+      [10,]   NA   NA         NA   NA
+      [11,]   NA   NA         NA   NA
+      [12,]   NA   NA         NA   NA
+      [13,]   NA   NA         NA   NA
+      [14,]   NA   NA         NA   NA
+      [15,]   NA   NA         NA   NA
+      [16,]   NA   NA         NA   NA
+      [17,]   NA   NA         NA   NA
+      [18,]   NA   NA         NA   NA
+      [19,]   NA   NA         NA   NA
+      [20,]   NA   NA         NA   NA
+      [21,]   NA   NA         NA   NA
+      [22,]   NA   NA         NA   NA
+      [23,]   NA   NA         NA   NA
+      [24,]   NA   NA         NA   NA
+      [25,]   NA   NA         NA   NA
+      [26,]   NA   NA         NA   NA
+      [27,]   NA   NA         NA   NA
+      [28,]   NA   NA         NA   NA
+      [29,]   NA   NA         NA   NA
+      [30,]   NA   NA         NA   NA
+      [31,]   NA   NA         NA   NA
+      [32,]   NA   NA         NA   NA
+      [33,]   NA   NA         NA   NA
+      [34,]   NA   NA         NA   NA
+      [35,]   NA   NA         NA   NA
+      [36,]   NA   NA         NA   NA
+      [37,]   NA   NA         NA   NA
+      [38,]   NA   NA         NA   NA
+      [39,]   NA   NA         NA   NA
+      [40,]   NA   NA         NA   NA
+      [41,]   NA   NA         NA   NA
+      [42,]   NA   NA         NA   NA
+      [43,]   NA   NA         NA   NA
+      [44,]   NA   NA         NA   NA
+      [45,]   NA   NA         NA   NA
+      [46,]   NA   NA         NA   NA
+      [47,]   NA   NA         NA   NA
+      [48,]   NA   NA         NA   NA
+      [49,]   NA   NA         NA   NA
+      [50,]   NA   NA         NA   NA
+      [51,]   NA   NA         NA   NA
+      [52,]   NA   NA         NA   NA
+      [53,]   NA   NA         NA   NA
+      [54,]   NA   NA         NA   NA
+      [55,]   NA   NA         NA   NA
+      [56,]   NA   NA         NA   NA
+      [57,]   NA   NA         NA   NA
+      [58,]   NA   NA         NA   NA
+      [59,]   NA   NA         NA   NA
+      [60,]   NA   NA         NA   NA
+      [61,]   NA   NA         NA   NA
+      [62,]   NA   NA         NA   NA
+      [63,]   NA   NA         NA   NA
+      [64,]   NA   NA         NA   NA
+      [65,]   NA   NA         NA   NA
+      [66,]   NA   NA         NA   NA
+      [67,]   NA   NA         NA   NA
+      [68,]   NA   NA         NA   NA
+      [69,]   NA   NA         NA   NA
+      [70,]   NA   NA         NA   NA
+      [71,]   NA   NA         NA   NA
+      [72,]   NA   NA         NA   NA
+      [73,]   NA   NA         NA   NA
+      [74,]   NA   NA         NA   NA
+      [75,]   NA   NA         NA   NA
+      [76,]   NA   NA         NA   NA
+      [77,]   NA   NA         NA   NA
+      [78,]   NA   NA         NA   NA
+      [79,]   NA   NA         NA   NA
+      [80,]   NA   NA         NA   NA
+      [81,]   NA   NA         NA   NA
+      [82,]   NA   NA         NA   NA
+      [83,]   NA   NA         NA   NA
+      [84,]   NA   NA         NA   NA
+      [85,]   NA   NA         NA   NA
+      [86,]   NA   NA         NA   NA
+      [87,]   NA   NA         NA   NA
+      [88,]   NA   NA         NA   NA
+      [89,]   NA   NA         NA   NA
+      [90,]   NA   NA         NA   NA
+      [91,]   NA   NA         NA   NA
+      [92,]   NA   NA         NA   NA
+      [93,]   NA   NA         NA   NA
+      [94,]   NA   NA         NA   NA
+      [95,]   NA   NA         NA   NA
+      [96,]   NA   NA         NA   NA
+      [97,]   NA   NA         NA   NA
+      [98,]   NA   NA         NA   NA
+      [99,]   NA   NA         NA   NA
+     [100,]   NA   NA         NA   NA
+     [101,]   NA   NA         NA   NA
+     [102,]   NA   NA         NA   NA
+     [103,]   NA   NA         NA   NA
+     [104,]   NA   NA         NA   NA
+     [105,]   NA   NA         NA   NA
+     [106,]   NA   NA         NA   NA
+     [107,]   NA   NA         NA   NA
+     [108,]   NA   NA         NA   NA
+     [109,]   NA   NA         NA   NA
+     [110,]   NA   NA         NA   NA
+     [111,]   NA   NA         NA   NA
+     [112,]   NA   NA         NA   NA
+     [113,]   NA   NA         NA   NA
+     [114,]   NA   NA         NA   NA
+     [115,]   NA   NA         NA   NA
+     [116,]   NA   NA         NA   NA
+     [117,]   NA   NA         NA   NA
+     [118,]   NA   NA         NA   NA
+     [119,]   NA   NA         NA   NA
+     [120,]   NA   NA         NA   NA
+     [121,]   NA   NA         NA   NA
+     [122,]   NA   NA         NA   NA
+     [123,]   NA   NA         NA   NA
+     [124,]   NA   NA         NA   NA
+     [125,]   NA   NA         NA   NA
+     [126,]   NA   NA         NA   NA
+     [127,]   NA   NA         NA   NA
+     [128,]   NA   NA         NA   NA
+     [129,]   NA   NA         NA   NA
+     [130,]   NA   NA         NA   NA
+     [131,]   NA   NA         NA   NA
+     [132,]   NA   NA         NA   NA
+     [133,]   NA   NA         NA   NA
+     [134,]   NA   NA         NA   NA
+     [135,]   NA   NA         NA   NA
+     [136,]   NA   NA         NA   NA
+     [137,]   NA   NA         NA   NA
+     [138,]   NA   NA         NA   NA
+     [139,]   NA   NA         NA   NA
+     [140,]   NA   NA         NA   NA
+     [141,]   NA   NA         NA   NA
+     [142,]   NA   NA         NA   NA
+     [143,]   NA   NA         NA   NA
+     [144,]   NA   NA         NA   NA
+     [145,]   NA   NA         NA   NA
+     [146,]   NA   NA         NA   NA
+     [147,]   NA   NA         NA   NA
+     [148,]   NA   NA         NA   NA
+     [149,]   NA   NA         NA   NA
+     [150,]   NA   NA         NA   NA
+     [151,]   NA   NA         NA   NA
+     [152,]   NA   NA         NA   NA
+     [153,]   NA   NA         NA   NA
+     [154,]   NA   NA         NA   NA
+     [155,]   NA   NA         NA   NA
+     [156,]   NA   NA         NA   NA
+     [157,]   NA   NA         NA   NA
+     [158,]   NA   NA         NA   NA
+     [159,]   NA   NA         NA   NA
+     [160,]   NA   NA         NA   NA
+     [161,]   NA   NA         NA   NA
+     [162,]   NA   NA         NA   NA
+     [163,]   NA   NA         NA   NA
+     [164,]   NA   NA         NA   NA
+     [165,]   NA   NA         NA   NA
+     [166,]   NA   NA         NA   NA
+     [167,]   NA   NA         NA   NA
+     [168,]   NA   NA         NA   NA
+     [169,]   NA   NA         NA   NA
+     [170,]   NA   NA         NA   NA
+     [171,]   NA   NA         NA   NA
+     [172,]   NA   NA         NA   NA
+     [173,]   NA   NA         NA   NA
+     [174,]   NA   NA         NA   NA
+     [175,]   NA   NA         NA   NA
+     [176,]   NA   NA         NA   NA
+     [177,]   NA   NA         NA   NA
+     [178,]   NA   NA         NA   NA
+     [179,]   NA   NA         NA   NA
+     [180,]   NA   NA         NA   NA
+     [181,]   NA   NA         NA   NA
+     [182,]   NA   NA         NA   NA
+     [183,]   NA   NA         NA   NA
+     [184,]   NA   NA         NA   NA
+     [185,]   NA   NA         NA   NA
+     [186,]   NA   NA         NA   NA
+     [187,]   NA   NA         NA   NA
+     [188,]   NA   NA         NA   NA
+     [189,]   NA   NA         NA   NA
+     [190,]   NA   NA         NA   NA
+     [191,]   NA   NA         NA   NA
+     [192,]   NA   NA         NA   NA
+     [193,]   NA   NA         NA   NA
+     [194,]   NA   NA         NA   NA
+     [195,]   NA   NA         NA   NA
+     [196,]   NA   NA         NA   NA
+     [197,]   NA   NA         NA   NA
+     [198,]   NA   NA         NA   NA
+     [199,]   NA   NA         NA   NA
+     [200,]   NA   NA         NA   NA
+     [201,]   NA   NA         NA   NA
+     [202,]   NA   NA         NA   NA
+     [203,]   NA   NA         NA   NA
+     [204,]   NA   NA         NA   NA
+     [205,]   NA   NA         NA   NA
+     [206,]   NA   NA         NA   NA
+     [207,]   NA   NA         NA   NA
+     [208,]   NA   NA         NA   NA
+     [209,]   NA   NA         NA   NA
+     [210,]   NA   NA         NA   NA
+     [211,]   NA   NA         NA   NA
+     [212,]   NA   NA         NA   NA
+     [213,]   NA   NA         NA   NA
+     [214,]   NA   NA         NA   NA
+     [215,]   NA   NA         NA   NA
+     [216,]   NA   NA         NA   NA
+     [217,]   NA   NA         NA   NA
+     [218,]   NA   NA         NA   NA
+     [219,]   NA   NA         NA   NA
+     [220,]   NA   NA         NA   NA
+     [221,]   NA   NA         NA   NA
+     [222,]   NA   NA         NA   NA
+     [223,]   NA   NA         NA   NA
+     [224,]   NA   NA         NA   NA
+     [225,]   NA   NA         NA   NA
+     [226,]   NA   NA         NA   NA
+     [227,]   NA   NA         NA   NA
+     [228,]   NA   NA         NA   NA
+     [229,]   NA   NA         NA   NA
+     [230,]   NA   NA         NA   NA
+     [231,]   NA   NA         NA   NA
+     [232,]   NA   NA         NA   NA
+     [233,]   NA   NA         NA   NA
+     [234,]   NA   NA         NA   NA
+     [235,]   NA   NA         NA   NA
+     [236,]   NA   NA         NA   NA
+     [237,]   NA   NA         NA   NA
+     [238,]   NA   NA         NA   NA
+     [239,]   NA   NA         NA   NA
+     [240,]   NA   NA         NA   NA
+     [241,]   NA   NA         NA   NA
+     [242,]   NA   NA         NA   NA
+     [243,]   NA   NA         NA   NA
+     [244,]   NA   NA         NA   NA
+     [245,]   NA   NA         NA   NA
+     [246,]   NA   NA         NA   NA
+     [247,]   NA   NA         NA   NA
+     [248,]   NA   NA         NA   NA
+     [249,]   NA   NA         NA   NA
+     [250,]   NA   NA         NA   NA
+     [251,]   NA   NA         NA   NA
+     [252,]   NA   NA         NA   NA
+     [253,]   NA   NA         NA   NA
+     [254,]   NA   NA         NA   NA
+     [255,]   NA   NA         NA   NA
+     [256,]   NA   NA         NA   NA
+     [257,]   NA   NA         NA   NA
+     [258,]   NA   NA         NA   NA
+     [259,]   NA   NA         NA   NA
+     [260,]   NA   NA         NA   NA
+     [261,]   NA   NA         NA   NA
+     [262,]   NA   NA         NA   NA
+     [263,]   NA   NA         NA   NA
+     [264,]   NA   NA         NA   NA
+     [265,]   NA   NA         NA   NA
+     [266,]   NA   NA         NA   NA
+     [267,]   NA   NA         NA   NA
+     [268,]   NA   NA         NA   NA
+     [269,]   NA   NA         NA   NA
+     [270,]   NA   NA         NA   NA
+     [271,]   NA   NA         NA   NA
+     [272,]   NA   NA         NA   NA
+     [273,]   NA   NA         NA   NA
+     [274,]   NA   NA         NA   NA
+     [275,]   NA   NA         NA   NA
+     [276,]   NA   NA         NA   NA
+     [277,]   NA   NA         NA   NA
+     [278,]   NA   NA         NA   NA
+     [279,]   NA   NA         NA   NA
+     [280,]   NA   NA         NA   NA
+     [281,]   NA   NA         NA   NA
+     [282,]   NA   NA         NA   NA
+     [283,]   NA   NA         NA   NA
+     [284,]   NA   NA         NA   NA
+     [285,]   NA   NA         NA   NA
+     [286,]   NA   NA         NA   NA
+     [287,]   NA   NA         NA   NA
+     [288,]   NA   NA         NA   NA
+     [289,]   NA   NA         NA   NA
+     [290,]   NA   NA         NA   NA
+     [291,]   NA   NA         NA   NA
+     [292,]   NA   NA         NA   NA
+     [293,]   NA   NA         NA   NA
+     [294,]   NA   NA         NA   NA
+     [295,]   NA   NA         NA   NA
+     [296,]   NA   NA         NA   NA
+     [297,]   NA   NA         NA   NA
+     [298,]   NA   NA         NA   NA
+     [299,]   NA   NA         NA   NA
+     [300,]   NA   NA         NA   NA
+     [301,]   NA   NA         NA   NA
+     [302,]   NA   NA         NA   NA
+     [303,]   NA   NA         NA   NA
+     [304,]   NA   NA         NA   NA
+     [305,]   NA   NA         NA   NA
+     [306,]   NA   NA         NA   NA
+     [307,]   NA   NA         NA   NA
+     [308,]   NA   NA         NA   NA
+     [309,]   NA   NA         NA   NA
+     [310,]   NA   NA         NA   NA
+     [311,]   NA   NA         NA   NA
+     [312,]   NA   NA         NA   NA
+     [313,]   NA   NA         NA   NA
+     [314,]   NA   NA         NA   NA
+     [315,]   NA   NA         NA   NA
+     [316,]   NA   NA         NA   NA
+     [317,]   NA   NA         NA   NA
+     [318,]   NA   NA         NA   NA
+     [319,]   NA   NA         NA   NA
+     [320,]   NA   NA         NA   NA
+     [321,]   NA   NA         NA   NA
+     [322,]   NA   NA         NA   NA
+     [323,]   NA   NA         NA   NA
+     [324,]   NA   NA         NA   NA
+     [325,]   NA   NA         NA   NA
+     [326,]   NA   NA         NA   NA
+     [327,]   NA   NA         NA   NA
+     [328,]   NA   NA         NA   NA
+     [329,]   NA   NA         NA   NA
+     [330,]   NA   NA         NA   NA
+     [331,]   NA   NA         NA   NA
+     [332,]   NA   NA         NA   NA
+     [333,]   NA   NA         NA   NA
+     [334,]   NA   NA         NA   NA
+     [335,]   NA   NA         NA   NA
+     [336,]   NA   NA         NA   NA
+     [337,]   NA   NA         NA   NA
+     [338,]   NA   NA         NA   NA
+     [339,]   NA   NA         NA   NA
+     [340,]   NA   NA         NA   NA
+     [341,]   NA   NA         NA   NA
+     [342,]   NA   NA         NA   NA
+     [343,]   NA   NA         NA   NA
+     [344,]   NA   NA         NA   NA
+     [345,]   NA   NA         NA   NA
+     [346,]   NA   NA         NA   NA
+     [347,]   NA   NA         NA   NA
+     [348,]   NA   NA         NA   NA
+     [349,]   NA   NA         NA   NA
+     [350,]   NA   NA         NA   NA
+     [351,]   NA   NA         NA   NA
+     [352,]   NA   NA         NA   NA
+     [353,]   NA   NA         NA   NA
+     [354,]   NA   NA         NA   NA
+     [355,]   NA   NA         NA   NA
+     [356,]   NA   NA         NA   NA
+     [357,]   NA   NA         NA   NA
+     [358,]   NA   NA         NA   NA
+     [359,]   NA   NA         NA   NA
+     [360,]   NA   NA         NA   NA
+     [361,]   NA   NA         NA   NA
+     [362,]   NA   NA         NA   NA
+     [363,]   NA   NA         NA   NA
+     [364,]   NA   NA         NA   NA
+     [365,]   NA   NA         NA   NA
+     [366,]   NA   NA         NA   NA
+     [367,]   NA   NA         NA   NA
+     [368,]   NA   NA         NA   NA
+     [369,]   NA   NA         NA   NA
+     [370,]   NA   NA         NA   NA
+     [371,]   NA   NA         NA   NA
+     [372,]   NA   NA         NA   NA
+     [373,]   NA   NA         NA   NA
+     [374,]   NA   NA         NA   NA
+     [375,]   NA   NA         NA   NA
+     [376,]   NA   NA         NA   NA
+     [377,]   NA   NA         NA   NA
+     [378,]   NA   NA         NA   NA
+     [379,]   NA   NA         NA   NA
+     [380,]   NA   NA         NA   NA
+     [381,]   NA   NA         NA   NA
+     [382,]   NA   NA         NA   NA
+     [383,]   NA   NA         NA   NA
+     [384,]   NA   NA         NA   NA
+     [385,]   NA   NA         NA   NA
+     [386,]   NA   NA         NA   NA
+     [387,]   NA   NA         NA   NA
+     [388,]   NA   NA         NA   NA
+     [389,]   NA   NA         NA   NA
+     [390,]   NA   NA         NA   NA
+     [391,]   NA   NA         NA   NA
+     [392,]   NA   NA         NA   NA
+     [393,]   NA   NA         NA   NA
+     [394,]   NA   NA         NA   NA
+     [395,]   NA   NA         NA   NA
+     [396,]   NA   NA         NA   NA
+     [397,]   NA   NA         NA   NA
+     [398,]   NA   NA         NA   NA
+     [399,]   NA   NA         NA   NA
+     [400,]   NA   NA         NA   NA
+     [401,]   NA   NA         NA   NA
+     [402,]   NA   NA         NA   NA
+     [403,]   NA   NA         NA   NA
+     [404,]   NA   NA         NA   NA
+     [405,]   NA   NA         NA   NA
+     [406,]   NA   NA         NA   NA
+     [407,]   NA   NA         NA   NA
+     [408,]   NA   NA         NA   NA
+     [409,]   NA   NA         NA   NA
+     [410,]   NA   NA         NA   NA
+     [411,]   NA   NA         NA   NA
+     [412,]   NA   NA         NA   NA
+     [413,]   NA   NA         NA   NA
+     [414,]   NA   NA         NA   NA
+     [415,]   NA   NA         NA   NA
+     [416,]   NA   NA         NA   NA
+     [417,]   NA   NA         NA   NA
+     [418,]   NA   NA         NA   NA
+     [419,]   NA   NA         NA   NA
+     [420,]   NA   NA         NA   NA
+     [421,]   NA   NA         NA   NA
+     [422,]   NA   NA         NA   NA
+     [423,]   NA   NA         NA   NA
+     [424,]   NA   NA         NA   NA
+     [425,]   NA   NA         NA   NA
+     [426,]   NA   NA         NA   NA
+     [427,]   NA   NA         NA   NA
+     [428,]   NA   NA         NA   NA
+     [429,]   NA   NA         NA   NA
+     [430,]   NA   NA         NA   NA
+     [431,]   NA   NA         NA   NA
+     [432,]   NA   NA         NA   NA
+     [433,]   NA   NA         NA   NA
+     [434,]   NA   NA         NA   NA
+     [435,]   NA   NA         NA   NA
+     [436,]   NA   NA         NA   NA
+     [437,]   NA   NA         NA   NA
+     [438,]   NA   NA         NA   NA
+     [439,]   NA   NA         NA   NA
+     [440,]   NA   NA         NA   NA
+     [441,]   NA   NA         NA   NA
+     [442,]   NA   NA         NA   NA
+     [443,]   NA   NA         NA   NA
+     [444,]   NA   NA         NA   NA
+     [445,]   NA   NA         NA   NA
+     [446,]   NA   NA         NA   NA
+     [447,]   NA   NA         NA   NA
+     [448,]   NA   NA         NA   NA
+     [449,]   NA   NA         NA   NA
+     [450,]   NA   NA         NA   NA
+     [451,]   NA   NA         NA   NA
+     [452,]   NA   NA         NA   NA
+     [453,]   NA   NA         NA   NA
+     [454,]   NA   NA         NA   NA
+     [455,]   NA   NA         NA   NA
+     [456,]   NA   NA         NA   NA
+     [457,]   NA   NA         NA   NA
+     [458,]   NA   NA         NA   NA
+     [459,]   NA   NA         NA   NA
+     [460,]   NA   NA         NA   NA
+     [461,]   NA   NA         NA   NA
+     [462,]   NA   NA         NA   NA
+     [463,]   NA   NA         NA   NA
+     [464,]   NA   NA         NA   NA
+     [465,]   NA   NA         NA   NA
+     [466,]   NA   NA         NA   NA
+     [467,]   NA   NA         NA   NA
+     [468,]   NA   NA         NA   NA
+     [469,]   NA   NA         NA   NA
+     [470,]   NA   NA         NA   NA
+     [471,]   NA   NA         NA   NA
+     [472,]   NA   NA         NA   NA
+     [473,]   NA   NA         NA   NA
+     [474,]   NA   NA         NA   NA
+     [475,]   NA   NA         NA   NA
+     [476,]   NA   NA         NA   NA
+     [477,]   NA   NA         NA   NA
+     [478,]   NA   NA         NA   NA
+     [479,]   NA   NA         NA   NA
+     [480,]   NA   NA         NA   NA
+     [481,]   NA   NA         NA   NA
+     [482,]   NA   NA         NA   NA
+     [483,]   NA   NA         NA   NA
+     [484,]   NA   NA         NA   NA
+     [485,]   NA   NA         NA   NA
+     [486,]   NA   NA         NA   NA
+     [487,]   NA   NA         NA   NA
+     [488,]   NA   NA         NA   NA
+     [489,]   NA   NA         NA   NA
+     [490,]   NA   NA         NA   NA
+     [491,]   NA   NA         NA   NA
+     [492,]   NA   NA         NA   NA
+     [493,]   NA   NA         NA   NA
+     [494,]   NA   NA         NA   NA
+     [495,]   NA   NA         NA   NA
+     [496,]   NA   NA         NA   NA
+     [497,]   NA   NA         NA   NA
+     [498,]   NA   NA         NA   NA
+     [499,]   NA   NA         NA   NA
+     [500,]   NA   NA         NA   NA
+     [501,]   NA   NA         NA   NA
+     [502,]   NA   NA         NA   NA
+     [503,]   NA   NA         NA   NA
+     [504,]   NA   NA         NA   NA
+     [505,]   NA   NA         NA   NA
+     [506,]   NA   NA         NA   NA
+     [507,]   NA   NA         NA   NA
+     [508,]   NA   NA         NA   NA
+     [509,]   NA   NA         NA   NA
+     [510,]   NA   NA         NA   NA
+     [511,]   NA   NA         NA   NA
+     [512,]   NA   NA         NA   NA
+     [513,]   NA   NA         NA   NA
+     [514,]   NA   NA         NA   NA
+     [515,]   NA   NA         NA   NA
+     [516,]   NA   NA         NA   NA
+     [517,]   NA   NA         NA   NA
+     [518,]   NA   NA         NA   NA
+     [519,]   NA   NA         NA   NA
+     [520,]   NA   NA         NA   NA
+     [521,]   NA   NA         NA   NA
+     [522,]   NA   NA         NA   NA
+     [523,]   NA   NA         NA   NA
+     [524,]   NA   NA         NA   NA
+     [525,]   NA   NA         NA   NA
+     [526,]   NA   NA         NA   NA
+     [527,]   NA   NA         NA   NA
+     [528,]   NA   NA         NA   NA
+     [529,]   NA   NA         NA   NA
+     [530,]   NA   NA         NA   NA
+     [531,]   NA   NA         NA   NA
+     [532,]   NA   NA         NA   NA
+     [533,]   NA   NA         NA   NA
+     [534,]   NA   NA         NA   NA
+     [535,]   NA   NA         NA   NA
+     [536,]   NA   NA         NA   NA
+     [537,]   NA   NA         NA   NA
+     [538,]   NA   NA         NA   NA
+     [539,]   NA   NA         NA   NA
+     [540,]   NA   NA         NA   NA
+     [541,]   NA   NA         NA   NA
+     [542,]   NA   NA         NA   NA
+     [543,]   NA   NA         NA   NA
+     [544,]   NA   NA         NA   NA
+     [545,]   NA   NA         NA   NA
+     [546,]   NA   NA         NA   NA
+     [547,]   NA   NA         NA   NA
+     [548,]   NA   NA         NA   NA
+     [549,]   NA   NA         NA   NA
+     [550,]   NA   NA         NA   NA
+     [551,]   NA   NA         NA   NA
+     [552,]   NA   NA         NA   NA
+     [553,]   NA   NA         NA   NA
+     [554,]   NA   NA         NA   NA
+     [555,]   NA   NA         NA   NA
+     [556,]   NA   NA         NA   NA
+     [557,]   NA   NA         NA   NA
+     [558,]   NA   NA         NA   NA
+     [559,]   NA   NA         NA   NA
+     [560,]   NA   NA         NA   NA
+     [561,]   NA   NA         NA   NA
+     [562,]   NA   NA         NA   NA
+     [563,]   NA   NA         NA   NA
+     [564,]   NA   NA         NA   NA
+     [565,]   NA   NA         NA   NA
+     [566,]   NA   NA         NA   NA
+     [567,]   NA   NA         NA   NA
+     [568,]   NA   NA         NA   NA
+     [569,]   NA   NA         NA   NA
+     [570,]   NA   NA         NA   NA
+     [571,]   NA   NA         NA   NA
+     [572,]   NA   NA         NA   NA
+     [573,]   NA   NA         NA   NA
+     [574,]   NA   NA         NA   NA
+     [575,]   NA   NA         NA   NA
+     [576,]   NA   NA         NA   NA
+     [577,]   NA   NA         NA   NA
+     [578,]   NA   NA         NA   NA
+     [579,]   NA   NA         NA   NA
+     [580,]   NA   NA         NA   NA
+     [581,]   NA   NA         NA   NA
+     [582,]   NA   NA         NA   NA
+     [583,]   NA   NA         NA   NA
+     [584,]   NA   NA         NA   NA
+     [585,]   NA   NA         NA   NA
+     [586,]   NA   NA         NA   NA
+     [587,]   NA   NA         NA   NA
+     [588,]   NA   NA         NA   NA
+     [589,]   NA   NA         NA   NA
+     [590,]   NA   NA         NA   NA
+     [591,]   NA   NA         NA   NA
+     [592,]   NA   NA         NA   NA
+     [593,]   NA   NA         NA   NA
+     [594,]   NA   NA         NA   NA
+     [595,]   NA   NA         NA   NA
+     [596,]   NA   NA         NA   NA
+     [597,]   NA   NA         NA   NA
+     [598,]   NA   NA         NA   NA
+     [599,]   NA   NA         NA   NA
+     [600,]   NA   NA         NA   NA
+     [601,]   NA   NA         NA   NA
+     [602,]   NA   NA         NA   NA
+     [603,]   NA   NA         NA   NA
+     [604,]   NA   NA         NA   NA
+     [605,]   NA   NA         NA   NA
+     [606,]   NA   NA         NA   NA
+     [607,]   NA   NA         NA   NA
+     [608,]   NA   NA         NA   NA
+     [609,]   NA   NA         NA   NA
+     [610,]   NA   NA         NA   NA
+     [611,]   NA   NA         NA   NA
+     [612,]   NA   NA         NA   NA
+     [613,]   NA   NA         NA   NA
+     [614,]   NA   NA         NA   NA
+     [615,]   NA   NA         NA   NA
+     [616,]   NA   NA         NA   NA
+     [617,]   NA   NA         NA   NA
+     [618,]   NA   NA         NA   NA
+     [619,]   NA   NA         NA   NA
+     [620,]   NA   NA         NA   NA
+     [621,]   NA   NA         NA   NA
+     [622,]   NA   NA         NA   NA
+     [623,]   NA   NA         NA   NA
+     [624,]   NA   NA         NA   NA
+     [625,]   NA   NA         NA   NA
+     [626,]   NA   NA         NA   NA
+     [627,]   NA   NA         NA   NA
+     [628,]   NA   NA         NA   NA
+     [629,]   NA   NA         NA   NA
+     [630,]   NA   NA         NA   NA
+     [631,]   NA   NA         NA   NA
+     [632,]   NA   NA         NA   NA
+     [633,]   NA   NA         NA   NA
+     [634,]   NA   NA         NA   NA
+     [635,]   NA   NA         NA   NA
+     [636,]   NA   NA         NA   NA
+     [637,]   NA   NA         NA   NA
+     [638,]   NA   NA         NA   NA
+     [639,]   NA   NA         NA   NA
+     [640,]   NA   NA         NA   NA
+     [641,]   NA   NA         NA   NA
+     [642,]   NA   NA         NA   NA
+     [643,]   NA   NA         NA   NA
+     [644,]   NA   NA         NA   NA
+     [645,]   NA   NA         NA   NA
+     [646,]   NA   NA         NA   NA
+     [647,]   NA   NA         NA   NA
+     [648,]   NA   NA         NA   NA
+     [649,]   NA   NA         NA   NA
+     [650,]   NA   NA         NA   NA
+     [651,]   NA   NA         NA   NA
+     [652,]   NA   NA         NA   NA
+     [653,]   NA   NA         NA   NA
+     [654,]   NA   NA         NA   NA
+     [655,]   NA   NA         NA   NA
+     [656,]   NA   NA         NA   NA
+     [657,]   NA   NA         NA   NA
+     [658,]   NA   NA         NA   NA
+     [659,]   NA   NA         NA   NA
+     [660,]   NA   NA         NA   NA
+     [661,]   NA   NA         NA   NA
+     [662,]   NA   NA         NA   NA
+     [663,]   NA   NA         NA   NA
+     [664,]   NA   NA         NA   NA
+     [665,]   NA   NA         NA   NA
+     [666,]   NA   NA         NA   NA
+     [667,]   NA   NA         NA   NA
+     [668,]   NA   NA         NA   NA
+     [669,]   NA   NA         NA   NA
+     [670,]   NA   NA         NA   NA
+     [671,]   NA   NA         NA   NA
+     [672,]   NA   NA         NA   NA
+     [673,]   NA   NA         NA   NA
+     [674,]   NA   NA         NA   NA
+     [675,]   NA   NA         NA   NA
+     [676,]   NA   NA         NA   NA
+     [677,]   NA   NA         NA   NA
+     [678,]   NA   NA         NA   NA
+     [679,]   NA   NA         NA   NA
+     [680,]   NA   NA         NA   NA
+     [681,]   NA   NA         NA   NA
+     [682,]   NA   NA         NA   NA
+     [683,]   NA   NA         NA   NA
+     [684,]   NA   NA         NA   NA
+     [685,]   NA   NA         NA   NA
+     [686,]   NA   NA         NA   NA
+     [687,]   NA   NA         NA   NA
+     [688,]   NA   NA         NA   NA
+     [689,]   NA   NA         NA   NA
+     [690,]   NA   NA         NA   NA
+     [691,]   NA   NA         NA   NA
+     [692,]   NA   NA         NA   NA
+     [693,]   NA   NA         NA   NA
+     [694,]   NA   NA         NA   NA
+     [695,]   NA   NA         NA   NA
+     [696,]   NA   NA         NA   NA
+     [697,]   NA   NA         NA   NA
+     [698,]   NA   NA         NA   NA
+     [699,]   NA   NA         NA   NA
+     [700,]   NA   NA         NA   NA
+     [701,]   NA   NA         NA   NA
+     [702,]   NA   NA         NA   NA
+     [703,]   NA   NA         NA   NA
+     [704,]   NA   NA         NA   NA
+     [705,]   NA   NA         NA   NA
+     [706,]   NA   NA         NA   NA
+     [707,]   NA   NA         NA   NA
+     [708,]   NA   NA         NA   NA
+     [709,]   NA   NA         NA   NA
+     [710,]   NA   NA         NA   NA
+     [711,]   NA   NA         NA   NA
+     [712,]   NA   NA         NA   NA
+     [713,]   NA   NA         NA   NA
+     [714,]   NA   NA         NA   NA
+     [715,]   NA   NA         NA   NA
+     [716,]   NA   NA         NA   NA
+     [717,]   NA   NA         NA   NA
+     [718,]   NA   NA         NA   NA
+     [719,]   NA   NA         NA   NA
+     [720,]   NA   NA         NA   NA
+     [721,]   NA   NA         NA   NA
+     [722,]   NA   NA         NA   NA
+     [723,]   NA   NA         NA   NA
+     [724,]   NA   NA         NA   NA
+     [725,]   NA   NA         NA   NA
+     [726,]   NA   NA         NA   NA
+     [727,]   NA   NA         NA   NA
+     [728,]   NA   NA         NA   NA
+     [729,]   NA   NA         NA   NA
+     [730,]   NA   NA         NA   NA
+     [731,]   NA   NA         NA   NA
+     [732,]   NA   NA         NA   NA
+     [733,]   NA   NA         NA   NA
+     [734,]   NA   NA         NA   NA
+     [735,]   NA   NA         NA   NA
+     [736,]   NA   NA         NA   NA
+     [737,]   NA   NA         NA   NA
+     [738,]   NA   NA         NA   NA
+     [739,]   NA   NA         NA   NA
+     [740,]   NA   NA         NA   NA
+     [741,]   NA   NA         NA   NA
+     [742,]   NA   NA         NA   NA
+     [743,]   NA   NA         NA   NA
+     [744,]   NA   NA         NA   NA
+     [745,]   NA   NA         NA   NA
+     [746,]   NA   NA         NA   NA
+     [747,]   NA   NA         NA   NA
+     [748,]   NA   NA         NA   NA
+     [749,]   NA   NA         NA   NA
+     [750,]   NA   NA         NA   NA
+     [751,]   NA   NA         NA   NA
+     [752,]   NA   NA         NA   NA
+     [753,]   NA   NA         NA   NA
+     [754,]   NA   NA         NA   NA
+     [755,]   NA   NA         NA   NA
+     [756,]   NA   NA         NA   NA
+     [757,]   NA   NA         NA   NA
+     [758,]   NA   NA         NA   NA
+     [759,]   NA   NA         NA   NA
+     [760,]   NA   NA         NA   NA
+     [761,]   NA   NA         NA   NA
+     [762,]   NA   NA         NA   NA
+     [763,]   NA   NA         NA   NA
+     [764,]   NA   NA         NA   NA
+     [765,]   NA   NA         NA   NA
+     [766,]   NA   NA         NA   NA
+     [767,]   NA   NA         NA   NA
+     [768,]   NA   NA         NA   NA
+     [769,]   NA   NA         NA   NA
+     [770,]   NA   NA         NA   NA
+     [771,]   NA   NA         NA   NA
+     [772,]   NA   NA         NA   NA
+     [773,]   NA   NA         NA   NA
+     [774,]   NA   NA         NA   NA
+     [775,]   NA   NA         NA   NA
+     [776,]   NA   NA         NA   NA
+     [777,]   NA   NA         NA   NA
+     [778,]   NA   NA         NA   NA
+     [779,]   NA   NA         NA   NA
+     [780,]   NA   NA         NA   NA
+     [781,]   NA   NA         NA   NA
+     [782,]   NA   NA         NA   NA
+     [783,]   NA   NA         NA   NA
+     [784,]   NA   NA         NA   NA
+     [785,]   NA   NA         NA   NA
+     [786,]   NA   NA         NA   NA
+     [787,]   NA   NA         NA   NA
+     [788,]   NA   NA         NA   NA
+     [789,]   NA   NA         NA   NA
+     [790,]   NA   NA         NA   NA
+     [791,]   NA   NA         NA   NA
+     [792,]   NA   NA         NA   NA
+     [793,]   NA   NA         NA   NA
+     [794,]   NA   NA         NA   NA
+     [795,]   NA   NA         NA   NA
+     [796,]   NA   NA         NA   NA
+     [797,]   NA   NA         NA   NA
+     [798,]   NA   NA         NA   NA
+     [799,]   NA   NA         NA   NA
+     [800,]   NA   NA         NA   NA
+     [801,]   NA   NA         NA   NA
+     [802,]   NA   NA         NA   NA
+     [803,]   NA   NA         NA   NA
+     [804,]   NA   NA         NA   NA
+     [805,]   NA   NA         NA   NA
+     [806,]   NA   NA         NA   NA
+     [807,]   NA   NA         NA   NA
+     [808,]   NA   NA         NA   NA
+     [809,]   NA   NA         NA   NA
+     [810,]   NA   NA         NA   NA
+     [811,]   NA   NA         NA   NA
+     [812,]   NA   NA         NA   NA
+     [813,]   NA   NA         NA   NA
+     [814,]   NA   NA         NA   NA
+     [815,]   NA   NA         NA   NA
+     [816,]   NA   NA         NA   NA
+     [817,]   NA   NA         NA   NA
+     [818,]   NA   NA         NA   NA
+     [819,]   NA   NA         NA   NA
+     [820,]   NA   NA         NA   NA
+     [821,]   NA   NA         NA   NA
+     [822,]   NA   NA         NA   NA
+     [823,]   NA   NA         NA   NA
+     [824,]   NA   NA         NA   NA
+     [825,]   NA   NA         NA   NA
+     [826,]   NA   NA         NA   NA
+     [827,]   NA   NA         NA   NA
+     [828,]   NA   NA         NA   NA
+     [829,]   NA   NA         NA   NA
+     [830,]   NA   NA         NA   NA
+     [831,]   NA   NA         NA   NA
+     [832,]   NA   NA         NA   NA
+     [833,]   NA   NA         NA   NA
+     [834,]   NA   NA         NA   NA
+     [835,]   NA   NA         NA   NA
+     [836,]   NA   NA         NA   NA
+     [837,]   NA   NA         NA   NA
+     [838,]   NA   NA         NA   NA
+     [839,]   NA   NA         NA   NA
+     [840,]   NA   NA         NA   NA
+     [841,]   NA   NA         NA   NA
+     [842,]   NA   NA         NA   NA
+     [843,]   NA   NA         NA   NA
+     [844,]   NA   NA         NA   NA
+     [845,]   NA   NA         NA   NA
+     [846,]   NA   NA         NA   NA
+     [847,]   NA   NA         NA   NA
+     [848,]   NA   NA         NA   NA
+     [849,]   NA   NA         NA   NA
+     [850,]   NA   NA         NA   NA
+     [851,]   NA   NA         NA   NA
+     [852,]   NA   NA         NA   NA
+     [853,]   NA   NA         NA   NA
+     [854,]   NA   NA         NA   NA
+     [855,]   NA   NA         NA   NA
+     [856,]   NA   NA         NA   NA
+     [857,]   NA   NA         NA   NA
+     [858,]   NA   NA         NA   NA
+     [859,]   NA   NA         NA   NA
+     [860,]   NA   NA         NA   NA
+     [861,]   NA   NA         NA   NA
+     [862,]   NA   NA         NA   NA
+     [863,]   NA   NA         NA   NA
+     [864,]   NA   NA         NA   NA
+     [865,]   NA   NA         NA   NA
+     [866,]   NA   NA         NA   NA
+     [867,]   NA   NA         NA   NA
+     [868,]   NA   NA         NA   NA
+     [869,]   NA   NA         NA   NA
+     [870,]   NA   NA         NA   NA
+     [871,]   NA   NA         NA   NA
+     [872,]   NA   NA         NA   NA
+     [873,]   NA   NA         NA   NA
+     [874,]   NA   NA         NA   NA
+     [875,]   NA   NA         NA   NA
+     [876,]   NA   NA         NA   NA
+     [877,]   NA   NA         NA   NA
+     [878,]   NA   NA         NA   NA
+     [879,]   NA   NA         NA   NA
+     [880,]   NA   NA         NA   NA
+     [881,]   NA   NA         NA   NA
+     [882,]   NA   NA         NA   NA
+     [883,]   NA   NA         NA   NA
+     [884,]   NA   NA         NA   NA
+     [885,]   NA   NA         NA   NA
+     [886,]   NA   NA         NA   NA
+     [887,]   NA   NA         NA   NA
+     [888,]   NA   NA         NA   NA
+     [889,]   NA   NA         NA   NA
+     [890,]   NA   NA         NA   NA
+     [891,]   NA   NA         NA   NA
+     [892,]   NA   NA         NA   NA
+     [893,]   NA   NA         NA   NA
+     [894,]   NA   NA         NA   NA
+     [895,]   NA   NA         NA   NA
+     [896,]   NA   NA         NA   NA
+     [897,]   NA   NA         NA   NA
+     [898,]   NA   NA         NA   NA
+     [899,]   NA   NA         NA   NA
+     [900,]   NA   NA         NA   NA
+     [901,]   NA   NA         NA   NA
+     [902,]   NA   NA         NA   NA
+     [903,]   NA   NA         NA   NA
+     [904,]   NA   NA         NA   NA
+     [905,]   NA   NA         NA   NA
+     [906,]   NA   NA         NA   NA
+     [907,]   NA   NA         NA   NA
+     [908,]   NA   NA         NA   NA
+     [909,]   NA   NA         NA   NA
+     [910,]   NA   NA         NA   NA
+     [911,]   NA   NA         NA   NA
+     [912,]   NA   NA         NA   NA
+     [913,]   NA   NA         NA   NA
+     [914,]   NA   NA         NA   NA
+     [915,]   NA   NA         NA   NA
+     [916,]   NA   NA         NA   NA
+     [917,]   NA   NA         NA   NA
+     [918,]   NA   NA         NA   NA
+     [919,]   NA   NA         NA   NA
+     [920,]   NA   NA         NA   NA
+     [921,]   NA   NA         NA   NA
+     [922,]   NA   NA         NA   NA
+     [923,]   NA   NA         NA   NA
+     [924,]   NA   NA         NA   NA
+     [925,]   NA   NA         NA   NA
+     [926,]   NA   NA         NA   NA
+     [927,]   NA   NA         NA   NA
+     [928,]   NA   NA         NA   NA
+     [929,]   NA   NA         NA   NA
+     [930,]   NA   NA         NA   NA
+     [931,]   NA   NA         NA   NA
+     [932,]   NA   NA         NA   NA
+     [933,]   NA   NA         NA   NA
+     [934,]   NA   NA         NA   NA
+     [935,]   NA   NA         NA   NA
+     [936,]   NA   NA         NA   NA
+     [937,]   NA   NA         NA   NA
+     [938,]   NA   NA         NA   NA
+     [939,]   NA   NA         NA   NA
+     [940,]   NA   NA         NA   NA
+     [941,]   NA   NA         NA   NA
+     [942,]   NA   NA         NA   NA
+     [943,]   NA   NA         NA   NA
+     [944,]   NA   NA         NA   NA
+     [945,]   NA   NA         NA   NA
+     [946,]   NA   NA         NA   NA
+     [947,]   NA   NA         NA   NA
+     [948,]   NA   NA         NA   NA
+     [949,]   NA   NA         NA   NA
+     [950,]   NA   NA         NA   NA
+     [951,]   NA   NA         NA   NA
+     [952,]   NA   NA         NA   NA
+     [953,]   NA   NA         NA   NA
+     [954,]   NA   NA         NA   NA
+     [955,]   NA   NA         NA   NA
+     [956,]   NA   NA         NA   NA
+     [957,]   NA   NA         NA   NA
+     [958,]   NA   NA         NA   NA
+     [959,]   NA   NA         NA   NA
+     [960,]   NA   NA         NA   NA
+     [961,]   NA   NA         NA   NA
+     [962,]   NA   NA         NA   NA
+     [963,]   NA   NA         NA   NA
+     [964,]   NA   NA         NA   NA
+     [965,]   NA   NA         NA   NA
+     [966,]   NA   NA         NA   NA
+     [967,]   NA   NA         NA   NA
+     [968,]   NA   NA         NA   NA
+     [969,]   NA   NA  -6.561051   NA
+     [970,]   NA   NA -12.725776   NA
+     [971,]   NA   NA  -6.539392   NA
+     [972,]   NA   NA  -1.081066   NA
+     [973,]   NA   NA  -5.737913   NA
+     [974,]   NA   NA         NA   NA
+     [975,]   NA   NA         NA   NA
+     [976,]   NA   NA         NA   NA
+     [977,]   NA   NA         NA   NA
+     [978,]   NA   NA         NA   NA
+     [979,]   NA   NA         NA   NA
+     [980,]   NA   NA         NA   NA
+     [981,]   NA   NA         NA   NA
+     [982,]   NA   NA         NA   NA
+     [983,]   NA   NA         NA   NA
+     [984,]   NA   NA         NA   NA
+     [985,]   NA   NA         NA   NA
+     [986,]   NA   NA         NA   NA
+     [987,]   NA   NA         NA   NA
+     [988,]   NA   NA         NA   NA
+     [989,]   NA   NA         NA   NA
+     [990,]   NA   NA         NA   NA
+     [991,]   NA   NA         NA   NA
+     [992,]   NA   NA         NA   NA
+     [993,]   NA   NA         NA   NA
+     [994,]   NA   NA         NA   NA
+     [995,]   NA   NA         NA   NA
+     [996,]   NA   NA         NA   NA
+     [997,]   NA   NA         NA   NA
+     [998,]   NA   NA         NA   NA
+     [999,]   NA   NA         NA   NA
+    [1000,]   NA   NA         NA   NA
+    [1001,]   NA   NA         NA   NA
+    [1002,]   NA   NA         NA   NA
+    [1003,]   NA   NA         NA   NA
+    [1004,]   NA   NA         NA   NA
+    [1005,]   NA   NA         NA   NA
+    [1006,]   NA   NA         NA   NA
+    [1007,]   NA   NA         NA   NA
+    [1008,]   NA   NA         NA   NA
+    [1009,]   NA   NA         NA   NA
+    [1010,]   NA   NA         NA   NA
+    [1011,]   NA   NA         NA   NA
+    [1012,]   NA   NA         NA   NA
+    [1013,]   NA   NA         NA   NA
+    [1014,]   NA   NA         NA   NA
+    [1015,]   NA   NA         NA   NA
+    [1016,]   NA   NA         NA   NA
+    [1017,]   NA   NA         NA   NA
+    [1018,]   NA   NA         NA   NA
+    [1019,]   NA   NA         NA   NA
+    [1020,]   NA   NA         NA   NA
+    [1021,]   NA   NA         NA   NA
+    [1022,]   NA   NA         NA   NA
+    [1023,]   NA   NA         NA   NA
+    [1024,]   NA   NA         NA   NA
+    [1025,]   NA   NA         NA   NA
+    [1026,]   NA   NA         NA   NA
+    [1027,]   NA   NA         NA   NA
+    [1028,]   NA   NA         NA   NA
+    [1029,]   NA   NA         NA   NA
+    [1030,]   NA   NA         NA   NA
+    [1031,]   NA   NA         NA   NA
+    [1032,]   NA   NA         NA   NA
+    [1033,]   NA   NA         NA   NA
+    [1034,]   NA   NA         NA   NA
+    [1035,]   NA   NA         NA   NA
+    [1036,]   NA   NA         NA   NA
+    [1037,]   NA   NA         NA   NA
+    [1038,]   NA   NA         NA   NA
+    [1039,]   NA   NA         NA   NA
+    [1040,]   NA   NA         NA   NA
+    [1041,]   NA   NA         NA   NA
+    [1042,]   NA   NA         NA   NA
+    [1043,]   NA   NA         NA   NA
+    [1044,]   NA   NA         NA   NA
+    [1045,]   NA   NA         NA   NA
+    [1046,]   NA   NA         NA   NA
+    [1047,]   NA   NA         NA   NA
+    [1048,]   NA   NA         NA   NA
+    [1049,]   NA   NA         NA   NA
+    [1050,]   NA   NA         NA   NA
+    [1051,]   NA   NA         NA   NA
+    [1052,]   NA   NA         NA   NA
+    [1053,]   NA   NA         NA   NA
+    [1054,]   NA   NA         NA   NA
+    [1055,]   NA   NA         NA   NA
+    [1056,]   NA   NA         NA   NA
+    [1057,]   NA   NA         NA   NA
+    [1058,]   NA   NA         NA   NA
+    [1059,]   NA   NA         NA   NA
+    [1060,]   NA   NA         NA   NA
+    [1061,]   NA   NA         NA   NA
+    [1062,]   NA   NA         NA   NA
+    [1063,]   NA   NA         NA   NA
+    [1064,]   NA   NA         NA   NA
+    [1065,]   NA   NA         NA   NA
+    [1066,]   NA   NA         NA   NA
+    [1067,]   NA   NA         NA   NA
+    [1068,]   NA   NA         NA   NA
+    [1069,]   NA   NA         NA   NA
+    [1070,]   NA   NA         NA   NA
+    [1071,]   NA   NA         NA   NA
+    [1072,]   NA   NA         NA   NA
+    [1073,]   NA   NA         NA   NA
+    [1074,]   NA   NA         NA   NA
+    [1075,]   NA   NA         NA   NA
+    [1076,]   NA   NA         NA   NA
+    [1077,]   NA   NA         NA   NA
+    [1078,]   NA   NA         NA   NA
+    [1079,]   NA   NA         NA   NA
+    [1080,]   NA   NA         NA   NA
+    [1081,]   NA   NA         NA   NA
+    [1082,]   NA   NA         NA   NA
+    [1083,]   NA   NA         NA   NA
+    [1084,]   NA   NA         NA   NA
+    [1085,]   NA   NA         NA   NA
+    [1086,]   NA   NA         NA   NA
+    [1087,]   NA   NA         NA   NA
+    [1088,]   NA   NA         NA   NA
+    [1089,]   NA   NA         NA   NA
+    [1090,]   NA   NA         NA   NA
+    [1091,]   NA   NA         NA   NA
+    [1092,]   NA   NA         NA   NA
+    [1093,]   NA   NA         NA   NA
+    [1094,]   NA   NA         NA   NA
+    [1095,]   NA   NA         NA   NA
+    [1096,]   NA   NA         NA   NA
+    [1097,]   NA   NA         NA   NA
+    [1098,]   NA   NA         NA   NA
+    [1099,]   NA   NA         NA   NA
+    [1100,]   NA   NA         NA   NA
+    [1101,]   NA   NA         NA   NA
+    [1102,]   NA   NA         NA   NA
+    [1103,]   NA   NA         NA   NA
+    [1104,]   NA   NA         NA   NA
+    [1105,]   NA   NA         NA   NA
+    [1106,]   NA   NA         NA   NA
+    [1107,]   NA   NA         NA   NA
+    [1108,]   NA   NA         NA   NA
+    [1109,]   NA   NA         NA   NA
+    [1110,]   NA   NA         NA   NA
+    [1111,]   NA   NA         NA   NA
+    [1112,]   NA   NA         NA   NA
+    [1113,]   NA   NA         NA   NA
+    [1114,]   NA   NA         NA   NA
+    [1115,]   NA   NA         NA   NA
+    [1116,]   NA   NA         NA   NA
+    [1117,]   NA   NA         NA   NA
+    [1118,]   NA   NA         NA   NA
+    [1119,]   NA   NA         NA   NA
+    [1120,]   NA   NA         NA   NA
+    [1121,]   NA   NA         NA   NA
+    [1122,]   NA   NA         NA   NA
+    [1123,]   NA   NA         NA   NA
+    [1124,]   NA   NA         NA   NA
+    [1125,]   NA   NA         NA   NA
+    [1126,]   NA   NA         NA   NA
+    [1127,]   NA   NA         NA   NA
+    [1128,]   NA   NA         NA   NA
+    [1129,]   NA   NA         NA   NA
+    [1130,]   NA   NA         NA   NA
+    [1131,]   NA   NA         NA   NA
+    [1132,]   NA   NA         NA   NA
+    [1133,]   NA   NA         NA   NA
+    [1134,]   NA   NA         NA   NA
+    [1135,]   NA   NA         NA   NA
+    [1136,]   NA   NA         NA   NA
+    [1137,]   NA   NA         NA   NA
+    [1138,]   NA   NA         NA   NA
+    [1139,]   NA   NA         NA   NA
+    [1140,]   NA   NA         NA   NA
+    [1141,]   NA   NA         NA   NA
+    [1142,]   NA   NA         NA   NA
+    [1143,]   NA   NA         NA   NA
+    [1144,]   NA   NA         NA   NA
+    [1145,]   NA   NA         NA   NA
+    [1146,]   NA   NA         NA   NA
+    [1147,]   NA   NA         NA   NA
+    [1148,]   NA   NA         NA   NA
+    [1149,]   NA   NA         NA   NA
+    [1150,]   NA   NA         NA   NA
+    [1151,]   NA   NA         NA   NA
+    [1152,]   NA   NA         NA   NA
+    [1153,]   NA   NA         NA   NA
+    [1154,]   NA   NA         NA   NA
+    [1155,]   NA   NA         NA   NA
+    [1156,]   NA   NA         NA   NA
+    [1157,]   NA   NA         NA   NA
+    [1158,]   NA   NA         NA   NA
+    [1159,]   NA   NA         NA   NA
+    [1160,]   NA   NA         NA   NA
+    [1161,]   NA   NA         NA   NA
+    [1162,]   NA   NA         NA   NA
+    [1163,]   NA   NA         NA   NA
+    [1164,]   NA   NA         NA   NA
+    [1165,]   NA   NA         NA   NA
+    [1166,]   NA   NA         NA   NA
+    [1167,]   NA   NA         NA   NA
+    [1168,]   NA   NA         NA   NA
+    [1169,]   NA   NA         NA   NA
+    [1170,]   NA   NA         NA   NA
+    [1171,]   NA   NA         NA   NA
+    [1172,]   NA   NA         NA   NA
+    [1173,]   NA   NA         NA   NA
+    [1174,]   NA   NA         NA   NA
+    [1175,]   NA   NA         NA   NA
+    [1176,]   NA   NA         NA   NA
+    [1177,]   NA   NA         NA   NA
+    [1178,]   NA   NA         NA   NA
+    [1179,]   NA   NA         NA   NA
+    [1180,]   NA   NA         NA   NA
+    [1181,]   NA   NA         NA   NA
+    [1182,]   NA   NA         NA   NA
+    [1183,]   NA   NA         NA   NA
+    [1184,]   NA   NA         NA   NA
+    [1185,]   NA   NA         NA   NA
+    [1186,]   NA   NA         NA   NA
+    [1187,]   NA   NA         NA   NA
+    [1188,]   NA   NA         NA   NA
+    [1189,]   NA   NA         NA   NA
+    [1190,]   NA   NA         NA   NA
+    [1191,]   NA   NA         NA   NA
+    [1192,]   NA   NA         NA   NA
+    [1193,]   NA   NA         NA   NA
+    [1194,]   NA   NA         NA   NA
+    [1195,]   NA   NA         NA   NA
+    [1196,]   NA   NA         NA   NA
+    [1197,]   NA   NA         NA   NA
+    [1198,]   NA   NA         NA   NA
+    [1199,]   NA   NA         NA   NA
+    [1200,]   NA   NA         NA   NA
+    [1201,]   NA   NA         NA   NA
+    [1202,]   NA   NA         NA   NA
+    [1203,]   NA   NA         NA   NA
+    [1204,]   NA   NA         NA   NA
+    [1205,]   NA   NA         NA   NA
+    [1206,]   NA   NA         NA   NA
+    [1207,]   NA   NA         NA   NA
+    [1208,]   NA   NA         NA   NA
+    [1209,]   NA   NA         NA   NA
+    [1210,]   NA   NA         NA   NA
+    [1211,]   NA   NA         NA   NA
+    [1212,]   NA   NA         NA   NA
+    [1213,]   NA   NA         NA   NA
+    [1214,]   NA   NA         NA   NA
+    [1215,]   NA   NA         NA   NA
+    [1216,]   NA   NA         NA   NA
+    [1217,]   NA   NA         NA   NA
+    [1218,]   NA   NA         NA   NA
+    [1219,]   NA   NA         NA   NA
+    [1220,]   NA   NA         NA   NA
+    [1221,]   NA   NA         NA   NA
+    [1222,]   NA   NA         NA   NA
+    [1223,]   NA   NA         NA   NA
+    [1224,]   NA   NA         NA   NA
+    [1225,]   NA   NA         NA   NA
+    [1226,]   NA   NA         NA   NA
+    [1227,]   NA   NA         NA   NA
+    [1228,]   NA   NA         NA   NA
+    [1229,]   NA   NA         NA   NA
+    [1230,]   NA   NA         NA   NA
+    [1231,]   NA   NA         NA   NA
+    [1232,]   NA   NA         NA   NA
+    [1233,]   NA   NA         NA   NA
+    [1234,]   NA   NA         NA   NA
+    [1235,]   NA   NA         NA   NA
+    [1236,]   NA   NA         NA   NA
+    [1237,]   NA   NA         NA   NA
+    [1238,]   NA   NA         NA   NA
+    [1239,]   NA   NA         NA   NA
+    [1240,]   NA   NA         NA   NA
+    [1241,]   NA   NA         NA   NA
+    [1242,]   NA   NA         NA   NA
+    [1243,]   NA   NA         NA   NA
+    [1244,]   NA   NA         NA   NA
+    [1245,]   NA   NA         NA   NA
+    [1246,]   NA   NA         NA   NA
+    [1247,]   NA   NA         NA   NA
+    [1248,]   NA   NA         NA   NA
+    [1249,]   NA   NA         NA   NA
+    [1250,]   NA   NA         NA   NA
+    [1251,]   NA   NA         NA   NA
+    [1252,]   NA   NA         NA   NA
+    [1253,]   NA   NA         NA   NA
+    [1254,]   NA   NA         NA   NA
+    [1255,]   NA   NA         NA   NA
+    [1256,]   NA   NA         NA   NA
+    [1257,]   NA   NA         NA   NA
+    [1258,]   NA   NA         NA   NA
+    [1259,]   NA   NA         NA   NA
+    [1260,]   NA   NA         NA   NA
+    [1261,]   NA   NA         NA   NA
+    [1262,]   NA   NA         NA   NA
+    [1263,]   NA   NA         NA   NA
+    [1264,]   NA   NA         NA   NA
+    [1265,]   NA   NA         NA   NA
+    [1266,]   NA   NA         NA   NA
+    [1267,]   NA   NA         NA   NA
+    [1268,]   NA   NA         NA   NA
+    [1269,]   NA   NA         NA   NA
+    [1270,]   NA   NA         NA   NA
+    [1271,]   NA   NA         NA   NA
+    [1272,]   NA   NA         NA   NA
+    [1273,]   NA   NA         NA   NA
+    [1274,]   NA   NA         NA   NA
+    [1275,]   NA   NA         NA   NA
+    [1276,]   NA   NA         NA   NA
+    [1277,]   NA   NA         NA   NA
+    [1278,]   NA   NA         NA   NA
+    [1279,]   NA   NA         NA   NA
+    [1280,]   NA   NA         NA   NA
+    [1281,]   NA   NA         NA   NA
+    [1282,]   NA   NA         NA   NA
+    [1283,]   NA   NA         NA   NA
+    [1284,]   NA   NA         NA   NA
+    [1285,]   NA   NA         NA   NA
+    [1286,]   NA   NA         NA   NA
+    [1287,]   NA   NA         NA   NA
+    [1288,]   NA   NA         NA   NA
+    [1289,]   NA   NA         NA   NA
+    [1290,]   NA   NA         NA   NA
+    [1291,]   NA   NA         NA   NA
+    [1292,]   NA   NA         NA   NA
+    [1293,]   NA   NA         NA   NA
+    [1294,]   NA   NA         NA   NA
+    [1295,]   NA   NA         NA   NA
+    [1296,]   NA   NA         NA   NA
+    [1297,]   NA   NA         NA   NA
+    [1298,]   NA   NA         NA   NA
+    [1299,]   NA   NA         NA   NA
+    [1300,]   NA   NA         NA   NA
+    [1301,]   NA   NA         NA   NA
+    [1302,]   NA   NA         NA   NA
+    [1303,]   NA   NA         NA   NA
+    [1304,]   NA   NA         NA   NA
+    [1305,]   NA   NA         NA   NA
+    [1306,]   NA   NA         NA   NA
+    [1307,]   NA   NA         NA   NA
+    [1308,]   NA   NA         NA   NA
+    [1309,]   NA   NA         NA   NA
+    [1310,]   NA   NA         NA   NA
+    [1311,]   NA   NA         NA   NA
+    [1312,]   NA   NA         NA   NA
+    [1313,]   NA   NA         NA   NA
+    [1314,]   NA   NA         NA   NA
+    [1315,]   NA   NA         NA   NA
+    [1316,]   NA   NA         NA   NA
+    [1317,]   NA   NA         NA   NA
+    [1318,]   NA   NA         NA   NA
+    [1319,]   NA   NA         NA   NA
+    [1320,]   NA   NA         NA   NA
+    [1321,]   NA   NA         NA   NA
+    [1322,]   NA   NA         NA   NA
+    [1323,]   NA   NA         NA   NA
+    [1324,]   NA   NA         NA   NA
+    [1325,]   NA   NA         NA   NA
+    [1326,]   NA   NA         NA   NA
+    [1327,]   NA   NA         NA   NA
+    [1328,]   NA   NA         NA   NA
+    [1329,]   NA   NA         NA   NA
+    [1330,]   NA   NA         NA   NA
+    [1331,]   NA   NA         NA   NA
+    [1332,]   NA   NA         NA   NA
+    [1333,]   NA   NA         NA   NA
+    [1334,]   NA   NA         NA   NA
+    [1335,]   NA   NA         NA   NA
+    [1336,]   NA   NA         NA   NA
+    [1337,]   NA   NA         NA   NA
+    [1338,]   NA   NA         NA   NA
+    [1339,]   NA   NA         NA   NA
+    [1340,]   NA   NA         NA   NA
+    [1341,]   NA   NA         NA   NA
+    [1342,]   NA   NA         NA   NA
+    [1343,]   NA   NA         NA   NA
+    [1344,]   NA   NA         NA   NA
+    [1345,]   NA   NA         NA   NA
+    [1346,]   NA   NA         NA   NA
+    [1347,]   NA   NA         NA   NA
+    [1348,]   NA   NA         NA   NA
+    [1349,]   NA   NA         NA   NA
+    [1350,]   NA   NA         NA   NA
+    [1351,]   NA   NA         NA   NA
+    [1352,]   NA   NA         NA   NA
+    [1353,]   NA   NA         NA   NA
+    [1354,]   NA   NA         NA   NA
+    [1355,]   NA   NA         NA   NA
+    [1356,]   NA   NA         NA   NA
+    [1357,]   NA   NA         NA   NA
+    [1358,]   NA   NA         NA   NA
+    [1359,]   NA   NA         NA   NA
+    [1360,]   NA   NA         NA   NA
+    [1361,]   NA   NA         NA   NA
+    [1362,]   NA   NA         NA   NA
+    [1363,]   NA   NA         NA   NA
+    [1364,]   NA   NA         NA   NA
+    [1365,]   NA   NA         NA   NA
+    [1366,]   NA   NA         NA   NA
+    [1367,]   NA   NA         NA   NA
+    [1368,]   NA   NA         NA   NA
+    [1369,]   NA   NA         NA   NA
+    [1370,]   NA   NA         NA   NA
+    [1371,]   NA   NA         NA   NA
+    [1372,]   NA   NA         NA   NA
+    [1373,]   NA   NA         NA   NA
+    [1374,]   NA   NA         NA   NA
+    [1375,]   NA   NA         NA   NA
+    [1376,]   NA   NA         NA   NA
+    [1377,]   NA   NA         NA   NA
+    [1378,]   NA   NA         NA   NA
+    [1379,]   NA   NA         NA   NA
+    [1380,]   NA   NA         NA   NA
+    [1381,]   NA   NA         NA   NA
+    [1382,]   NA   NA         NA   NA
+    [1383,]   NA   NA         NA   NA
+    [1384,]   NA   NA         NA   NA
+    [1385,]   NA   NA         NA   NA
+    [1386,]   NA   NA         NA   NA
+    [1387,]   NA   NA         NA   NA
+    [1388,]   NA   NA         NA   NA
+    [1389,]   NA   NA         NA   NA
+    [1390,]   NA   NA         NA   NA
+    [1391,]   NA   NA         NA   NA
+    [1392,]   NA   NA         NA   NA
+    [1393,]   NA   NA         NA   NA
+    [1394,]   NA   NA         NA   NA
+    [1395,]   NA   NA         NA   NA
+    [1396,]   NA   NA         NA   NA
+    [1397,]   NA   NA         NA   NA
+    [1398,]   NA   NA         NA   NA
+    [1399,]   NA   NA         NA   NA
+    [1400,]   NA   NA         NA   NA
+    [1401,]   NA   NA         NA   NA
+    [1402,]   NA   NA         NA   NA
+    [1403,]   NA   NA         NA   NA
+    [1404,]   NA   NA         NA   NA
+    [1405,]   NA   NA         NA   NA
+    [1406,]   NA   NA         NA   NA
+    [1407,]   NA   NA         NA   NA
+    [1408,]   NA   NA         NA   NA
+    [1409,]   NA   NA         NA   NA
+    [1410,]   NA   NA         NA   NA
+    [1411,]   NA   NA         NA   NA
+    [1412,]   NA   NA         NA   NA
+    [1413,]   NA   NA         NA   NA
+    [1414,]   NA   NA         NA   NA
+    [1415,]   NA   NA         NA   NA
+    [1416,]   NA   NA         NA   NA
+    [1417,]   NA   NA         NA   NA
+    [1418,]   NA   NA         NA   NA
+    [1419,]   NA   NA         NA   NA
+    [1420,]   NA   NA         NA   NA
+    [1421,]   NA   NA         NA   NA
+    [1422,]   NA   NA         NA   NA
+    [1423,]   NA   NA         NA   NA
+    [1424,]   NA   NA         NA   NA
+    [1425,]   NA   NA         NA   NA
+    [1426,]   NA   NA         NA   NA
+    [1427,]   NA   NA         NA   NA
+    [1428,]   NA   NA         NA   NA
+    [1429,]   NA   NA         NA   NA
+    [1430,]   NA   NA         NA   NA
+    [1431,]   NA   NA         NA   NA
+    [1432,]   NA   NA         NA   NA
+    [1433,]   NA   NA         NA   NA
+    [1434,]   NA   NA         NA   NA
+    [1435,]   NA   NA         NA   NA
+    [1436,]   NA   NA         NA   NA
+    [1437,]   NA   NA         NA   NA
+    [1438,]   NA   NA         NA   NA
+    [1439,]   NA   NA         NA   NA
+    [1440,]   NA   NA         NA   NA
+    [1441,]   NA   NA         NA   NA
+    [1442,]   NA   NA         NA   NA
+    [1443,]   NA   NA         NA   NA
+    [1444,]   NA   NA         NA   NA
+    [1445,]   NA   NA         NA   NA
+    [1446,]   NA   NA         NA   NA
+    [1447,]   NA   NA         NA   NA
+    [1448,]   NA   NA         NA   NA
+    [1449,]   NA   NA         NA   NA
+    [1450,]   NA   NA         NA   NA
+    [1451,]   NA   NA         NA   NA
+    [1452,]   NA   NA         NA   NA
+    [1453,]   NA   NA         NA   NA
+    [1454,]   NA   NA         NA   NA
+    [1455,]   NA   NA         NA   NA
+    [1456,]   NA   NA         NA   NA
+    [1457,]   NA   NA         NA   NA
+    [1458,]   NA   NA         NA   NA
+    [1459,]   NA   NA         NA   NA
+    [1460,]   NA   NA         NA   NA
+    [1461,]   NA   NA         NA   NA
+    [1462,]   NA   NA         NA   NA
+    [1463,]   NA   NA         NA   NA
+    [1464,]   NA   NA         NA   NA
+    [1465,]   NA   NA         NA   NA
+    [1466,]   NA   NA         NA   NA
+    [1467,]   NA   NA         NA   NA
+    [1468,]   NA   NA         NA   NA
+    [1469,]   NA   NA         NA   NA
+    [1470,]   NA   NA         NA   NA
+    [1471,]   NA   NA         NA   NA
+    [1472,]   NA   NA         NA   NA
+    [1473,]   NA   NA         NA   NA
+    [1474,]   NA   NA         NA   NA
+    [1475,]   NA   NA         NA   NA
+    [1476,]   NA   NA         NA   NA
+    [1477,]   NA   NA         NA   NA
+    [1478,]   NA   NA         NA   NA
+    [1479,]   NA   NA         NA   NA
+    [1480,]   NA   NA         NA   NA
+    [1481,]   NA   NA         NA   NA
+    [1482,]   NA   NA         NA   NA
+    [1483,]   NA   NA         NA   NA
+    [1484,]   NA   NA         NA   NA
+    [1485,]   NA   NA         NA   NA
+    [1486,]   NA   NA         NA   NA
+    [1487,]   NA   NA         NA   NA
+    [1488,]   NA   NA         NA   NA
+    [1489,]   NA   NA         NA   NA
+    [1490,]   NA   NA         NA   NA
+    [1491,]   NA   NA         NA   NA
+    [1492,]   NA   NA         NA   NA
+    [1493,]   NA   NA         NA   NA
+    [1494,]   NA   NA         NA   NA
+    [1495,]   NA   NA         NA   NA
+    [1496,]   NA   NA         NA   NA
+    [1497,]   NA   NA         NA   NA
+    [1498,]   NA   NA         NA   NA
+    [1499,]   NA   NA         NA   NA
+    [1500,]   NA   NA         NA   NA
+    [1501,]   NA   NA         NA   NA
+    [1502,]   NA   NA         NA   NA
+    [1503,]   NA   NA         NA   NA
+    [1504,]   NA   NA         NA   NA
+    [1505,]   NA   NA         NA   NA
+    [1506,]   NA   NA         NA   NA
+    [1507,]   NA   NA         NA   NA
+    [1508,]   NA   NA         NA   NA
+    [1509,]   NA   NA         NA   NA
+    [1510,]   NA   NA         NA   NA
+    [1511,]   NA   NA         NA   NA
+    [1512,]   NA   NA         NA   NA
+    [1513,]   NA   NA         NA   NA
+    [1514,]   NA   NA         NA   NA
+    [1515,]   NA   NA         NA   NA
+    [1516,]   NA   NA         NA   NA
+    [1517,]   NA   NA         NA   NA
+    [1518,]   NA   NA         NA   NA
+    [1519,]   NA   NA         NA   NA
+    [1520,]   NA   NA         NA   NA
+    [1521,]   NA   NA         NA   NA
+    [1522,]   NA   NA         NA   NA
+    [1523,]   NA   NA         NA   NA
+    [1524,]   NA   NA         NA   NA
+    [1525,]   NA   NA         NA   NA
+    [1526,]   NA   NA         NA   NA
+    [1527,]   NA   NA         NA   NA
+    [1528,]   NA   NA         NA   NA
+    [1529,]   NA   NA         NA   NA
+    [1530,]   NA   NA         NA   NA
+    [1531,]   NA   NA         NA   NA
+    [1532,]   NA   NA         NA   NA
+    [1533,]   NA   NA         NA   NA
+    [1534,]   NA   NA         NA   NA
+    [1535,]   NA   NA         NA   NA
+    [1536,]   NA   NA         NA   NA
+    [1537,]   NA   NA         NA   NA
+    [1538,]   NA   NA         NA   NA
+    [1539,]   NA   NA         NA   NA
+    [1540,]   NA   NA         NA   NA
+    [1541,]   NA   NA         NA   NA
+    [1542,]   NA   NA         NA   NA
+    [1543,]   NA   NA         NA   NA
+    [1544,]   NA   NA         NA   NA
+    [1545,]   NA   NA         NA   NA
+    [1546,]   NA   NA         NA   NA
+    [1547,]   NA   NA         NA   NA
+    [1548,]   NA   NA         NA   NA
+    [1549,]   NA   NA         NA   NA
+    [1550,]   NA   NA         NA   NA
+    [1551,]   NA   NA         NA   NA
+    [1552,]   NA   NA         NA   NA
+    [1553,]   NA   NA         NA   NA
+    [1554,]   NA   NA         NA   NA
+    [1555,]   NA   NA         NA   NA
+    [1556,]   NA   NA         NA   NA
+    [1557,]   NA   NA         NA   NA
+    [1558,]   NA   NA         NA   NA
+    [1559,]   NA   NA         NA   NA
+    [1560,]   NA   NA         NA   NA
+    [1561,]   NA   NA         NA   NA
+    [1562,]   NA   NA         NA   NA
+    [1563,]   NA   NA         NA   NA
+    [1564,]   NA   NA         NA   NA
+    [1565,]   NA   NA         NA   NA
+    [1566,]   NA   NA         NA   NA
+    [1567,]   NA   NA         NA   NA
+    [1568,]   NA   NA         NA   NA
+    [1569,]   NA   NA         NA   NA
+    [1570,]   NA   NA         NA   NA
+    [1571,]   NA   NA         NA   NA
+    [1572,]   NA   NA         NA   NA
+    [1573,]   NA   NA         NA   NA
+    [1574,]   NA   NA         NA   NA
+    [1575,]   NA   NA         NA   NA
+    [1576,]   NA   NA         NA   NA
+    [1577,]   NA   NA         NA   NA
+    [1578,]   NA   NA         NA   NA
+    [1579,]   NA   NA         NA   NA
+    [1580,]   NA   NA         NA   NA
+    [1581,]   NA   NA         NA   NA
+    [1582,]   NA   NA         NA   NA
+    [1583,]   NA   NA         NA   NA
+    [1584,]   NA   NA         NA   NA
+    [1585,]   NA   NA         NA   NA
+    [1586,]   NA   NA         NA   NA
+    [1587,]   NA   NA         NA   NA
+    [1588,]   NA   NA         NA   NA
+    [1589,]   NA   NA         NA   NA
+    [1590,]   NA   NA         NA   NA
+    [1591,]   NA   NA         NA   NA
+    [1592,]   NA   NA         NA   NA
+    [1593,]   NA   NA         NA   NA
+    [1594,]   NA   NA         NA   NA
+    [1595,]   NA   NA         NA   NA
+    [1596,]   NA   NA         NA   NA
+    [1597,]   NA   NA         NA   NA
+    [1598,]   NA   NA         NA   NA
+    [1599,]   NA   NA         NA   NA
+    [1600,]   NA   NA         NA   NA
+    [1601,]   NA   NA         NA   NA
+    [1602,]   NA   NA         NA   NA
+    [1603,]   NA   NA         NA   NA
+    [1604,]   NA   NA         NA   NA
+    [1605,]   NA   NA         NA   NA
+    [1606,]   NA   NA         NA   NA
+    [1607,]   NA   NA         NA   NA
+    [1608,]   NA   NA         NA   NA
+    [1609,]   NA   NA         NA   NA
+    [1610,]   NA   NA         NA   NA
+    [1611,]   NA   NA         NA   NA
+    [1612,]   NA   NA         NA   NA
+    [1613,]   NA   NA         NA   NA
+    [1614,]   NA   NA         NA   NA
+    [1615,]   NA   NA         NA   NA
+    [1616,]   NA   NA         NA   NA
+    [1617,]   NA   NA         NA   NA
+    [1618,]   NA   NA         NA   NA
+    [1619,]   NA   NA         NA   NA
+    [1620,]   NA   NA         NA   NA
+    [1621,]   NA   NA         NA   NA
+    [1622,]   NA   NA         NA   NA
+    [1623,]   NA   NA         NA   NA
+    [1624,]   NA   NA         NA   NA
+    [1625,]   NA   NA         NA   NA
+    [1626,]   NA   NA         NA   NA
+    [1627,]   NA   NA         NA   NA
+    [1628,]   NA   NA         NA   NA
+    [1629,]   NA   NA         NA   NA
+    [1630,]   NA   NA         NA   NA
+    [1631,]   NA   NA         NA   NA
+    [1632,]   NA   NA         NA   NA
+    [1633,]   NA   NA         NA   NA
+    [1634,]   NA   NA   9.531747   NA
+    [1635,]   NA   NA  -6.137358   NA
+    [1636,]   NA   NA  -5.112834   NA
+    [1637,]   NA   NA         NA   NA
+    [1638,]   NA   NA         NA   NA
+    [1639,]   NA   NA         NA   NA
+    [1640,]   NA   NA         NA   NA
+    [1641,]   NA   NA         NA   NA
+    [1642,]   NA   NA         NA   NA
+    [1643,]   NA   NA         NA   NA
+    [1644,]   NA   NA         NA   NA
+    [1645,]   NA   NA         NA   NA
+    [1646,]   NA   NA         NA   NA
+    [1647,]   NA   NA         NA   NA
+    [1648,]   NA   NA         NA   NA
+    [1649,]   NA   NA         NA   NA
+    [1650,]   NA   NA         NA   NA
+    [1651,]   NA   NA         NA   NA
+    [1652,]   NA   NA         NA   NA
+    [1653,]   NA   NA         NA   NA
+    [1654,]   NA   NA         NA   NA
+    [1655,]   NA   NA         NA   NA
+    [1656,]   NA   NA         NA   NA
+    [1657,]   NA   NA         NA   NA
+    [1658,]   NA   NA         NA   NA
+    [1659,]   NA   NA         NA   NA
+    [1660,]   NA   NA         NA   NA
+    [1661,]   NA   NA         NA   NA
+    [1662,]   NA   NA         NA   NA
+    [1663,]   NA   NA         NA   NA
+    [1664,]   NA   NA         NA   NA
+    [1665,]   NA   NA         NA   NA
+    [1666,]   NA   NA         NA   NA
+    [1667,]   NA   NA         NA   NA
+    [1668,]   NA   NA         NA   NA
+    [1669,]   NA   NA         NA   NA
+    [1670,]   NA   NA         NA   NA
+    [1671,]   NA   NA         NA   NA
+    [1672,]   NA   NA         NA   NA
+    [1673,]   NA   NA         NA   NA
+    [1674,]   NA   NA         NA   NA
+    [1675,]   NA   NA         NA   NA
+    [1676,]   NA   NA         NA   NA
+    [1677,]   NA   NA         NA   NA
+    [1678,]   NA   NA         NA   NA
+    [1679,]   NA   NA         NA   NA
+    [1680,]   NA   NA         NA   NA
+    [1681,]   NA   NA         NA   NA
+    [1682,]   NA   NA         NA   NA
+    [1683,]   NA   NA         NA   NA
+    [1684,]   NA   NA         NA   NA
+    [1685,]   NA   NA         NA   NA
+    [1686,]   NA   NA         NA   NA
+    [1687,]   NA   NA         NA   NA
+    [1688,]   NA   NA         NA   NA
+    [1689,]   NA   NA         NA   NA
+    [1690,]   NA   NA         NA   NA
+    [1691,]   NA   NA         NA   NA
+    [1692,]   NA   NA         NA   NA
+    [1693,]   NA   NA         NA   NA
+    [1694,]   NA   NA         NA   NA
+    [1695,]   NA   NA         NA   NA
+    [1696,]   NA   NA         NA   NA
+    [1697,]   NA   NA         NA   NA
+    [1698,]   NA   NA         NA   NA
+    [1699,]   NA   NA         NA   NA
+    [1700,]   NA   NA         NA   NA
+    [1701,]   NA   NA         NA   NA
+    [1702,]   NA   NA         NA   NA
+    [1703,]   NA   NA         NA   NA
+    [1704,]   NA   NA         NA   NA
+    [1705,]   NA   NA         NA   NA
+    [1706,]   NA   NA         NA   NA
+    [1707,]   NA   NA         NA   NA
+    [1708,]   NA   NA         NA   NA
+    [1709,]   NA   NA         NA   NA
+    [1710,]   NA   NA         NA   NA
+    [1711,]   NA   NA         NA   NA
+    [1712,]   NA   NA         NA   NA
+    [1713,]   NA   NA         NA   NA
+    [1714,]   NA   NA         NA   NA
+    [1715,]   NA   NA         NA   NA
+    [1716,]   NA   NA         NA   NA
+    [1717,]   NA   NA         NA   NA
+    [1718,]   NA   NA         NA   NA
+    [1719,]   NA   NA         NA   NA
+    [1720,]   NA   NA         NA   NA
+    [1721,]   NA   NA         NA   NA
+    [1722,]   NA   NA         NA   NA
+    [1723,]   NA   NA         NA   NA
+    [1724,]   NA   NA         NA   NA
+    [1725,]   NA   NA         NA   NA
+    [1726,]   NA   NA         NA   NA
+    [1727,]   NA   NA         NA   NA
+    [1728,]   NA   NA         NA   NA
+    [1729,]   NA   NA         NA   NA
+    [1730,]   NA   NA         NA   NA
+    [1731,]   NA   NA         NA   NA
+    [1732,]   NA   NA         NA   NA
+    [1733,]   NA   NA         NA   NA
+    [1734,]   NA   NA         NA   NA
+    [1735,]   NA   NA         NA   NA
+    [1736,]   NA   NA         NA   NA
+    [1737,]   NA   NA         NA   NA
+    [1738,]   NA   NA         NA   NA
+    [1739,]   NA   NA         NA   NA
+    [1740,]   NA   NA         NA   NA
+    [1741,]   NA   NA         NA   NA
+    [1742,]   NA   NA         NA   NA
+    [1743,]   NA   NA         NA   NA
+    [1744,]   NA   NA         NA   NA
+    [1745,]   NA   NA         NA   NA
+    [1746,]   NA   NA         NA   NA
+    [1747,]   NA   NA         NA   NA
+    [1748,]   NA   NA         NA   NA
+    [1749,]   NA   NA         NA   NA
+    [1750,]   NA   NA         NA   NA
+    [1751,]   NA   NA         NA   NA
+    [1752,]   NA   NA         NA   NA
+    [1753,]   NA   NA         NA   NA
+    [1754,]   NA   NA         NA   NA
+    [1755,]   NA   NA         NA   NA
+    [1756,]   NA   NA         NA   NA
+    [1757,]   NA   NA         NA   NA
+    [1758,]   NA   NA         NA   NA
+    [1759,]   NA   NA         NA   NA
+    [1760,]   NA   NA         NA   NA
+    [1761,]   NA   NA         NA   NA
+    [1762,]   NA   NA         NA   NA
+    [1763,]   NA   NA         NA   NA
+    [1764,]   NA   NA         NA   NA
+    [1765,]   NA   NA         NA   NA
+    [1766,]   NA   NA         NA   NA
+    [1767,]   NA   NA         NA   NA
+    [1768,]   NA   NA         NA   NA
+    [1769,]   NA   NA         NA   NA
+    [1770,]   NA   NA         NA   NA
+    [1771,]   NA   NA         NA   NA
+    [1772,]   NA   NA         NA   NA
+    [1773,]   NA   NA         NA   NA
+    [1774,]   NA   NA         NA   NA
+    [1775,]   NA   NA         NA   NA
+    [1776,]   NA   NA         NA   NA
+    [1777,]   NA   NA         NA   NA
+    [1778,]   NA   NA         NA   NA
+    [1779,]   NA   NA         NA   NA
+    [1780,]   NA   NA         NA   NA
+    [1781,]   NA   NA         NA   NA
+    [1782,]   NA   NA         NA   NA
+    [1783,]   NA   NA         NA   NA
+    [1784,]   NA   NA         NA   NA
+    [1785,]   NA   NA         NA   NA
+    [1786,]   NA   NA         NA   NA
+    [1787,]   NA   NA         NA   NA
+    [1788,]   NA   NA         NA   NA
+    [1789,]   NA   NA         NA   NA
+    [1790,]   NA   NA         NA   NA
+    [1791,]   NA   NA         NA   NA
+    [1792,]   NA   NA         NA   NA
+    [1793,]   NA   NA         NA   NA
+    [1794,]   NA   NA         NA   NA
+    [1795,]   NA   NA         NA   NA
+    [1796,]   NA   NA         NA   NA
+    [1797,]   NA   NA         NA   NA
+    [1798,]   NA   NA         NA   NA
+    [1799,]   NA   NA         NA   NA
+    [1800,]   NA   NA         NA   NA
+    [1801,]   NA   NA         NA   NA
+    [1802,]   NA   NA         NA   NA
+    [1803,]   NA   NA         NA   NA
+    [1804,]   NA   NA         NA   NA
+    [1805,]   NA   NA         NA   NA
+    [1806,]   NA   NA         NA   NA
+    [1807,]   NA   NA         NA   NA
+    [1808,]   NA   NA         NA   NA
+    [1809,]   NA   NA         NA   NA
+    [1810,]   NA   NA         NA   NA
+    [1811,]   NA   NA         NA   NA
+    [1812,]   NA   NA         NA   NA
+    [1813,]   NA   NA         NA   NA
+    [1814,]   NA   NA         NA   NA
+    [1815,]   NA   NA         NA   NA
+    [1816,]   NA   NA         NA   NA
+    [1817,]   NA   NA         NA   NA
+    [1818,]   NA   NA         NA   NA
+    [1819,]   NA   NA         NA   NA
+    [1820,]   NA   NA         NA   NA
+    [1821,]   NA   NA         NA   NA
+    [1822,]   NA   NA         NA   NA
+    [1823,]   NA   NA         NA   NA
+    [1824,]   NA   NA         NA   NA
+    [1825,]   NA   NA         NA   NA
+    [1826,]   NA   NA         NA   NA
+    [1827,]   NA   NA         NA   NA
+    [1828,]   NA   NA         NA   NA
+    [1829,]   NA   NA         NA   NA
+    [1830,]   NA   NA         NA   NA
+    [1831,]   NA   NA         NA   NA
+    [1832,]   NA   NA         NA   NA
+    [1833,]   NA   NA         NA   NA
+    [1834,]   NA   NA         NA   NA
+    [1835,]   NA   NA         NA   NA
+    [1836,]   NA   NA         NA   NA
+    [1837,]   NA   NA         NA   NA
+    [1838,]   NA   NA         NA   NA
+    [1839,]   NA   NA         NA   NA
+    [1840,]   NA   NA         NA   NA
+    [1841,]   NA   NA         NA   NA
+    [1842,]   NA   NA         NA   NA
+    [1843,]   NA   NA         NA   NA
+    [1844,]   NA   NA         NA   NA
+    [1845,]   NA   NA         NA   NA
+    [1846,]   NA   NA         NA   NA
+    [1847,]   NA   NA         NA   NA
+    [1848,]   NA   NA         NA   NA
+    [1849,]   NA   NA         NA   NA
+    [1850,]   NA   NA         NA   NA
+    [1851,]   NA   NA         NA   NA
+    [1852,]   NA   NA         NA   NA
+    [1853,]   NA   NA         NA   NA
+    [1854,]   NA   NA         NA   NA
+    [1855,]   NA   NA         NA   NA
+    [1856,]   NA   NA         NA   NA
+    [1857,]   NA   NA         NA   NA
+    [1858,]   NA   NA         NA   NA
+    [1859,]   NA   NA         NA   NA
+    [1860,]   NA   NA         NA   NA
+    [1861,]   NA   NA         NA   NA
+    [1862,]   NA   NA         NA   NA
+    [1863,]   NA   NA         NA   NA
+    [1864,]   NA   NA         NA   NA
+    [1865,]   NA   NA         NA   NA
+    [1866,]   NA   NA         NA   NA
+    [1867,]   NA   NA         NA   NA
+    [1868,]   NA   NA         NA   NA
+    [1869,]   NA   NA         NA   NA
+    [1870,]   NA   NA         NA   NA
+    [1871,]   NA   NA         NA   NA
+    [1872,]   NA   NA         NA   NA
+    [1873,]   NA   NA         NA   NA
+    [1874,]   NA   NA         NA   NA
+    [1875,]   NA   NA         NA   NA
+    [1876,]   NA   NA         NA   NA
+    [1877,]   NA   NA         NA   NA
+    [1878,]   NA   NA         NA   NA
+    [1879,]   NA   NA         NA   NA
+    [1880,]   NA   NA         NA   NA
+    [1881,]   NA   NA         NA   NA
+    [1882,]   NA   NA         NA   NA
+    [1883,]   NA   NA         NA   NA
+    [1884,]   NA   NA         NA   NA
+    [1885,]   NA   NA         NA   NA
+    [1886,]   NA   NA         NA   NA
+    [1887,]   NA   NA         NA   NA
+    [1888,]   NA   NA         NA   NA
+    [1889,]   NA   NA         NA   NA
+    [1890,]   NA   NA         NA   NA
+    [1891,]   NA   NA         NA   NA
+    [1892,]   NA   NA         NA   NA
+    [1893,]   NA   NA         NA   NA
+    [1894,]   NA   NA         NA   NA
+    [1895,]   NA   NA         NA   NA
+    [1896,]   NA   NA         NA   NA
+    [1897,]   NA   NA         NA   NA
+    [1898,]   NA   NA         NA   NA
+    [1899,]   NA   NA         NA   NA
+    [1900,]   NA   NA         NA   NA
+    [1901,]   NA   NA         NA   NA
+    [1902,]   NA   NA         NA   NA
+    [1903,]   NA   NA         NA   NA
+    [1904,]   NA   NA         NA   NA
+    [1905,]   NA   NA         NA   NA
+    [1906,]   NA   NA         NA   NA
+    [1907,]   NA   NA         NA   NA
+    [1908,]   NA   NA         NA   NA
+    [1909,]   NA   NA         NA   NA
+    [1910,]   NA   NA         NA   NA
+    [1911,]   NA   NA         NA   NA
+    [1912,]   NA   NA         NA   NA
+    [1913,]   NA   NA         NA   NA
+    [1914,]   NA   NA         NA   NA
+    [1915,]   NA   NA         NA   NA
+    [1916,]   NA   NA         NA   NA
+    [1917,]   NA   NA         NA   NA
+    [1918,]   NA   NA         NA   NA
+    [1919,]   NA   NA         NA   NA
+    [1920,]   NA   NA         NA   NA
+    [1921,]   NA   NA         NA   NA
+    [1922,]   NA   NA         NA   NA
+    [1923,]   NA   NA         NA   NA
+    [1924,]   NA   NA         NA   NA
+    [1925,]   NA   NA         NA   NA
+    [1926,]   NA   NA         NA   NA
+    [1927,]   NA   NA         NA   NA
+    [1928,]   NA   NA         NA   NA
+    [1929,]   NA   NA         NA   NA
+    [1930,]   NA   NA         NA   NA
+    [1931,]   NA   NA         NA   NA
+    [1932,]   NA   NA         NA   NA
+    [1933,]   NA   NA         NA   NA
+    [1934,]   NA   NA         NA   NA
+    [1935,]   NA   NA         NA   NA
+    [1936,]   NA   NA         NA   NA
+    [1937,]   NA   NA         NA   NA
+    [1938,]   NA   NA         NA   NA
+    [1939,]   NA   NA         NA   NA
+    [1940,]   NA   NA         NA   NA
+    [1941,]   NA   NA         NA   NA
+    [1942,]   NA   NA         NA   NA
+    [1943,]   NA   NA         NA   NA
+    [1944,]   NA   NA         NA   NA
+    [1945,]   NA   NA         NA   NA
+    
+    $Srv_ftm_stts_cn
+       [1]        NA        NA 24216.922 40202.421  9331.845 30053.642 21874.640
+       [8] 22057.951 15084.742 24891.800 16951.442        NA        NA        NA
+      [15]        NA        NA        NA        NA        NA        NA        NA
+      [22]        NA        NA        NA        NA        NA        NA        NA
+      [29]        NA        NA        NA        NA        NA        NA 34826.350
+      [36] 17895.485 16473.329 16417.069 24371.352 22731.921 36089.397        NA
+      [43]        NA        NA        NA        NA        NA        NA        NA
+      [50]        NA        NA        NA        NA        NA        NA        NA
+      [57]        NA        NA        NA        NA        NA        NA        NA
+      [64]        NA        NA        NA        NA        NA        NA        NA
+      [71]        NA 31565.161 23850.541 25556.239 18582.651 10026.563  8717.404
+      [78] 32427.336 21607.841  8120.333 28966.659 21289.124 21896.025        NA
+      [85]        NA        NA        NA        NA        NA        NA        NA
+      [92]        NA        NA        NA        NA        NA        NA        NA
+      [99]        NA        NA        NA 47771.977 11459.847 17982.365 21721.711
+     [106] 11869.561 17349.690 30941.611 20987.386 38529.796 12254.617 24031.127
+     [113] 21648.265 22783.849        NA        NA        NA        NA 35704.630
+     [120] 22337.342 29686.747 23437.023 24393.173 22586.752 33911.418 16322.005
+     [127] 24659.084 22258.817 30274.565 11284.159 14035.448 26425.702 22186.250
+     [134]        NA        NA        NA        NA        NA        NA        NA
+     [141]        NA        NA        NA        NA        NA        NA        NA
+     [148]        NA        NA        NA        NA        NA        NA        NA
+     [155]        NA        NA        NA        NA        NA        NA        NA
+     [162]        NA        NA        NA        NA        NA        NA 17959.434
+     [169] 32978.151 31902.253 21505.641 17013.322 20950.364 21620.703 23931.816
+     [176] 18276.078 20771.421 21730.925 23694.650        NA        NA        NA
+     [183]        NA        NA        NA        NA        NA        NA        NA
+     [190]        NA        NA        NA        NA        NA        NA        NA
+     [197]        NA        NA        NA        NA        NA        NA        NA
+     [204]        NA        NA        NA        NA        NA        NA        NA
+     [211]        NA        NA        NA        NA 24387.709 18677.278 11146.327
+     [218] 29774.131 10135.321 18097.058 13412.011 13956.317 16671.996 16738.152
+     [225] 27718.253 11198.399  8659.649 39137.293 18088.981  8794.441        NA
+     [232]        NA        NA        NA        NA        NA        NA        NA
+     [239]        NA        NA 21006.969 17404.650 29573.235 23449.982 13405.567
+     [246] 19119.519 39002.315 18232.502 32010.389 23139.815 36365.528 25614.199
+     [253] 27141.886 27939.724        NA        NA        NA        NA 19605.139
+     [260] 20303.818 14880.474 21995.199 15585.756 19383.344 18179.763 23932.061
+     [267] 23254.700 24711.251 19215.619        NA        NA        NA        NA
+     [274]        NA        NA        NA        NA        NA        NA        NA
+     [281]        NA        NA        NA        NA        NA        NA        NA
+     [288]        NA        NA 14234.525 21861.984 30413.655 27410.824 29777.306
+     [295] 20236.322 26499.576 30569.439 35498.734 10830.281 17221.188 11179.528
+     [302] 25574.713 24740.471 26361.511        NA        NA        NA        NA
+     [309] 26182.645 13139.865 23612.671 19380.830 19575.339 18648.047 32926.321
+     [316] 14581.605 17416.445 16408.702 15541.090 19618.266 25170.390 20053.054
+     [323] 32971.821 11996.879 27179.152 25906.950 32739.912 23052.862 28671.215
+     [330] 29922.280 26269.372 25099.437 18739.444 20906.460 23473.185 32793.967
+     [337] 26487.576 21563.272 21670.587        NA        NA        NA        NA
+     [344]        NA        NA        NA        NA        NA        NA        NA
+     [351] 23092.142 27688.941 15569.524 12836.349 15506.427 20839.640 28151.430
+     [358] 23006.492 20592.263        NA        NA        NA        NA        NA
+     [365]        NA        NA        NA 27046.414 27498.407 16396.869 10378.873
+     [372] 21442.789 23556.085 21288.526 13401.501 16701.103 12733.943  7679.990
+     [379] 16524.817 13841.462 11132.308 14369.254 26789.465        NA        NA
+     [386]        NA        NA        NA        NA        NA        NA        NA
+     [393]        NA        NA        NA        NA        NA        NA        NA
+     [400]        NA        NA        NA        NA        NA        NA        NA
+     [407]        NA        NA        NA        NA        NA        NA        NA
+     [414]        NA        NA        NA        NA        NA        NA        NA
+     [421]        NA        NA        NA        NA        NA        NA        NA
+     [428]        NA        NA        NA        NA        NA        NA        NA
+     [435]        NA        NA        NA        NA        NA        NA        NA
+     [442]        NA        NA        NA        NA        NA 26485.667 30367.851
+     [449] 24475.439 21498.689 32780.400  9837.780 20903.915 27037.684 24748.498
+     [456] 14185.671 26744.452 15035.408 27648.340 20171.193 26759.359 19063.745
+     [463]        NA        NA        NA        NA        NA        NA        NA
+     [470] 17313.017 26318.516 17316.634 24068.448 31512.275 29168.157 12987.191
+     [477] 14135.107 16898.435 28719.482 21240.607 15727.110 22921.217 31005.244
+     [484] 19181.378 17971.876 32620.116 30285.918 28946.806 11451.794 15061.098
+     [491] 19724.505 23328.036 15746.879 19962.383 26377.500 25307.904        NA
+     [498]        NA        NA        NA        NA        NA        NA        NA
+     [505]        NA        NA        NA        NA        NA        NA        NA
+     [512]        NA        NA        NA        NA 32548.037 26040.663 32881.937
+     [519] 25994.668 35593.098 14881.097        NA        NA        NA        NA
+     [526]        NA        NA        NA        NA        NA        NA        NA
+     [533]        NA        NA        NA        NA        NA        NA        NA
+     [540]        NA        NA        NA        NA        NA 37098.265 32512.687
+     [547] 19068.815 17160.716 15400.518 23490.266 19846.449 26673.336 25467.433
+     [554] 24061.520 29369.461 20154.823 31188.759 19605.502        NA        NA
+     [561]        NA        NA        NA        NA        NA        NA        NA
+     [568]        NA        NA        NA        NA        NA        NA        NA
+     [575]        NA 19963.040 13619.677 21801.481 17603.838 20360.210 17371.343
+     [582] 32940.197 27164.384 26935.226 19295.026 30431.832 18818.176 24120.649
+     [589] 26027.695 18394.404 19806.032 18015.318 34836.816 22280.918 22776.422
+     [596] 30761.253 19224.249 27669.821 15089.753 21870.908 25955.593 17827.276
+     [603] 21647.054 28435.519 34324.301 19982.801 19300.815        NA        NA
+     [610]        NA        NA        NA        NA        NA        NA        NA
+     [617]        NA        NA        NA        NA        NA        NA        NA
+     [624] 23544.508 14474.196  8529.449 25646.776 21400.848 32198.998 23541.867
+     [631] 26271.505 30548.988 21285.778 35562.750        NA        NA        NA
+     [638]        NA        NA        NA        NA        NA        NA        NA
+     [645]        NA        NA        NA        NA        NA        NA        NA
+     [652]        NA        NA        NA        NA        NA        NA        NA
+     [659] 17173.952 16276.569 23483.416 26748.397  6611.962 12594.527 28607.036
+     [666] 15184.938 37391.114 30004.714 19637.564 16351.063 16459.304 16651.785
+     [673] 30122.112 30928.152 30160.656 22936.156        NA        NA        NA
+     [680]        NA        NA        NA        NA        NA        NA        NA
+     [687]        NA        NA        NA        NA        NA        NA        NA
+     [694]        NA        NA        NA        NA        NA        NA        NA
+     [701]        NA        NA        NA        NA        NA        NA        NA
+     [708]        NA        NA        NA        NA 20296.975 12932.692  8662.357
+     [715] 15815.254 30988.652 12797.148 23276.114 25045.479 31554.571 25520.564
+     [722] 34594.311 27116.534 33176.450  8724.295 16881.088        NA        NA
+     [729]        NA        NA 21901.450 28274.210 26570.916 17194.153 13723.670
+     [736] 20857.398 34965.480 16652.856  6715.613 22675.073 25518.485 20389.148
+     [743] 12245.555 21134.104        NA        NA        NA        NA 21717.812
+     [750] 21652.872 32168.535 35129.807 13892.565 13323.184 16675.703 20909.198
+     [757] 26385.380 22811.326 27078.937 22494.372 25023.362 16561.256 23395.812
+     [764] 15235.396 20119.189 21417.662  6301.815 29753.263 22582.396 15020.280
+     [771] 26663.779 21484.072 19058.695 11299.904 16717.911        NA        NA
+     [778]        NA        NA 36699.117 20249.620 10374.724 14108.100 26388.300
+     [785] 35221.630 30433.297 17762.346 26061.994 24368.073 31531.634 21550.497
+     [792] 22265.378 12307.252 19401.869 12428.127 24904.106 17504.744 24630.473
+     [799] 17658.543 29351.415 14141.715 12944.398 15040.236        NA        NA
+     [806]        NA        NA        NA        NA        NA        NA        NA
+     [813]        NA        NA        NA        NA        NA        NA        NA
+     [820]        NA        NA        NA        NA        NA        NA        NA
+     [827]        NA        NA        NA 28336.236 25972.594 19955.649 21366.403
+     [834] 23144.076 33425.219 30731.428 15006.608 10217.287 24176.011 26539.883
+     [841]        NA        NA        NA        NA        NA        NA        NA
+     [848]        NA 20283.977 30288.443 26114.810 17056.177 16271.022 17723.962
+     [855] 24835.784 28433.966 17126.778 23957.739        NA        NA        NA
+     [862]        NA        NA        NA        NA        NA        NA        NA
+     [869]        NA        NA        NA        NA        NA        NA        NA
+     [876]        NA        NA        NA        NA        NA        NA        NA
+     [883]        NA        NA        NA        NA        NA        NA        NA
+     [890]        NA        NA        NA        NA        NA        NA        NA
+     [897]        NA        NA        NA        NA 23101.564 18267.108 30279.920
+     [904] 14738.969 25968.565 26591.526 27513.691 21445.362 13263.122 21246.805
+     [911] 24725.101 21856.870 26347.278 12971.015 27489.230 22568.442 23095.446
+     [918] 18004.848 20839.005 14697.066 19900.601 25183.926 21247.322        NA
+     [925]        NA        NA        NA        NA        NA        NA        NA
+     [932]        NA        NA        NA        NA        NA        NA        NA
+     [939]        NA        NA        NA        NA        NA        NA        NA
+     [946]        NA 31658.662 18041.349 19580.833 24725.660 12812.852 33372.486
+     [953] 23302.188 19824.839 19067.628 26137.054        NA        NA        NA
+     [960]        NA        NA        NA        NA        NA        NA        NA
+     [967]        NA        NA        NA        NA        NA        NA        NA
+     [974] 19935.673 20155.927 29136.402 29081.338 15812.437 13007.077 12093.384
+     [981] 12704.662 16743.276 19707.366 15630.070        NA        NA        NA
+     [988]        NA        NA 18554.972 13801.784 30252.843 11745.078 41314.220
+     [995] 21967.812 22541.969 15589.693 18971.524 21757.532 23193.400 39449.303
+    [1002]        NA        NA        NA        NA        NA        NA        NA
+    [1009]        NA        NA        NA 15865.987 23002.572 18344.775 10022.205
+    [1016] 26521.718 17691.503        NA        NA        NA        NA        NA
+    [1023]        NA        NA        NA        NA 20519.078 18528.479 24525.517
+    [1030] 10160.726 22187.385  8661.535 23751.707 28634.367 26332.981 21904.129
+    [1037] 27259.370 26978.205 23378.320 21165.478 20787.196 31909.780 17567.925
+    [1044] 27995.564 12181.299 15745.981 21121.786 19132.224 20967.383 21499.872
+    [1051] 12791.579 19288.563 12327.347 22416.463 10704.992 28335.224 13840.014
+    [1058] 11306.988 11396.764 11488.587 18594.282 11133.468 35909.823 28891.695
+    [1065] 14945.206 27183.307 10396.534 29440.415 11817.157        NA        NA
+    [1072]        NA        NA        NA        NA        NA        NA        NA
+    [1079]        NA        NA        NA 18916.379 23010.025 28025.535 32988.205
+    [1086] 10855.381 19559.367 29730.410 18503.001 28761.268 21610.466 21908.498
+    [1093] 29063.951 16921.723 20423.415 25209.529        NA        NA        NA
+    [1100]        NA        NA        NA        NA        NA        NA        NA
+    [1107]        NA        NA        NA        NA        NA        NA 11306.096
+    [1114] 11760.726 19939.901 19973.390        NA        NA        NA        NA
+    [1121]        NA        NA        NA        NA        NA        NA        NA
+    [1128]        NA        NA        NA        NA        NA        NA        NA
+    [1135]        NA        NA        NA 17695.064 19728.648 18063.590 22054.951
+    [1142] 18991.296 32743.776 25433.694  8610.135 13853.801 20526.162 19182.269
+    [1149] 18275.993 30462.328 15672.774 24779.855 24413.618 29315.171 20787.473
+    [1156] 36052.609 18939.043        NA        NA        NA 13395.063 27223.283
+    [1163] 29844.228 14968.434 19956.038 30134.912 14654.861 11509.662 26534.724
+    [1170] 23584.975        NA 20192.685 17069.625 19151.489        NA        NA
+    [1177]        NA        NA 20312.010 11491.072 23761.861 25533.085 27317.235
+    [1184] 14923.307 17703.252 16777.953 26863.305 18272.276 32036.653        NA
+    [1191]        NA        NA        NA        NA        NA        NA        NA
+    [1198]        NA        NA        NA        NA        NA 20795.867 14569.672
+    [1205] 32512.153 20629.345 21854.234 27600.275 36629.648 30990.078 23590.727
+    [1212] 14074.869 28370.472 32173.418 16388.389 20086.778  5722.147 24308.942
+    [1219] 32556.802 36320.458 24704.069        NA        NA        NA        NA
+    [1226]        NA        NA        NA        NA        NA        NA 25140.986
+    [1233]  8230.968 27171.159 17926.559 30529.441 22232.243 15699.772 25143.292
+    [1240]        NA        NA        NA        NA        NA        NA 20200.327
+    [1247] 35293.184 25713.366 37619.351 24959.363 16931.001 18259.984 24406.862
+    [1254] 30811.885 10576.114        NA        NA        NA        NA        NA
+    [1261] 18757.931  9168.900 29214.022 22229.922 35383.136 36796.080 23956.567
+    [1268] 33160.414  9846.613 14241.197 25589.576 27706.452 28088.685 24848.869
+    [1275]  5522.988 18108.398  3642.828 21325.856 23173.096 25731.056 33956.298
+    [1282] 27287.981 10348.787 20739.442 17325.842 12399.145 11905.133  8582.146
+    [1289] 12600.134 26142.800 12678.562 10798.552 28556.740 19725.129 29145.113
+    [1296] 32356.509 13773.598 17283.941 15362.674 19423.832  6961.065  9199.444
+    [1303] 21178.808 16422.418 20568.635  9444.874 19979.119        NA        NA
+    [1310]        NA        NA        NA        NA 21461.612 22197.226 20672.235
+    [1317] 11950.155 32602.716 26741.026 14449.915 13980.115  8745.331 22311.706
+    [1324] 25331.740 23499.933 29104.536 29847.423 29492.855 22142.965 20000.112
+    [1331] 17640.102 22545.712 30283.982 36831.147 16516.491 26954.531 16537.464
+    [1338] 27737.006 12492.669        NA        NA        NA        NA        NA
+    [1345]        NA        NA        NA        NA        NA        NA        NA
+    [1352]        NA        NA        NA        NA        NA        NA        NA
+    [1359]        NA        NA        NA        NA        NA        NA        NA
+    [1366] 27316.124 24538.950 20146.749 19577.073 16024.664 21943.892 13994.306
+    [1373]  5710.591 32727.993 23929.259 22679.731 19839.805 22104.682 23325.678
+    [1380] 12926.039 16183.105 25009.077        NA 26617.064 19801.150 28438.027
+    [1387]  6960.597 17198.301 20020.803 12806.438 21997.380 23604.216 11907.919
+    [1394]        NA        NA        NA        NA 27029.664 11331.117 21560.239
+    [1401] 19447.323 30770.493 29084.657        NA        NA        NA        NA
+    [1408]        NA        NA        NA        NA  8568.512 22892.634 22676.259
+    [1415] 26443.560 19135.629 34134.535 21994.928 26591.934 19920.595 18389.705
+    [1422] 19826.035 15355.401 22702.582 14357.820 22832.432 25052.911 32857.290
+    [1429] 26938.730 15825.315 30832.607        NA        NA        NA        NA
+    [1436]        NA        NA        NA        NA        NA        NA        NA
+    [1443] 26413.019 19647.506 22238.474 28974.799 31444.052 28336.852 31247.369
+    [1450] 24480.312 27212.840 24965.074 18314.227 15014.266 16358.551  5089.021
+    [1457]  9697.498 16683.373 18967.346 14902.879  7821.357 17523.202 11780.053
+    [1464]        NA        NA        NA        NA        NA        NA        NA
+    [1471]        NA        NA        NA        NA        NA        NA 20377.255
+    [1478] 25036.980  9903.960 27657.142 29824.519 29609.848 34533.517 32540.033
+    [1485] 32025.005 24820.684 16014.036 23631.149 18167.932 16778.681 25963.294
+    [1492]        NA        NA        NA 21344.662 18480.253 18254.945 17881.234
+    [1499] 24767.195 19255.496 15955.713 26176.573 21997.467 22675.513 35078.375
+    [1506] 26691.399 39817.568 17151.739 22643.461 22224.264 22016.644 20607.460
+    [1513] 17751.360 24319.315 19870.674 12587.014 20722.714 19257.125 25951.454
+    [1520] 28506.069 26600.745 32649.607        NA        NA        NA        NA
+    [1527]        NA        NA        NA        NA 24863.124 30395.574 15447.071
+    [1534] 31915.478 31150.234 18441.414 16892.117        NA        NA        NA
+    [1541]        NA 25587.592 31362.185 27065.089 16975.066 27715.045 16788.333
+    [1548] 26531.058 35769.514 39083.473 24252.923 23180.786 15751.821 28344.820
+    [1555] 28042.434 18249.777 19662.849        NA        NA        NA        NA
+    [1562]        NA 23787.374 17377.919 25886.285 16412.839 19461.294 10527.800
+    [1569] 25504.587  6793.231        NA        NA        NA        NA        NA
+    [1576] 11251.466 15021.328 27737.256 21051.802 21235.036 12595.628 18251.651
+    [1583] 16443.879 17439.702 29531.730 24989.980 20493.267 17046.207 20710.149
+    [1590] 25002.848 17709.368 21572.363 24631.551 39301.902 23866.150 25614.842
+    [1597] 24777.380 22689.493 21210.701 20512.009 15972.877        NA        NA
+    [1604]        NA        NA 12620.391 20698.498 30022.074 31284.815        NA
+    [1611]        NA        NA 21068.678 10724.450 30441.943 33762.755        NA
+    [1618]        NA        NA        NA 19664.974 18271.097 21624.889 18240.747
+    [1625] 16828.009 30738.547 26977.301        NA        NA 21012.361 22763.948
+    [1632]        NA        NA        NA        NA        NA        NA        NA
+    [1639]        NA 24549.256 11411.097 25725.231 27460.719 29472.908 37719.844
+    [1646] 34277.332 13924.744        NA        NA        NA        NA        NA
+    [1653]        NA        NA        NA        NA        NA        NA        NA
+    [1660]        NA        NA        NA        NA        NA        NA 28232.899
+    [1667] 14982.887        NA        NA        NA        NA        NA        NA
+    [1674]        NA        NA        NA        NA 16174.770 20569.642 14774.576
+    [1681] 18833.352 21635.324 32572.394 12187.449 19370.803 19392.102 16632.297
+    [1688]  5377.273        NA        NA 23448.023 14761.442 11604.348 23534.429
+    [1695]  9281.354  9834.976 17027.469 21378.646 17590.220 12881.025  9296.020
+    [1702] 10858.643        NA        NA        NA        NA 15904.288 23556.847
+    [1709] 36220.955 38910.202 18821.051 22600.847 19016.176 16736.994 23693.439
+    [1716] 19051.178 27100.792 34765.680 27195.508 18182.832  6814.327 11376.368
+    [1723] 22674.026 23203.537 21477.512 18157.549 29318.812 22952.481 13548.290
+    [1730] 31334.581 27654.216 28349.191  8292.326 17368.521        NA 21798.163
+    [1737] 16823.392 25078.703 24677.706 15408.767 14150.073        NA        NA
+    [1744]        NA        NA        NA        NA        NA        NA        NA
+    [1751]        NA        NA        NA        NA        NA        NA        NA
+    [1758] 12331.711 26431.276 16776.572 15777.447 24021.294 11764.069 19046.205
+    [1765]        NA        NA        NA        NA        NA        NA        NA
+    [1772]        NA        NA        NA        NA        NA        NA 17824.469
+    [1779] 28799.847 25204.309 22666.188 22808.695 30959.145 24565.109 16851.416
+    [1786] 28740.313 10553.473 26008.277 26388.209 26025.035 21259.484        NA
+    [1793]        NA        NA        NA        NA        NA        NA        NA
+    [1800] 23918.996 31752.072 23216.490 20802.670 22719.603 11999.193 21133.799
+    [1807] 18570.282 22823.147 32281.717 25056.853        NA        NA        NA
+    [1814]        NA        NA 23511.941 26530.522 22167.265 29333.305 31132.321
+    [1821] 28690.215 19607.710 20907.880 17332.327  6808.973 28815.677 26084.635
+    [1828] 24595.957 25610.134        NA        NA        NA        NA        NA
+    [1835] 17927.678 10164.759 23376.697 19481.017 23800.375 34814.743 27998.169
+    [1842] 12943.288 27040.087 38036.913  8886.664 22609.638 25715.002 20238.727
+    [1849] 13938.893 12275.011 11049.275 21951.677        NA        NA        NA
+    [1856]        NA        NA        NA 17147.751 25711.004 12260.204 20938.924
+    [1863] 17393.086 31541.651 23919.745        NA        NA        NA        NA
+    [1870]        NA        NA        NA        NA  7011.122 14106.472 23328.753
+    [1877] 24665.271 19057.396 11441.323 34517.864 20976.047 21301.779        NA
+    [1884]        NA 31513.703 29549.548 11870.779        NA        NA        NA
+    [1891] 25061.421 14267.480 30195.631 11751.299        NA        NA 22836.271
+    [1898] 13095.825 29478.031 12650.336 36983.333 17467.765 20094.136 20429.608
+    [1905]        NA        NA        NA        NA 19009.165 15463.824 36887.301
+    [1912] 21963.216 19642.219 25583.160 19193.137 27842.420 29760.947 21805.354
+    [1919] 22798.478 26212.786 24183.571 18980.800 12207.654 25412.732 23379.249
+    [1926] 14001.145 29574.281 21210.794 32880.030 24972.975 11475.376 22048.399
+    [1933] 18282.092 21793.046 17460.228 26134.140 22465.647 11595.537 17314.941
+    [1940] 16668.270 16245.348 14417.256 13629.876 16050.135 18272.277
+    
+    $alpha
+    [1] 85.00893
+    
+    $beta
+    [1]  9.8147084 -0.1580221
+    
+    $shape_Srv_ftm_stts_cn
+    [1] 1.17795
+    
+    $tau_copper
+    [1] 0.0001977264
+    
+
+# mod2a0 model
+
+    JAGS model:
+    
+    model { 
+    
+       # Weibull survival model for Srv_ftm_stts_cn ------------------------------------
+      for (i in 1:1945) {
+        Srv_ftm_stts_cn[i] ~ dgen.gamma(1, rate_Srv_ftm_stts_cn[i], shape_Srv_ftm_stts_cn)
+        cens_Srv_ftm_stts_cn[i] ~ dinterval(Srv_ftm_stts_cn[i], M_lvlone[i, 1])
+        log(rate_Srv_ftm_stts_cn[i]) <- -(M_lvlone[i, 4] * beta[1] +
+                                          (M_lvlone[i, 3] - spM_lvlone[3, 1])/spM_lvlone[3, 2] * beta[2])
+      }
+    
+    
+      # Priors for the model for Srv_ftm_stts_cn
+      for (k in 1:2) {
+        beta[k] ~ dnorm(mu_reg_surv, tau_reg_surv)
+      }
+    
+      shape_Srv_ftm_stts_cn ~ dexp(0.01)
+    
+    
+    
+    
+      # Normal model for copper -------------------------------------------------------
+      for (i in 1:1945) {
+        M_lvlone[i, 3] ~ dnorm(mu_copper[i], tau_copper)
+        mu_copper[i] <- M_lvlone[i, 4] * alpha[1]
+      }
+    
+      # Priors for the model for copper
+      for (k in 1:1) {
+        alpha[k] ~ dnorm(mu_reg_norm, tau_reg_norm)
+      }
+      tau_copper ~ dgamma(shape_tau_norm, rate_tau_norm)
+      sigma_copper <- sqrt(1/tau_copper)
+     
+     
+    }
+    Fully observed variables:
+     cens_Srv_ftm_stts_cn mu_reg_norm mu_reg_surv rate_tau_norm shape_tau_norm tau_reg_norm tau_reg_surv 
+    Partially observed variables:
+     M_lvlone Srv_ftm_stts_cn spM_lvlone 
+
+# mod2a model
+
+    JAGS model:
+    
+    model { 
+    
+       # Weibull survival model for Srv_ftm_stts_cn ------------------------------------
+      for (i in 1:1945) {
+        Srv_ftm_stts_cn[i] ~ dgen.gamma(1, rate_Srv_ftm_stts_cn[i], shape_Srv_ftm_stts_cn)
+        cens_Srv_ftm_stts_cn[i] ~ dinterval(Srv_ftm_stts_cn[i], M_lvlone[i, 1])
+        log(rate_Srv_ftm_stts_cn[i]) <- -(M_lvlone[i, 4] * beta[1] +
+                                          (M_lvlone[i, 3] - spM_lvlone[3, 1])/spM_lvlone[3, 2] * beta[2])
+      }
+    
+    
+      # Priors for the model for Srv_ftm_stts_cn
+      for (k in 1:2) {
+        beta[k] ~ dnorm(mu_reg_surv, tau_reg_surv)
+      }
+    
+      shape_Srv_ftm_stts_cn ~ dexp(0.01)
+    
+    
+    
+    
+      # Normal model for copper -------------------------------------------------------
+      for (i in 1:1945) {
+        M_lvlone[i, 3] ~ dnorm(mu_copper[i], tau_copper)
+        mu_copper[i] <- M_lvlone[i, 4] * alpha[1]
+      }
+    
+      # Priors for the model for copper
+      for (k in 1:1) {
+        alpha[k] ~ dnorm(mu_reg_norm, tau_reg_norm)
+      }
+      tau_copper ~ dgamma(shape_tau_norm, rate_tau_norm)
+      sigma_copper <- sqrt(1/tau_copper)
+     
+     
+    }
+    Fully observed variables:
+     cens_Srv_ftm_stts_cn mu_reg_norm mu_reg_surv rate_tau_norm shape_tau_norm tau_reg_norm tau_reg_surv 
+    Partially observed variables:
+     M_lvlone Srv_ftm_stts_cn spM_lvlone 
 
 # mod2a MCMC
 
