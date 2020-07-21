@@ -16,6 +16,30 @@ test_that("seed works", {
   )
 })
 
+
+m2a = survreg_imp(Surv(futime, status != "censored") ~ copper, data = PBC,
+                  n.adapt = 5, n.iter = 10, seed = 2020,
+                  mess = FALSE, warn = FALSE)
+
+test_that("mod2a data list", {
+  expect_snapshot_output(
+    m2a$data_list
+  )
+})
+
+
+test_that("mod2a inits", {
+  expect_snapshot_output(
+    m2a$inits
+  )
+})
+
+test_that("mod2a MCMC", {
+  expect_snapshot_output(
+    m2a$MCMC
+  )
+})
+
 # test_that("seed works", {
 #   expect_snapshot_output(myfun(5, seed = 123))
 # })
