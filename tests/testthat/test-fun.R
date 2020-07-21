@@ -1,7 +1,21 @@
-# context("test")
-#
-# library("testpack")
-#
+context("test")
+
+library("testpack")
+
+
+
+test_that("rng works", {
+  expect_snapshot_output(
+    get_rng(123, 3)
+  )
+})
+
+test_that("seed works", {
+  expect_snapshot_output(
+    get_initial_values(inits = NULL, seed = 123, n.chains = 3, warn = FALSE)
+  )
+})
+
 # test_that("seed works", {
 #   expect_snapshot_output(myfun(5, seed = 123))
 # })
