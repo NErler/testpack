@@ -2,7 +2,7 @@ context("test")
 
 library("testpack")
 
-
+Sys.setenv("IS_CHECK" = "true")
 
 test_that("rng works", {
   expect_snapshot_output(
