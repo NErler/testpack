@@ -1,6 +1,7 @@
 context("survreg models")
 library("testpack")
 
+Sys.setenv("IS_CHECK" = "true")
 
 PBC2 <- PBC[match(unique(PBC$id), PBC$id), ]
 PBC2$center <- cut(as.numeric(PBC2$id), c(-Inf, seq(30, 270, 30), Inf))
@@ -66,6 +67,15 @@ test_that("inits are the same", {
     lapply(lapply(models, "[[", "mcmc_settings"), "[[", "inits")
   )
 })
+
+
+
+test_that("data lists are the same", {
+  expect_snapshot_output(
+    lapply(models, "[[", "data_list")
+  )
+})
+
 
 test_that("MCMC is the same", {
   expect_snapshot_output(
