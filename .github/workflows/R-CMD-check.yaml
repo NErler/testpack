@@ -61,7 +61,7 @@ jobs:
           RHUB_PLATFORM: linux-x86_64-ubuntu-gcc
         run: |
           wget "https://cloud.r-project.org/bin/linux/ubuntu/xenial-cran40/jags_4.3.0-3xenial0_amd64.deb"
-          sudo apt-get install -f ags_4.3.0-3xenial0_amd64.deb
+          sudo apt-get install -f jags_4.3.0-3xenial0_amd64.deb
           # sudo apt-get update -y
           # sudo apt-get install jags
           # https://cloud.r-project.org/bin/linux/ubuntu/xenial-cran40/jags_4.3.0-3xenial0_amd64.deb
