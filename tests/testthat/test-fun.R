@@ -30,6 +30,16 @@ test_that("mod2a data list", {
   )
 })
 
+test_that('jags version', {
+  expect_snapshot_output(
+    cat(paste0(
+      'JAGS: ', rjags::jags.version(), "\n",
+        "rjags: ", packageVersion("rjags"), "\n")
+    )
+  )
+})
+
+
 
 test_that("mod2a samplers", {
   expect_snapshot_output(
