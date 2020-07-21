@@ -77,8 +77,16 @@ get_MIdat <- function(object, m = 10, include = TRUE,
   if (is.null(object$MCMC))
     errormsg("The object does not contain any MCMC samples.")
 
+
+  oldseed <- .Random.seed
+  on.exit({
+    .Random.seed <<- oldseed
+  })
+
   # set seed value if provided
-  if (!is.null(seed)) set.seed(seed)
+  if (!is.null(seed)) {
+    set_seed(seed)
+  }
 
 
   # extract original data and add

@@ -272,7 +272,7 @@ NULL
 #' @name PBC
 NULL
 
-
+#
 # PBC <- merge(survival::pbcseq,
 #              subset(survival::pbc, select = c(id, copper, trig))
 # )

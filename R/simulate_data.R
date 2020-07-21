@@ -46,8 +46,14 @@ sim_data <- function(N = 100, Jmin = 1, Jmax = 6, tmin = 0, tmax = 5,
                      coef = NULL, misvar = NULL, nmisvar = 7,
                      seed = NULL) {
 
-  if (!is.null(seed))
-    set.seed(seed)
+  oldseed <- .Random.seed
+  on.exit({
+    .Random.seed <<- oldseed
+  })
+
+  if (!is.null(seed)) {
+    set_seed(seed)
+  }
 
   # time-constant covariates --------------------------------------------------
   if (length(norm) > 0) {

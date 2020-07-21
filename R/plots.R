@@ -118,7 +118,7 @@ traceplot.testpack <- function(object, start = NULL, end = NULL, thin = NULL,
 #'               can be passed to \code{\link[graphics]{abline}} to create
 #'               vertical lines.
 #'               Each of the list elements needs to contain at least
-#'               \code{v = \<x location\>}, where \<x location\> is a vector of the
+#'               \code{v = <x location>}, where <x location> is a vector of the
 #'               same length as the number of plots (see examples).
 #' @param joined logical; should the chains be combined before plotting?
 #' @param ... additional parameters passed to \code{\link[base]{plot}}

@@ -1,5 +1,5 @@
 context("survreg models")
-library("JointAI")
+library("testpack")
 
 
 PBC2 <- PBC[match(unique(PBC$id), PBC$id), ]
@@ -23,29 +23,35 @@ run_survreg_models <- function() {
 
       # no covariates
       m0a = survreg_imp(Surv(futime, status != "censored") ~ 1, data = PBC2,
-                        n.adapt = 5, n.iter = 10, seed = 2020),
+                        n.adapt = 5, n.iter = 10, seed = 2020,
+                        mess = FALSE, warn = FALSE),
 
       # only complete
       m1a = survreg_imp(Surv(futime, status != "censored") ~ age + sex,
-                        data = PBC2, n.adapt = 5, n.iter = 10, seed = 2020),
+                        data = PBC2, n.adapt = 5, n.iter = 10, seed = 2020,
+                        mess = FALSE, warn = FALSE),
       m1b = survreg_imp(Surv(futime, I(status != "censored")) ~ age + sex,
-                        data = PBC2, n.adapt = 5, n.iter = 10, seed = 2020),
+                        data = PBC2, n.adapt = 5, n.iter = 10, seed = 2020,
+                        mess = FALSE, warn = FALSE),
 
       # only incomplete
       m2a = survreg_imp(Surv(futime, status != "censored") ~ copper, data = PBC2,
-                        n.adapt = 5, n.iter = 10, seed = 2020),
+                        n.adapt = 5, n.iter = 10, seed = 2020,
+                        mess = FALSE, warn = FALSE),
 
 
       # complex structures
       m3a = survreg_imp(Surv(futime, status != "censored") ~ copper + sex + age +
                           abs(age - copper) + log(trig),
                         data = PBC2, trunc = list(trig = c(0.0001, NA)),
-                        n.adapt = 5, n.iter = 10, seed = 2020),
+                        n.adapt = 5, n.iter = 10, seed = 2020,
+                        mess = FALSE, warn = FALSE),
 
       m3b = survreg_imp(Surv(futime, status != "censored") ~ copper + sex + age +
                           abs(age - copper) + log(trig) + (1 | center),
                         data = PBC2, trunc = list(trig = c(0.0001, NA)),
-                        n.adapt = 5, n.iter = 10, seed = 2020)
+                        n.adapt = 5, n.iter = 10, seed = 2020,
+                        mess = FALSE, warn = FALSE)
     )
   }
   )
@@ -58,7 +64,7 @@ models <- run_survreg_models()
 
 test_that("models run", {
   for (k in seq_along(models)) {
-    expect_s3_class(models[[k]], "JointAI")
+    expect_s3_class(models[[k]], "testpack")
   }
 })
 
@@ -101,7 +107,7 @@ test_that("summary output remained the same", {
 
 
 test_that("prediction works", {
-  expect_s3_class(predict(models$m3b, type = "lp")$fitted, "data.frame")
+  expect_s3_class(predict(models$m3b, type = "lp", warn = FALSE)$fitted, "data.frame")
   expect_s3_class(predict(models$m3b, type = "response", warn = FALSE)$fitted,
                   "data.frame")
 })
@@ -109,8 +115,8 @@ test_that("prediction works", {
 
 test_that("residuals", {
   # residuals are not yet implemented
-  expect_error(residuals(models$m3b, type = "working"))
-  expect_error(residuals(models$m3b, type = "response"))
+  expect_error(residuals(models$m3b, type = "working", warn = FALSE))
+  expect_error(residuals(models$m3b, type = "response", warn = FALSE))
 })
 
 
@@ -125,23 +131,28 @@ test_that("wrong models give errors", {
   # time-varying covariate
   expect_error(survreg_imp(Surv(futime, status != "censored") ~ copper + sex +
                              albumin + (1 | id) + (1 | center), timevar = "day",
-                           data = PBC, n.adapt = 5, n.iter = 10, seed = 2020))
+                           data = PBC, n.adapt = 5, n.iter = 10, seed = 2020,
+                           mess = FALSE, warn = FALSE))
 
   # more than two event types
   expect_error(survreg_imp(Surv(futime, status) ~ copper + sex,
-                           data = PBC2, n.adapt = 5, n.iter = 10, seed = 2020))
+                           data = PBC2, n.adapt = 5, n.iter = 10, seed = 2020,
+                           mess = FALSE, warn = FALSE))
 
   # missing values in event time
   expect_error(survreg_imp(Surv(futime2, status != "censored") ~ copper + sex,
-                           data = PBC2, n.adapt = 5, n.iter = 10, seed = 2020))
+                           data = PBC2, n.adapt = 5, n.iter = 10, seed = 2020,
+                           mess = FALSE, warn = FALSE))
 
   # missing values in event status
   expect_error(survreg_imp(Surv(futime, status2 != "censored") ~ copper + sex,
-                           data = PBC2, n.adapt = 5, n.iter = 10, seed = 2020))
+                           data = PBC2, n.adapt = 5, n.iter = 10, seed = 2020,
+                           mess = FALSE, warn = FALSE))
 
   # wrong outcome
   expect_error(survreg_imp(futime ~ copper + sex,
-                           data = PBC2, n.adapt = 5, n.iter = 10, seed = 2020))
+                           data = PBC2, n.adapt = 5, n.iter = 10, seed = 2020,
+                           mess = FALSE, warn = FALSE))
 
   # no argument formula
   expect_error(survreg_imp(fixed = futime ~ copper + sex,
