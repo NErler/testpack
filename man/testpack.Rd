@@ -43,8 +43,6 @@ As far as possible, the specification of these functions is analogous to the
 specification of widely used functions for the analysis of complete data,
 such as
 \code{\link[stats]{lm}}, \code{\link[stats]{glm}},
-\code{\link[ordinal]{clm}} (from the package
-\href{https://CRAN.R-project.org/package=ordinal}{\strong{ordinal}}),
 \code{\link[nlme]{lme}} (from the package
 \href{https://CRAN.R-project.org/package=nlme}{\strong{nlme}}),
 \code{\link[survival]{survreg}} (from the package
