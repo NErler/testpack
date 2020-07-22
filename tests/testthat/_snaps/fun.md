@@ -2520,11 +2520,6 @@
       NA   NA   NA   NA   NA   NA   NA   NA   NA 
     
 
-# jags version
-
-    JAGS: 4.3.0
-    rjags: 4.10
-
 # mod2a samplers
 
     $`bugs::Censored`

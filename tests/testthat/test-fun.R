@@ -30,24 +30,16 @@ test_that("mod2a data list", {
   )
 })
 
-test_that('jags version', {
-  expect_snapshot_output(
-    cat(paste0(
-      'JAGS: ', rjags::jags.version(), "\n",
-        "rjags: ", packageVersion("rjags"), "\n")
-    )
-  )
-})
-
-
 
 test_that("mod2a samplers", {
+  skip_if(rjags::jags.version() < "4.3.0")
   expect_snapshot_output(
     rjags::list.samplers(m2a$model)
   )
 })
 
 test_that("mod2a0 state", {
+  skip_if(rjags::jags.version() < "4.3.0")
   expect_snapshot_output(
     coef(m2a0$model)
   )
@@ -55,6 +47,7 @@ test_that("mod2a0 state", {
 
 
 test_that("mod2a0 model", {
+  skip_if(rjags::jags.version() < "4.3.0")
   expect_snapshot_output(
     m2a0$model
   )
@@ -62,12 +55,14 @@ test_that("mod2a0 model", {
 
 
 test_that("mod2a model", {
+  skip_if(rjags::jags.version() < "4.3.0")
   expect_snapshot_output(
     m2a$model
   )
 })
 
 test_that("mod2a MCMC", {
+  skip_if(rjags::jags.version() < "4.3.0")
   expect_snapshot_output(
     m2a$MCMC
   )

@@ -18,10 +18,10 @@ jobs:
       fail-fast: false
       matrix:
         config:
-         # - {os: macOS-latest,   r: 'devel'}
-         # - {os: macOS-latest,   r: 'release'}
-         # - {os: windows-latest, r: 'release'}
-         # - {os: windows-latest, r: '3.6'}
+          - {os: macOS-latest,   r: 'devel'}
+          - {os: macOS-latest,   r: 'release'}
+          - {os: windows-latest, r: 'release'}
+          - {os: windows-latest, r: '3.6'}
           - {os: ubuntu-16.04,   r: 'release', rspm: "https://packagemanager.rstudio.com/cran/__linux__/xenial/latest"}
           - {os: ubuntu-16.04,   r: 'oldrel',  rspm: "https://packagemanager.rstudio.com/cran/__linux__/xenial/latest"}
           - {os: ubuntu-16.04,   r: '3.5',     rspm: "https://packagemanager.rstudio.com/cran/__linux__/xenial/latest"}
@@ -52,36 +52,34 @@ jobs:
         uses: actions/cache@v1
         with:
           path: ${{ env.R_LIBS_USER }}
-          key: ${{ runner.os }}-${{ hashFiles('.github/R-version') }}-3-${{ hashFiles('.github/depends.Rds') }}
-          restore-keys: ${{ runner.os }}-${{ hashFiles('.github/R-version') }}-3-
+          key: ${{ runner.os }}-${{ hashFiles('.github/R-version') }}-1-${{ hashFiles('.github/depends.Rds') }}
+          restore-keys: ${{ runner.os }}-${{ hashFiles('.github/R-version') }}-1-
 
       - name: Install system dependencies
         if: runner.os == 'Linux'
         env:
           RHUB_PLATFORM: linux-x86_64-ubuntu-gcc
         run: |
-          sudo add-apt-repository ppa:marutter/rrutter4.0
-          sudo apt-get update
-          sudo apt-get install jags
+          Rscript -e "remotes::install_github('r-hub/sysreqs')"
+          sysreqs=$(Rscript -e "cat(sysreqs::sysreq_commands('DESCRIPTION'))")
+          sudo -s eval "$sysreqs"
+          # sudo add-apt-repository ppa:marutter/rrutter4.0
+          # sudo apt-get update
+          # sudo apt-get install jags
           # wget "https://cloud.r-project.org/bin/linux/ubuntu/xenial-cran40/jags_4.3.0-3xenial0_amd64.deb"
           # sudo apt-get install ./jags_4.3.0-3xenial0_amd64.deb
           # sudo dpkg -i jags_4.3.0-3xenial0_amd64.deb
           # sudo apt-get install -f
           # sudo apt-get update -y
           # sudo apt-get install jags
-          # https://cloud.r-project.org/bin/linux/ubuntu/xenial-cran40/jags_4.3.0-3xenial0_amd64.deb
-
-          # Rscript -e "remotes::install_github('r-hub/sysreqs')"
-          # sysreqs=$(Rscript -e "cat(sysreqs::sysreq_commands('DESCRIPTION'))")
-          # sudo -s eval "$sysreqs"
 
       - name: Install JAGS macOS release
         if: matrix.config.os == 'macOS-latest' && matrix.config.r == 'release'
-        run: |
-          rm '/usr/local/bin/gfortran'
-          brew install gcc
-          brew link --overwrite gcc
-          brew install jags
+        run: brew install jags
+          # rm '/usr/local/bin/gfortran'
+          # brew install gcc
+          # brew link --overwrite gcc
+          # brew install jags
 
       - name: Install JAGS macOS devel
         if: matrix.config.os == 'macOS-latest' && matrix.config.r == 'devel'
@@ -105,7 +103,6 @@ jobs:
         run: |
           remotes::install_deps(dependencies = TRUE)
           remotes::install_cran("rcmdcheck")
-          remotes::install_cran("rjags")
         shell: Rscript {0}
 
       - name: Session info
