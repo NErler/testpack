@@ -4,7 +4,7 @@ library("testpack")
 Sys.setenv("IS_CHECK" = "true")
 
 set_seed(1234)
-longDF <- JointAI::longDF
+longDF <- testpack::longDF
 # gamma variables
 longDF$L1 <- rgamma(nrow(longDF), 2, 4)
 longDF$L1mis <- rgamma(nrow(longDF), 2, 4)
