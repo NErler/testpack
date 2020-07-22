@@ -18,7 +18,7 @@ jobs:
       fail-fast: false
       matrix:
         config:
-          - {os: macOS-latest,   r: 'devel'}
+          # - {os: macOS-latest,   r: 'devel'}
           - {os: macOS-latest,   r: 'release'}
           - {os: windows-latest, r: 'release'}
           - {os: windows-latest, r: '3.6'}
@@ -75,11 +75,11 @@ jobs:
 
       - name: Install JAGS macOS release
         if: matrix.config.os == 'macOS-latest' && matrix.config.r == 'release'
-        run: brew install jags
-          # rm '/usr/local/bin/gfortran'
-          # brew install gcc
-          # brew link --overwrite gcc
-          # brew install jags
+        run: |
+          rm '/usr/local/bin/gfortran'
+          brew install gcc
+          brew link --overwrite gcc
+          brew install jags
 
       - name: Install JAGS macOS devel
         if: matrix.config.os == 'macOS-latest' && matrix.config.r == 'devel'
