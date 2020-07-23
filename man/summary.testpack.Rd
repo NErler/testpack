@@ -2,11 +2,26 @@
 % Please edit documentation in R/summary.JointAI.R
 \name{summary.testpack}
 \alias{summary.testpack}
+\alias{print.summary.testpack}
+\alias{coef.testpack}
+\alias{confint.testpack}
+\alias{print.testpack}
 \title{Summarize the results from an object of class testpack}
 \usage{
 \method{summary}{testpack}(object, start = NULL, end = NULL, thin = NULL,
   quantiles = c(0.025, 0.975), subset = NULL, exclude_chains = NULL,
   missinfo = FALSE, warn = TRUE, mess = TRUE, ...)
+
+\method{print}{summary.testpack}(x, digits = max(3, .Options$digits - 4), ...)
+
+\method{coef}{testpack}(object, start = NULL, end = NULL, thin = NULL,
+  subset = NULL, exclude_chains = NULL, warn = TRUE, mess = TRUE, ...)
+
+\method{confint}{testpack}(object, parm = NULL, level = 0.95,
+  quantiles = NULL, start = NULL, end = NULL, thin = NULL,
+  subset = NULL, exclude_chains = NULL, warn = TRUE, mess = TRUE, ...)
+
+\method{print}{testpack}(x, digits = max(4, getOption("digits") - 4), ...)
 }
 \arguments{
 \item{object}{object inheriting from class 'testpack'}
@@ -44,6 +59,15 @@ given directly by \strong{testpack}.)}
 given directly by \strong{testpack}.)}
 
 \item{\dots}{currently not used}
+
+\item{x}{an object of class \code{summary.testpack} or \code{testpack}}
+
+\item{digits}{minimal number of \emph{significant} digits, see
+    \code{\link[base]{print.default}}.}
+
+\item{parm}{same as \code{subset}}
+
+\item{level}{confidence level (default is 0.95)}
 }
 \description{
 Obtain and print the \code{summary}, (fixed effects) coefficients

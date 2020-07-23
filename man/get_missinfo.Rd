@@ -2,12 +2,12 @@
 % Please edit documentation in R/summary.JointAI.R
 \name{get_missinfo}
 \alias{get_missinfo}
-\title{Obtain a summary of the missing values involved in an object of class JointAI}
+\title{Obtain a summary of the missing values involved in an object of class testpack}
 \usage{
 get_missinfo(object)
 }
 \arguments{
-\item{object}{object inheriting from class JointAI}
+\item{object}{object inheriting from class testpack}
 }
 \description{
 This function returns a \code{data.frame} or a \code{list} of

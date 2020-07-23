@@ -198,27 +198,27 @@ summary.testpack <- function(object, start = NULL, end = NULL, thin = NULL,
   out$analysis_type <- object$analysis_type
   out$size <- object$Mlist$N
 
-  class(out) <- "summary.JointAI"
+  class(out) <- "summary.testpack"
   return(out)
 }
 
 
-#' @rdname summary.JointAI
-#' @param x an object of class \code{summary.JointAI} or \code{JointAI}
+#' @rdname summary.testpack
+#' @param x an object of class \code{summary.testpack} or \code{testpack}
 #' @export
-print.summary.JointAI <- function(x, digits = max(3, .Options$digits - 4),
+print.summary.testpack <- function(x, digits = max(3, .Options$digits - 4),
                                   ...) {
 
-  if (!inherits(x, "summary.JointAI"))
-    errormsg("Use only with 'summary.JointAI' objects.")
+  if (!inherits(x, "summary.testpack"))
+    errormsg("Use only with 'summary.testpack' objects.")
 
   cat("\n")
 
   if (sum(!sapply(x$res, is.null)) > 1)
-    cat("Bayesian joint model fitted with JointAI", "\n")
+    cat("Bayesian joint model fitted with testpack", "\n")
   else
     cat('Bayesian', print_type(x$res[[1]]$modeltype, x$res[[1]]$family),
-        'fitted with JointAI\n')
+        'fitted with testpack\n')
 
   cat("\nCall:\n", paste(deparse(x$call), sep = "\n", collapse = "\n"),
       "\n", sep = "")
@@ -323,13 +323,13 @@ print.summary.JointAI <- function(x, digits = max(3, .Options$digits - 4),
 
 
 
-#' @rdname summary.JointAI
+#' @rdname summary.testpack
 #' @export
-coef.JointAI <- function(object, start = NULL, end = NULL, thin = NULL,
+coef.testpack <- function(object, start = NULL, end = NULL, thin = NULL,
                          subset = NULL, exclude_chains = NULL,
                          warn = TRUE, mess = TRUE, ...) {
 
-  if (!inherits(object, "JointAI")) errormsg("Use only with 'JointAI' objects.")
+  if (!inherits(object, "testpack")) errormsg("Use only with 'testpack' objects.")
 
   if (is.null(object$MCMC)) errormsg("There is no MCMC sample.")
 
@@ -367,12 +367,12 @@ coef.JointAI <- function(object, start = NULL, end = NULL, thin = NULL,
 }
 
 #' @export
-coef.summary.JointAI <- function(object, start = NULL, end = NULL, thin = NULL,
+coef.summary.testpack <- function(object, start = NULL, end = NULL, thin = NULL,
                                  subset = NULL, exclude_chains = NULL,
                                  warn = TRUE, mess = TRUE, ...) {
 
-  if (!inherits(object, "summary.JointAI"))
-    errormsg("Use only with 'summary.JointAI' objects.")
+  if (!inherits(object, "summary.testpack"))
+    errormsg("Use only with 'summary.testpack' objects.")
 
   Filter(Negate(is.null),
          lapply(object$res, "[[", 'regcoef')
@@ -381,17 +381,17 @@ coef.summary.JointAI <- function(object, start = NULL, end = NULL, thin = NULL,
 
 
 
-#' @rdname summary.JointAI
+#' @rdname summary.testpack
 #' @param parm same as \code{subset}
 #' @param level confidence level (default is 0.95)
 #' @export
-confint.JointAI <- function(object, parm = NULL, level = 0.95,
+confint.testpack <- function(object, parm = NULL, level = 0.95,
                             quantiles = NULL,
                             start = NULL, end = NULL, thin = NULL,
                             subset = NULL, exclude_chains = NULL,
                             warn = TRUE, mess = TRUE, ...) {
 
-  if (!inherits(object, "JointAI")) errormsg("Use only with 'JointAI' objects.")
+  if (!inherits(object, "testpack")) errormsg("Use only with 'testpack' objects.")
 
   if (is.null(object$MCMC)) errormsg("There is no MCMC sample.")
 
@@ -440,11 +440,11 @@ confint.JointAI <- function(object, parm = NULL, level = 0.95,
 }
 
 
-#' @rdname summary.JointAI
+#' @rdname summary.testpack
 #' @export
-print.JointAI <- function(x, digits = max(4, getOption("digits") - 4), ...) {
+print.testpack <- function(x, digits = max(4, getOption("digits") - 4), ...) {
 
-  if (!inherits(x, "JointAI")) errormsg("Use only with 'JointAI' objects.")
+  if (!inherits(x, "testpack")) errormsg("Use only with 'testpack' objects.")
 
 
   MCMC <- if (!is.null(x$MCMC)) {
@@ -511,14 +511,14 @@ print.modelstring <- function(x, ...) {
 
 
 
-#' Obtain a summary of the missing values involved in an object of class JointAI
+#' Obtain a summary of the missing values involved in an object of class testpack
 #'
 #' This function returns a \code{data.frame} or a \code{list} of
 #' \code{data.frame}s per grouping level. Each of the \code{data.frames}
 #' has columns \code{variable}, \code{#NA} (number of missing values) and
 #' \code{\%NA} (proportion of missing values in percent).
 #'
-#' @param object object inheriting from class JointAI
+#' @param object object inheriting from class testpack
 #'
 #' @export
 #'
@@ -529,8 +529,8 @@ print.modelstring <- function(x, ...) {
 #'
 get_missinfo <- function(object) {
 
-  if (!(inherits(object, "JointAI") | inherits(object, "JointAI_errored")))
-    errormsg("Use only with 'JointAI' objects.")
+  if (!(inherits(object, "testpack") | inherits(object, "testpack_errored")))
+    errormsg("Use only with 'testpack' objects.")
 
 
   allvars <- all_vars(c(object$fixed, object$random, object$Mlist$auxvars,
