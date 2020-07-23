@@ -1,0 +1,24 @@
+[[1]]
+[[1]]$.RNG.name
+[1] "base::Super-Duper"
+
+[[1]]$.RNG.seed
+[1] 64691
+
+
+[[2]]
+[[2]]$.RNG.name
+[1] "base::Mersenne-Twister"
+
+[[2]]$.RNG.seed
+[1] 39423
+
+
+[[3]]
+[[3]]$.RNG.name
+[1] "base::Mersenne-Twister"
+
+[[3]]$.RNG.seed
+[1] 61849
+
+

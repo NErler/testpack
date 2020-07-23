@@ -1,0 +1,2 @@
+[1] "glm::Generic"         "base::DiscreteSlicer" "base::RealSlicer"    
+[4] "base::Finite"         "bugs::ConjugateGamma" "glm::REGamma2"       

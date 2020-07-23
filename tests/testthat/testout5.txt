@@ -1,0 +1,446 @@
+[[1]]
+   glm::Generic1    glm::Generic2    glm::Generic3    glm::Generic4 
+       "beta[3]"        "beta[4]"        "beta[5]"        "beta[6]" 
+   glm::Generic5    glm::Generic6    glm::Generic7    glm::Generic8 
+  "b_c1_id[1,1]"   "b_c1_id[2,1]"   "b_c1_id[3,1]"   "b_c1_id[4,1]" 
+   glm::Generic9   glm::Generic10   glm::Generic11   glm::Generic12 
+  "b_c1_id[5,1]"   "b_c1_id[6,1]"   "b_c1_id[7,1]"   "b_c1_id[8,1]" 
+  glm::Generic13   glm::Generic14   glm::Generic15   glm::Generic16 
+  "b_c1_id[9,1]"  "b_c1_id[10,1]"  "b_c1_id[11,1]"  "b_c1_id[12,1]" 
+  glm::Generic17   glm::Generic18   glm::Generic19   glm::Generic20 
+ "b_c1_id[13,1]"  "b_c1_id[14,1]"  "b_c1_id[15,1]"  "b_c1_id[16,1]" 
+  glm::Generic21   glm::Generic22   glm::Generic23   glm::Generic24 
+ "b_c1_id[17,1]"  "b_c1_id[18,1]"  "b_c1_id[19,1]"  "b_c1_id[20,1]" 
+  glm::Generic25   glm::Generic26   glm::Generic27   glm::Generic28 
+ "b_c1_id[21,1]"  "b_c1_id[22,1]"  "b_c1_id[23,1]"  "b_c1_id[24,1]" 
+  glm::Generic29   glm::Generic30   glm::Generic31   glm::Generic32 
+ "b_c1_id[25,1]"  "b_c1_id[26,1]"  "b_c1_id[27,1]"  "b_c1_id[28,1]" 
+  glm::Generic33   glm::Generic34   glm::Generic35   glm::Generic36 
+ "b_c1_id[29,1]"  "b_c1_id[30,1]"  "b_c1_id[31,1]"  "b_c1_id[32,1]" 
+  glm::Generic37   glm::Generic38   glm::Generic39   glm::Generic40 
+ "b_c1_id[33,1]"  "b_c1_id[34,1]"  "b_c1_id[35,1]"  "b_c1_id[36,1]" 
+  glm::Generic41   glm::Generic42   glm::Generic43   glm::Generic44 
+ "b_c1_id[37,1]"  "b_c1_id[38,1]"  "b_c1_id[39,1]"  "b_c1_id[40,1]" 
+  glm::Generic45   glm::Generic46   glm::Generic47   glm::Generic48 
+ "b_c1_id[41,1]"  "b_c1_id[42,1]"  "b_c1_id[43,1]"  "b_c1_id[44,1]" 
+  glm::Generic49   glm::Generic50   glm::Generic51   glm::Generic52 
+ "b_c1_id[45,1]"  "b_c1_id[46,1]"  "b_c1_id[47,1]"  "b_c1_id[48,1]" 
+  glm::Generic53   glm::Generic54   glm::Generic55   glm::Generic56 
+ "b_c1_id[49,1]"  "b_c1_id[50,1]"  "b_c1_id[51,1]"  "b_c1_id[52,1]" 
+  glm::Generic57   glm::Generic58   glm::Generic59   glm::Generic60 
+ "b_c1_id[53,1]"  "b_c1_id[54,1]"  "b_c1_id[55,1]"  "b_c1_id[56,1]" 
+  glm::Generic61   glm::Generic62   glm::Generic63   glm::Generic64 
+ "b_c1_id[57,1]"  "b_c1_id[58,1]"  "b_c1_id[59,1]"  "b_c1_id[60,1]" 
+  glm::Generic65   glm::Generic66   glm::Generic67   glm::Generic68 
+ "b_c1_id[61,1]"  "b_c1_id[62,1]"  "b_c1_id[63,1]"  "b_c1_id[64,1]" 
+  glm::Generic69   glm::Generic70   glm::Generic71   glm::Generic72 
+ "b_c1_id[65,1]"  "b_c1_id[66,1]"  "b_c1_id[67,1]"  "b_c1_id[68,1]" 
+  glm::Generic73   glm::Generic74   glm::Generic75   glm::Generic76 
+ "b_c1_id[69,1]"  "b_c1_id[70,1]"  "b_c1_id[71,1]"  "b_c1_id[72,1]" 
+  glm::Generic77   glm::Generic78   glm::Generic79   glm::Generic80 
+ "b_c1_id[73,1]"  "b_c1_id[74,1]"  "b_c1_id[75,1]"  "b_c1_id[76,1]" 
+  glm::Generic81   glm::Generic82   glm::Generic83   glm::Generic84 
+ "b_c1_id[77,1]"  "b_c1_id[78,1]"  "b_c1_id[79,1]"  "b_c1_id[80,1]" 
+  glm::Generic85   glm::Generic86   glm::Generic87   glm::Generic88 
+ "b_c1_id[81,1]"  "b_c1_id[82,1]"  "b_c1_id[83,1]"  "b_c1_id[84,1]" 
+  glm::Generic89   glm::Generic90   glm::Generic91   glm::Generic92 
+ "b_c1_id[85,1]"  "b_c1_id[86,1]"  "b_c1_id[87,1]"  "b_c1_id[88,1]" 
+  glm::Generic93   glm::Generic94   glm::Generic95   glm::Generic96 
+ "b_c1_id[89,1]"  "b_c1_id[90,1]"  "b_c1_id[91,1]"  "b_c1_id[92,1]" 
+  glm::Generic97   glm::Generic98   glm::Generic99  glm::Generic100 
+ "b_c1_id[93,1]"  "b_c1_id[94,1]"  "b_c1_id[95,1]"  "b_c1_id[96,1]" 
+ glm::Generic101  glm::Generic102  glm::Generic103  glm::Generic104 
+ "b_c1_id[97,1]"  "b_c1_id[98,1]"  "b_c1_id[99,1]" "b_c1_id[100,1]" 
+   glm::Generic1    glm::Generic2    glm::Generic1    glm::Generic2 
+       "beta[1]"        "beta[2]"       "alpha[1]"       "alpha[2]" 
+   glm::Generic1    glm::Generic2    glm::Generic3    glm::Generic4 
+      "alpha[8]"       "alpha[9]"   "b_c2_id[1,1]"   "b_c2_id[2,1]" 
+   glm::Generic5    glm::Generic6    glm::Generic7    glm::Generic8 
+  "b_c2_id[3,1]"   "b_c2_id[4,1]"   "b_c2_id[5,1]"   "b_c2_id[6,1]" 
+   glm::Generic9   glm::Generic10   glm::Generic11   glm::Generic12 
+  "b_c2_id[7,1]"   "b_c2_id[8,1]"   "b_c2_id[9,1]"  "b_c2_id[10,1]" 
+  glm::Generic13   glm::Generic14   glm::Generic15   glm::Generic16 
+ "b_c2_id[11,1]"  "b_c2_id[12,1]"  "b_c2_id[13,1]"  "b_c2_id[14,1]" 
+  glm::Generic17   glm::Generic18   glm::Generic19   glm::Generic20 
+ "b_c2_id[15,1]"  "b_c2_id[16,1]"  "b_c2_id[17,1]"  "b_c2_id[18,1]" 
+  glm::Generic21   glm::Generic22   glm::Generic23   glm::Generic24 
+ "b_c2_id[19,1]"  "b_c2_id[20,1]"  "b_c2_id[21,1]"  "b_c2_id[22,1]" 
+  glm::Generic25   glm::Generic26   glm::Generic27   glm::Generic28 
+ "b_c2_id[23,1]"  "b_c2_id[24,1]"  "b_c2_id[25,1]"  "b_c2_id[26,1]" 
+  glm::Generic29   glm::Generic30   glm::Generic31   glm::Generic32 
+ "b_c2_id[27,1]"  "b_c2_id[28,1]"  "b_c2_id[29,1]"  "b_c2_id[30,1]" 
+  glm::Generic33   glm::Generic34   glm::Generic35   glm::Generic36 
+ "b_c2_id[31,1]"  "b_c2_id[32,1]"  "b_c2_id[33,1]"  "b_c2_id[34,1]" 
+  glm::Generic37   glm::Generic38   glm::Generic39   glm::Generic40 
+ "b_c2_id[35,1]"  "b_c2_id[36,1]"  "b_c2_id[37,1]"  "b_c2_id[38,1]" 
+  glm::Generic41   glm::Generic42   glm::Generic43   glm::Generic44 
+ "b_c2_id[39,1]"  "b_c2_id[40,1]"  "b_c2_id[41,1]"  "b_c2_id[42,1]" 
+  glm::Generic45   glm::Generic46   glm::Generic47   glm::Generic48 
+ "b_c2_id[43,1]"  "b_c2_id[44,1]"  "b_c2_id[45,1]"  "b_c2_id[46,1]" 
+  glm::Generic49   glm::Generic50   glm::Generic51   glm::Generic52 
+ "b_c2_id[47,1]"  "b_c2_id[48,1]"  "b_c2_id[49,1]"  "b_c2_id[50,1]" 
+  glm::Generic53   glm::Generic54   glm::Generic55   glm::Generic56 
+ "b_c2_id[51,1]"  "b_c2_id[52,1]"  "b_c2_id[53,1]"  "b_c2_id[54,1]" 
+  glm::Generic57   glm::Generic58   glm::Generic59   glm::Generic60 
+ "b_c2_id[55,1]"  "b_c2_id[56,1]"  "b_c2_id[57,1]"  "b_c2_id[58,1]" 
+  glm::Generic61   glm::Generic62   glm::Generic63   glm::Generic64 
+ "b_c2_id[59,1]"  "b_c2_id[60,1]"  "b_c2_id[61,1]"  "b_c2_id[62,1]" 
+  glm::Generic65   glm::Generic66   glm::Generic67   glm::Generic68 
+ "b_c2_id[63,1]"  "b_c2_id[64,1]"  "b_c2_id[65,1]"  "b_c2_id[66,1]" 
+  glm::Generic69   glm::Generic70   glm::Generic71   glm::Generic72 
+ "b_c2_id[67,1]"  "b_c2_id[68,1]"  "b_c2_id[69,1]"  "b_c2_id[70,1]" 
+  glm::Generic73   glm::Generic74   glm::Generic75   glm::Generic76 
+ "b_c2_id[71,1]"  "b_c2_id[72,1]"  "b_c2_id[73,1]"  "b_c2_id[74,1]" 
+  glm::Generic77   glm::Generic78   glm::Generic79   glm::Generic80 
+ "b_c2_id[75,1]"  "b_c2_id[76,1]"  "b_c2_id[77,1]"  "b_c2_id[78,1]" 
+  glm::Generic81   glm::Generic82   glm::Generic83   glm::Generic84 
+ "b_c2_id[79,1]"  "b_c2_id[80,1]"  "b_c2_id[81,1]"  "b_c2_id[82,1]" 
+  glm::Generic85   glm::Generic86   glm::Generic87   glm::Generic88 
+ "b_c2_id[83,1]"  "b_c2_id[84,1]"  "b_c2_id[85,1]"  "b_c2_id[86,1]" 
+  glm::Generic89   glm::Generic90   glm::Generic91   glm::Generic92 
+ "b_c2_id[87,1]"  "b_c2_id[88,1]"  "b_c2_id[89,1]"  "b_c2_id[90,1]" 
+  glm::Generic93   glm::Generic94   glm::Generic95   glm::Generic96 
+ "b_c2_id[91,1]"  "b_c2_id[92,1]"  "b_c2_id[93,1]"  "b_c2_id[94,1]" 
+  glm::Generic97   glm::Generic98   glm::Generic99  glm::Generic100 
+ "b_c2_id[95,1]"  "b_c2_id[96,1]"  "b_c2_id[97,1]"  "b_c2_id[98,1]" 
+ glm::Generic101  glm::Generic102    glm::Generic1    glm::Generic2 
+ "b_c2_id[99,1]" "b_c2_id[100,1]"       "alpha[6]"       "alpha[7]" 
+   glm::Generic1    glm::Generic2    glm::Generic1    glm::Generic2 
+     "alpha[10]"      "alpha[11]"      "alpha[13]"      "alpha[14]" 
+
+[[2]]
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+   "M_lvlone[329,2]"    "M_lvlone[327,2]"    "M_lvlone[325,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+   "M_lvlone[324,2]"    "M_lvlone[323,2]"    "M_lvlone[321,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+   "M_lvlone[320,2]"    "M_lvlone[312,2]"    "M_lvlone[311,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+   "M_lvlone[306,2]"    "M_lvlone[304,2]"    "M_lvlone[300,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+   "M_lvlone[296,2]"    "M_lvlone[295,2]"    "M_lvlone[294,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+   "M_lvlone[293,2]"    "M_lvlone[292,2]"    "M_lvlone[291,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+   "M_lvlone[290,2]"    "M_lvlone[288,2]"    "M_lvlone[284,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+   "M_lvlone[282,2]"    "M_lvlone[281,2]"    "M_lvlone[279,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+   "M_lvlone[276,2]"    "M_lvlone[272,2]"    "M_lvlone[270,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+   "M_lvlone[267,2]"    "M_lvlone[264,2]"    "M_lvlone[263,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+   "M_lvlone[261,2]"    "M_lvlone[260,2]"    "M_lvlone[259,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+   "M_lvlone[258,2]"    "M_lvlone[256,2]"    "M_lvlone[255,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+   "M_lvlone[254,2]"    "M_lvlone[251,2]"    "M_lvlone[249,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+   "M_lvlone[244,2]"    "M_lvlone[243,2]"    "M_lvlone[241,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+   "M_lvlone[239,2]"    "M_lvlone[238,2]"    "M_lvlone[236,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+   "M_lvlone[232,2]"    "M_lvlone[228,2]"    "M_lvlone[227,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+   "M_lvlone[225,2]"    "M_lvlone[224,2]"    "M_lvlone[223,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+   "M_lvlone[222,2]"    "M_lvlone[221,2]"    "M_lvlone[220,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+   "M_lvlone[219,2]"    "M_lvlone[218,2]"    "M_lvlone[217,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+   "M_lvlone[215,2]"    "M_lvlone[212,2]"    "M_lvlone[211,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+   "M_lvlone[210,2]"    "M_lvlone[209,2]"    "M_lvlone[207,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+   "M_lvlone[206,2]"    "M_lvlone[205,2]"    "M_lvlone[202,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+   "M_lvlone[201,2]"    "M_lvlone[200,2]"    "M_lvlone[199,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+   "M_lvlone[198,2]"    "M_lvlone[196,2]"    "M_lvlone[195,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+   "M_lvlone[194,2]"    "M_lvlone[193,2]"    "M_lvlone[189,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+   "M_lvlone[184,2]"    "M_lvlone[181,2]"    "M_lvlone[179,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+   "M_lvlone[178,2]"    "M_lvlone[175,2]"    "M_lvlone[172,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+   "M_lvlone[167,2]"    "M_lvlone[162,2]"    "M_lvlone[160,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+   "M_lvlone[159,2]"    "M_lvlone[155,2]"    "M_lvlone[154,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+   "M_lvlone[151,2]"    "M_lvlone[150,2]"    "M_lvlone[149,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+   "M_lvlone[147,2]"    "M_lvlone[140,2]"    "M_lvlone[136,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+   "M_lvlone[135,2]"    "M_lvlone[134,2]"    "M_lvlone[131,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+   "M_lvlone[130,2]"    "M_lvlone[129,2]"    "M_lvlone[128,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+   "M_lvlone[126,2]"    "M_lvlone[124,2]"    "M_lvlone[123,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+   "M_lvlone[119,2]"    "M_lvlone[118,2]"    "M_lvlone[116,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+   "M_lvlone[115,2]"    "M_lvlone[114,2]"    "M_lvlone[111,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+   "M_lvlone[109,2]"    "M_lvlone[107,2]"    "M_lvlone[104,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+   "M_lvlone[101,2]"    "M_lvlone[100,2]"     "M_lvlone[95,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+    "M_lvlone[93,2]"     "M_lvlone[91,2]"     "M_lvlone[89,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+    "M_lvlone[88,2]"     "M_lvlone[86,2]"     "M_lvlone[85,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+    "M_lvlone[84,2]"     "M_lvlone[77,2]"     "M_lvlone[71,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+    "M_lvlone[70,2]"     "M_lvlone[69,2]"     "M_lvlone[68,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+    "M_lvlone[66,2]"     "M_lvlone[63,2]"     "M_lvlone[62,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+    "M_lvlone[60,2]"     "M_lvlone[57,2]"     "M_lvlone[55,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+    "M_lvlone[53,2]"     "M_lvlone[51,2]"     "M_lvlone[49,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+    "M_lvlone[48,2]"     "M_lvlone[47,2]"     "M_lvlone[46,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+    "M_lvlone[45,2]"     "M_lvlone[43,2]"     "M_lvlone[42,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+    "M_lvlone[41,2]"     "M_lvlone[40,2]"     "M_lvlone[39,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+    "M_lvlone[38,2]"     "M_lvlone[33,2]"     "M_lvlone[30,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+    "M_lvlone[25,2]"     "M_lvlone[22,2]"     "M_lvlone[21,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+    "M_lvlone[20,2]"     "M_lvlone[19,2]"     "M_lvlone[18,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+    "M_lvlone[16,2]"     "M_lvlone[14,2]"     "M_lvlone[11,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+    "M_lvlone[10,2]"      "M_lvlone[9,2]"      "M_lvlone[8,2]" 
+base::DiscreteSlicer base::DiscreteSlicer base::DiscreteSlicer 
+     "M_lvlone[5,2]"      "M_lvlone[4,2]"      "M_lvlone[3,2]" 
+
+[[3]]
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+   "b_p2_id[100,1]"     "b_p2_id[99,1]"     "b_p2_id[98,1]"     "b_p2_id[97,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+    "b_p2_id[96,1]"     "b_p2_id[95,1]"     "b_p2_id[94,1]"     "b_p2_id[93,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+    "b_p2_id[92,1]"     "b_p2_id[91,1]"     "b_p2_id[90,1]"     "b_p2_id[89,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+    "b_p2_id[88,1]"     "b_p2_id[87,1]"     "b_p2_id[86,1]"     "b_p2_id[85,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+    "b_p2_id[84,1]"     "b_p2_id[83,1]"     "b_p2_id[82,1]"     "b_p2_id[81,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+    "b_p2_id[80,1]"     "b_p2_id[79,1]"     "b_p2_id[78,1]"     "b_p2_id[77,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+    "b_p2_id[76,1]"     "b_p2_id[75,1]"     "b_p2_id[74,1]"     "b_p2_id[73,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+    "b_p2_id[72,1]"     "b_p2_id[71,1]"     "b_p2_id[70,1]"     "b_p2_id[69,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+    "b_p2_id[68,1]"     "b_p2_id[67,1]"     "b_p2_id[66,1]"     "b_p2_id[65,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+    "b_p2_id[64,1]"     "b_p2_id[63,1]"     "b_p2_id[62,1]"     "b_p2_id[61,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+    "b_p2_id[60,1]"     "b_p2_id[59,1]"     "b_p2_id[58,1]"     "b_p2_id[57,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+    "b_p2_id[56,1]"     "b_p2_id[55,1]"     "b_p2_id[54,1]"     "b_p2_id[53,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+    "b_p2_id[52,1]"     "b_p2_id[51,1]"     "b_p2_id[50,1]"     "b_p2_id[49,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+    "b_p2_id[48,1]"     "b_p2_id[47,1]"     "b_p2_id[46,1]"     "b_p2_id[45,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+    "b_p2_id[44,1]"     "b_p2_id[43,1]"     "b_p2_id[42,1]"     "b_p2_id[41,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+    "b_p2_id[40,1]"     "b_p2_id[39,1]"     "b_p2_id[38,1]"     "b_p2_id[37,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+    "b_p2_id[36,1]"     "b_p2_id[35,1]"     "b_p2_id[34,1]"     "b_p2_id[33,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+    "b_p2_id[32,1]"     "b_p2_id[31,1]"     "b_p2_id[30,1]"     "b_p2_id[29,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+    "b_p2_id[28,1]"     "b_p2_id[27,1]"     "b_p2_id[26,1]"     "b_p2_id[25,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+    "b_p2_id[24,1]"     "b_p2_id[23,1]"     "b_p2_id[22,1]"     "b_p2_id[21,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+    "b_p2_id[20,1]"     "b_p2_id[19,1]"     "b_p2_id[18,1]"     "b_p2_id[17,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+    "b_p2_id[16,1]"     "b_p2_id[15,1]"     "b_p2_id[14,1]"     "b_p2_id[13,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+    "b_p2_id[12,1]"     "b_p2_id[11,1]"     "b_p2_id[10,1]"      "b_p2_id[9,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+     "b_p2_id[8,1]"      "b_p2_id[7,1]"      "b_p2_id[6,1]"      "b_p2_id[5,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+     "b_p2_id[4,1]"      "b_p2_id[3,1]"      "b_p2_id[2,1]"      "b_p2_id[1,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+         "alpha[5]"          "alpha[4]"          "alpha[3]"   "M_lvlone[326,3]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+  "M_lvlone[320,3]"   "M_lvlone[302,3]"   "M_lvlone[300,3]"   "M_lvlone[298,3]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+  "M_lvlone[296,3]"   "M_lvlone[283,3]"   "M_lvlone[281,3]"   "M_lvlone[274,3]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+  "M_lvlone[272,3]"   "M_lvlone[270,3]"   "M_lvlone[266,3]"   "M_lvlone[259,3]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+  "M_lvlone[255,3]"   "M_lvlone[238,3]"   "M_lvlone[232,3]"   "M_lvlone[226,3]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+  "M_lvlone[222,3]"   "M_lvlone[220,3]"   "M_lvlone[219,3]"   "M_lvlone[214,3]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+  "M_lvlone[208,3]"   "M_lvlone[205,3]"   "M_lvlone[202,3]"   "M_lvlone[201,3]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+  "M_lvlone[192,3]"   "M_lvlone[184,3]"   "M_lvlone[183,3]"   "M_lvlone[161,3]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+  "M_lvlone[160,3]"   "M_lvlone[159,3]"   "M_lvlone[154,3]"   "M_lvlone[148,3]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+  "M_lvlone[147,3]"   "M_lvlone[140,3]"   "M_lvlone[139,3]"   "M_lvlone[135,3]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+  "M_lvlone[128,3]"   "M_lvlone[121,3]"   "M_lvlone[119,3]"   "M_lvlone[116,3]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+  "M_lvlone[114,3]"   "M_lvlone[109,3]"    "M_lvlone[89,3]"    "M_lvlone[84,3]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+   "M_lvlone[67,3]"    "M_lvlone[59,3]"    "M_lvlone[58,3]"    "M_lvlone[56,3]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+   "M_lvlone[46,3]"    "M_lvlone[44,3]"    "M_lvlone[43,3]"    "M_lvlone[40,3]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+   "M_lvlone[39,3]"    "M_lvlone[33,3]"    "M_lvlone[32,3]"    "M_lvlone[29,3]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+   "M_lvlone[25,3]"    "M_lvlone[24,3]"    "M_lvlone[23,3]"    "M_lvlone[22,3]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+   "M_lvlone[21,3]"    "M_lvlone[18,3]"    "M_lvlone[10,3]"     "M_lvlone[9,3]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+    "M_lvlone[1,3]"   "M_lvlone[320,4]"   "M_lvlone[319,4]"   "M_lvlone[289,4]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+  "M_lvlone[271,4]"   "M_lvlone[265,4]"   "M_lvlone[242,4]"   "M_lvlone[194,4]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+  "M_lvlone[188,4]"   "M_lvlone[181,4]"   "M_lvlone[178,4]"   "M_lvlone[177,4]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+  "M_lvlone[148,4]"   "M_lvlone[139,4]"   "M_lvlone[129,4]"   "M_lvlone[117,4]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+  "M_lvlone[113,4]"   "M_lvlone[110,4]"    "M_lvlone[75,4]"    "M_lvlone[66,4]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+   "M_lvlone[35,4]" "b_L1mis_id[100,1]"  "b_L1mis_id[99,1]"  "b_L1mis_id[98,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+ "b_L1mis_id[97,1]"  "b_L1mis_id[96,1]"  "b_L1mis_id[95,1]"  "b_L1mis_id[94,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+ "b_L1mis_id[93,1]"  "b_L1mis_id[92,1]"  "b_L1mis_id[91,1]"  "b_L1mis_id[90,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+ "b_L1mis_id[89,1]"  "b_L1mis_id[88,1]"  "b_L1mis_id[87,1]"  "b_L1mis_id[86,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+ "b_L1mis_id[85,1]"  "b_L1mis_id[84,1]"  "b_L1mis_id[83,1]"  "b_L1mis_id[82,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+ "b_L1mis_id[81,1]"  "b_L1mis_id[80,1]"  "b_L1mis_id[79,1]"  "b_L1mis_id[78,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+ "b_L1mis_id[77,1]"  "b_L1mis_id[76,1]"  "b_L1mis_id[75,1]"  "b_L1mis_id[74,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+ "b_L1mis_id[73,1]"  "b_L1mis_id[72,1]"  "b_L1mis_id[71,1]"  "b_L1mis_id[70,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+ "b_L1mis_id[69,1]"  "b_L1mis_id[68,1]"  "b_L1mis_id[67,1]"  "b_L1mis_id[66,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+ "b_L1mis_id[65,1]"  "b_L1mis_id[64,1]"  "b_L1mis_id[63,1]"  "b_L1mis_id[62,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+ "b_L1mis_id[61,1]"  "b_L1mis_id[60,1]"  "b_L1mis_id[59,1]"  "b_L1mis_id[58,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+ "b_L1mis_id[57,1]"  "b_L1mis_id[56,1]"  "b_L1mis_id[55,1]"  "b_L1mis_id[54,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+ "b_L1mis_id[53,1]"  "b_L1mis_id[52,1]"  "b_L1mis_id[51,1]"  "b_L1mis_id[50,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+ "b_L1mis_id[49,1]"  "b_L1mis_id[48,1]"  "b_L1mis_id[47,1]"  "b_L1mis_id[46,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+ "b_L1mis_id[45,1]"  "b_L1mis_id[44,1]"  "b_L1mis_id[43,1]"  "b_L1mis_id[42,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+ "b_L1mis_id[41,1]"  "b_L1mis_id[40,1]"  "b_L1mis_id[39,1]"  "b_L1mis_id[38,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+ "b_L1mis_id[37,1]"  "b_L1mis_id[36,1]"  "b_L1mis_id[35,1]"  "b_L1mis_id[34,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+ "b_L1mis_id[33,1]"  "b_L1mis_id[32,1]"  "b_L1mis_id[31,1]"  "b_L1mis_id[30,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+ "b_L1mis_id[29,1]"  "b_L1mis_id[28,1]"  "b_L1mis_id[27,1]"  "b_L1mis_id[26,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+ "b_L1mis_id[25,1]"  "b_L1mis_id[24,1]"  "b_L1mis_id[23,1]"  "b_L1mis_id[22,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+ "b_L1mis_id[21,1]"  "b_L1mis_id[20,1]"  "b_L1mis_id[19,1]"  "b_L1mis_id[18,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+ "b_L1mis_id[17,1]"  "b_L1mis_id[16,1]"  "b_L1mis_id[15,1]"  "b_L1mis_id[14,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+ "b_L1mis_id[13,1]"  "b_L1mis_id[12,1]"  "b_L1mis_id[11,1]"  "b_L1mis_id[10,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+  "b_L1mis_id[9,1]"   "b_L1mis_id[8,1]"   "b_L1mis_id[7,1]"   "b_L1mis_id[6,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+  "b_L1mis_id[5,1]"   "b_L1mis_id[4,1]"   "b_L1mis_id[3,1]"   "b_L1mis_id[2,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+  "b_L1mis_id[1,1]"         "alpha[12]"   "M_lvlone[100,5]"    "M_lvlone[95,5]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+   "M_lvlone[90,5]"    "M_lvlone[85,5]"    "M_lvlone[80,5]"    "M_lvlone[75,5]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+   "M_lvlone[70,5]"    "M_lvlone[65,5]"    "M_lvlone[60,5]"    "M_lvlone[55,5]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+   "M_lvlone[50,5]"    "M_lvlone[45,5]"    "M_lvlone[40,5]"    "M_lvlone[35,5]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+   "M_lvlone[30,5]"    "M_lvlone[25,5]"    "M_lvlone[20,5]"    "M_lvlone[15,5]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+   "M_lvlone[10,5]"     "M_lvlone[5,5]"   "b_Be2_id[100,1]"    "b_Be2_id[99,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+   "b_Be2_id[98,1]"    "b_Be2_id[97,1]"    "b_Be2_id[96,1]"    "b_Be2_id[95,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+   "b_Be2_id[94,1]"    "b_Be2_id[93,1]"    "b_Be2_id[92,1]"    "b_Be2_id[91,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+   "b_Be2_id[90,1]"    "b_Be2_id[89,1]"    "b_Be2_id[88,1]"    "b_Be2_id[87,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+   "b_Be2_id[86,1]"    "b_Be2_id[85,1]"    "b_Be2_id[84,1]"    "b_Be2_id[83,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+   "b_Be2_id[82,1]"    "b_Be2_id[81,1]"    "b_Be2_id[80,1]"    "b_Be2_id[79,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+   "b_Be2_id[78,1]"    "b_Be2_id[77,1]"    "b_Be2_id[76,1]"    "b_Be2_id[75,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+   "b_Be2_id[74,1]"    "b_Be2_id[73,1]"    "b_Be2_id[72,1]"    "b_Be2_id[71,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+   "b_Be2_id[70,1]"    "b_Be2_id[69,1]"    "b_Be2_id[68,1]"    "b_Be2_id[67,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+   "b_Be2_id[66,1]"    "b_Be2_id[65,1]"    "b_Be2_id[64,1]"    "b_Be2_id[63,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+   "b_Be2_id[62,1]"    "b_Be2_id[61,1]"    "b_Be2_id[60,1]"    "b_Be2_id[59,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+   "b_Be2_id[58,1]"    "b_Be2_id[57,1]"    "b_Be2_id[56,1]"    "b_Be2_id[55,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+   "b_Be2_id[54,1]"    "b_Be2_id[53,1]"    "b_Be2_id[52,1]"    "b_Be2_id[51,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+   "b_Be2_id[50,1]"    "b_Be2_id[49,1]"    "b_Be2_id[48,1]"    "b_Be2_id[47,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+   "b_Be2_id[46,1]"    "b_Be2_id[45,1]"    "b_Be2_id[44,1]"    "b_Be2_id[43,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+   "b_Be2_id[42,1]"    "b_Be2_id[41,1]"    "b_Be2_id[40,1]"    "b_Be2_id[39,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+   "b_Be2_id[38,1]"    "b_Be2_id[37,1]"    "b_Be2_id[36,1]"    "b_Be2_id[35,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+   "b_Be2_id[34,1]"    "b_Be2_id[33,1]"    "b_Be2_id[32,1]"    "b_Be2_id[31,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+   "b_Be2_id[30,1]"    "b_Be2_id[29,1]"    "b_Be2_id[28,1]"    "b_Be2_id[27,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+   "b_Be2_id[26,1]"    "b_Be2_id[25,1]"    "b_Be2_id[24,1]"    "b_Be2_id[23,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+   "b_Be2_id[22,1]"    "b_Be2_id[21,1]"    "b_Be2_id[20,1]"    "b_Be2_id[19,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+   "b_Be2_id[18,1]"    "b_Be2_id[17,1]"    "b_Be2_id[16,1]"    "b_Be2_id[15,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+   "b_Be2_id[14,1]"    "b_Be2_id[13,1]"    "b_Be2_id[12,1]"    "b_Be2_id[11,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+   "b_Be2_id[10,1]"     "b_Be2_id[9,1]"     "b_Be2_id[8,1]"     "b_Be2_id[7,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+    "b_Be2_id[6,1]"     "b_Be2_id[5,1]"     "b_Be2_id[4,1]"     "b_Be2_id[3,1]" 
+   base::RealSlicer    base::RealSlicer    base::RealSlicer    base::RealSlicer 
+    "b_Be2_id[2,1]"     "b_Be2_id[1,1]"         "alpha[15]"         "tau_L1mis" 
+   base::RealSlicer 
+          "tau_Be2" 
+
+[[4]]
+base::Finite base::Finite base::Finite base::Finite base::Finite base::Finite 
+"M_id[97,1]" "M_id[96,1]" "M_id[91,1]" "M_id[69,1]" "M_id[58,1]" "M_id[44,1]" 
+base::Finite base::Finite base::Finite base::Finite 
+"M_id[24,1]" "M_id[15,1]"  "M_id[3,1]"  "M_id[2,1]" 
+
+[[5]]
+bugs::ConjugateGamma bugs::ConjugateGamma bugs::ConjugateGamma 
+            "tau_c1"         "invD_p2_id"             "tau_c2" 
+bugs::ConjugateGamma bugs::ConjugateGamma 
+     "invD_L1mis_id"        "invD_Be2_id" 
+
+[[6]]
+glm::REGamma2 glm::REGamma2 
+ "invD_c1_id"  "invD_c2_id" 
+
