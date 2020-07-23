@@ -26,24 +26,27 @@ mod <- lme_imp(c1 ~ c2 + B2 + p2 + L1mis + Be2 + (1 | id), data = longDF,
 
 
 test_that("software version is the same", {
-  expect_snapshot_output(
+  expect_known_output(
     cat(paste0("JAGS: ", rjags::jags.version(), "\n",
-               "rjags: ", packageVersion("rjags"), "\n"))
+               "rjags: ", packageVersion("rjags"), "\n")),
+    file = 'testout.txt'
   )
 })
 
 test_that("inits are the same", {
   skip_if(rjags::jags.version() < "4.3.0")
-  expect_snapshot_output(
-    mod$mcmc_settings$inits
+  expect_known_output(
+    mod$mcmc_settings$inits,
+    file = "testout2.txt"
   )
 })
 
 
 test_that("data lists are the same", {
   skip_if(rjags::jags.version() < "4.3.0")
-  expect_snapshot_output(
-    mod$data_list
+  expect_known_output(
+    mod$data_list,
+    file = "testout3.txt"
   )
 })
 
@@ -51,19 +54,20 @@ test_that("data lists are the same", {
 
 test_that("samplers are the same", {
   s <- rjags::list.samplers(mod$model)
-  expect_snapshot_output(unique(names(s)))
-  expect_snapshot_output(
+  expect_known_output(unique(names(s)),
+                      file = "testout4.txt")
+  expect_known_output(
     lapply(unique(names(s)), function(k) {
       unlist(s[names(s) == k])
-    })
+    }), file = "testout5.txt"
   )
 })
 
 
 test_that("MCMC is the same", {
   skip_if(rjags::jags.version() < "4.3.0")
-  expect_snapshot_output(
-    mod$MCMC
+  expect_known_output(
+    mod$MCMC, file = "testout6.txt"
   )
 })
 
